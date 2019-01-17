@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+<div>
+    <iframe src={{ game_link }} height="389px" width="100%" scrolling="no" frameborder="0"></iframe>
+</div>
+
+<div>
+    <td><table width="500" border="2" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top"><div align="center" class="photocaption"> Game Infomation </div></td>
+        </tr>
+        <tr>
+          <td valign="top">{{ game_info }}</td>
+        </tr>
+    </table></td>
+</div>
+
+
+<p>The local date and time is {{ moment(current_time).format('LLL') }}.</p>
+<p>That was {{ moment(current_time).fromNow(refresh=True) }}.</p>
+{% endblock %}

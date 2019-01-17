@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block page_content %}
+<div class="page-header">
+    <h1>Top 20 games by concurrent viewers on Twitch at current moment</h1>
+</div>
+
+<div>
+    <table width="800" border="0" cellpadding="1" cellspacing="0">
+    <tr valign="top">
+      <td><table width="380" border="2" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top"><div align="center" class="photocaption"> Top 20 on Twitch right now</div></td>
+        </tr>
+        <tr>
+          <td valign="top">{{ table1 }}</td>
+        </tr>
+      </table></td>
+      
+      <td><table width="380" border="2" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top"><div align="center" class="photocaption"> Top 20 of all time on Steam </div></td>
+        </tr>
+        <tr>
+          <td valign="top">{{ table3 }}</td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+</div>
+
+<div style="width: 25%">
+{{ wtf.quick_form(form) }}
+</div>
+
+
+<p>The local date and time is {{ moment(current_time).format('LLL') }}.</p>
+<p>That was {{ moment(current_time).fromNow(refresh=True) }}.</p>
+{% endblock %}
