@@ -16,6 +16,16 @@
     </table></td>
 </div>
 
+<div>
+    <td><table width="1000" border="2" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top"><div align="center" class="photocaption"> Game Database </div></td>
+        </tr>
+        <tr>
+          <td valign="top">{{ game_db }}</td>
+        </tr>
+    </table></td>
+</div>
 
 <p>The local date and time is {{ moment(current_time).format('LLL') }}.</p>
 <p>That was {{ moment(current_time).fromNow(refresh=True) }}.</p>

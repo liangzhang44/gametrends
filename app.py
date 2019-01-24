@@ -93,6 +93,7 @@ def index():
         game_info = [GameInfo('Name', df4['name']), GameInfo('Developer', df4['developer']), GameInfo('Rank', str(df4['score_rank'])+'%'),
         GameInfo('User Score', str(df4['userscore'])+'/100'), GameInfo('Number of Owners', df4['owners']), GameInfo('Price', '$'+str(int(df4['price'])/100))]
         game_info = GameTable(game_info)
+        game_db = pd.read_csv('game_db.csv')[:10]
 
-        return render_template('gamestats.html', game_link=game_link, game_info=game_info, current_time=datetime.utcnow())
+        return render_template('gamestats.html', game_link=game_link, game_info=game_info, game_db=game_db, current_time=datetime.utcnow())
     return render_template('index.html', table1=table1, table2=table2, table3=table3, form=form, current_time=datetime.utcnow())

@@ -1,0 +1,1001 @@
+,appid,average_2weeks,average_forever,ccu,developer,discount,genre,initialprice,languages,median_2weeks,median_forever,name,negative,owners,positive,price,publisher,score_rank,tags,userscore
+0,10,938,11035,20192,Valve,0,Action,999,"English, French, German, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean",42,192,Counter-Strike,3213,"10,000,000 .. 20,000,000",122294,999,Valve,97,20,96
+1,20,512,456,99,Valve,0,Action,499,"English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",491,15,Team Fortress Classic,624,"5,000,000 .. 10,000,000",3230,499,Valve,58,20,81
+2,30,531,1913,155,Valve,0,Action,499,"English, French, German, Italian, Spanish - Spain",951,16,Day of Defeat,384,"5,000,000 .. 10,000,000",3363,499,Valve,74,15,86
+3,40,989,1834,6,Valve,0,Action,499,"English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",1941,8,Deathmatch Classic,265,"5,000,000 .. 10,000,000",1244,499,Valve,56,8,80
+4,50,608,1350,97,Gearbox Software,0,Action,499,"English, French, German, Korean",74,113,Half-Life: Opposing Force,273,"5,000,000 .. 10,000,000",5079,499,Valve,90,20,94
+5,60,519,985,11,Valve,0,Action,499,"English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",89,3,Ricochet,656,"5,000,000 .. 10,000,000",2667,499,Valve,52,15,78
+6,70,660,1423,527,Valve,0,Action,999,"English, French, German, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean",33,121,Half-Life,1074,"5,000,000 .. 10,000,000",26974,999,Valve,95,20,95
+7,80,1290,1512,788,Valve,0,Action,999,"English, French, German, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean",23,31,Counter-Strike: Condition Zero,1389,"10,000,000 .. 20,000,000",11781,999,Valve,74,20,88
+8,130,612,1140,45,Gearbox Software,0,Action,499,"English, French, German",123,68,Half-Life: Blue Shift,403,"5,000,000 .. 10,000,000",3678,499,Valve,77,18,89
+9,220,351,957,864,Valve,0,Action,999,"English, French, German, Italian, Korean, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Dutch, Danish, Finnish, Japanese, Norwegian, Polish, Portuguese, Swedish, Thai",61,313,Half-Life 2,2356,"5,000,000 .. 10,000,000",66606,999,Valve,95,20,96
+10,240,422,8484,6950,Valve,0,Action,999,"English, French, German, Italian, Japanese, Korean, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Thai, Turkish",41,482,Counter-Strike: Source,3420,"10,000,000 .. 20,000,000",75156,999,Valve,93,20,95
+11,280,36,375,61,Valve,0,Action,999,"English, French, German, Italian, Japanese, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Thai, Korean",14,60,Half-Life: Source,1013,"2,000,000 .. 5,000,000",3635,999,Valve,47,20,77
+12,300,210,1316,735,Valve,0,Action,999,English,96,153,Day of Defeat: Source,1180,"5,000,000 .. 10,000,000",10343,999,Valve,74,20,88
+13,320,223,883,221,Valve,0,Action,499,English,23,42,Half-Life 2: Deathmatch,781,"10,000,000 .. 20,000,000",5902,499,Valve,71,14,86
+14,340,204,255,23,Valve,0,Action,0,"English, French, German, Italian, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Korean",20,21,Half-Life 2: Lost Coast,1003,"10,000,000 .. 20,000,000",5610,0,Valve,61,20,84
+15,360,294,305,16,Valve,0,Action,999,English,440,12,Half-Life Deathmatch: Source,463,"5,000,000 .. 10,000,000",1291,999,Valve,38,8,73
+16,380,306,474,145,Valve,0,Action,799,"English, French, German, Italian, Korean, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Dutch, Danish, Finnish, Japanese, Norwegian, Polish, Portuguese, Swedish, Thai",61,187,Half-Life 2: Episode One,499,"5,000,000 .. 10,000,000",7640,799,Valve,87,20,93
+17,400,415,480,441,Valve,0,Action,999,"English, French, German, Russian, Danish, Dutch, Finnish, Italian, Japanese, Norwegian, Polish, Portuguese, Simplified Chinese, Spanish - Spain, Swedish, Traditional Chinese, Korean",49,168,Portal,1058,"10,000,000 .. 20,000,000",50703,999,Valve,97,20,97
+18,420,574,595,196,Valve,0,Action,799,"English, French, German, Russian, Danish, Dutch, Finnish, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Simplified Chinese, Spanish - Spain, Swedish, Traditional Chinese",160,274,Half-Life 2: Episode Two,686,"5,000,000 .. 10,000,000",13564,799,Valve,93,20,95
+19,440,968,9158,58335,Valve,0,"Action, Free to Play",0,"English, Danish, Dutch, Finnish, French, German, Italian, Japanese, Norwegian, Polish, Portuguese, Russian, Simplified Chinese, Spanish - Spain, Swedish, Traditional Chinese, Korean, Czech, Hungarian, Portuguese - Brazil, Turkish, Greek, Bulgarian, Romanian, Thai, Ukrainian",131,480,Team Fortress 2,33422,"20,000,000 .. 50,000,000",509447,0,Valve,87,20,93
+20,500,578,1831,478,Valve,0,Action,999,"English, French, German, Spanish - Spain, Russian, Danish, Dutch, Finnish, Italian, Japanese, Norwegian, Polish, Portuguese, Simplified Chinese, Swedish, Traditional Chinese, Korean",87,196,Left 4 Dead,915,"5,000,000 .. 10,000,000",17502,999,Valve,93,20,94
+21,550,406,2316,11860,Valve,0,Action,999,"English, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Simplified Chinese, Spanish - Spain, Swedish, Traditional Chinese, Hungarian, Turkish",78,536,Left 4 Dead 2,8131,"10,000,000 .. 20,000,000",247096,999,Valve,95,20,96
+22,570,1533,30293,715292,Valve,0,"Action, Free to Play, Strategy",0,"English, Bulgarian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",823,557,Dota 2,136908,"100,000,000 .. 200,000,000",850298,0,Valve,66,20,86
+23,620,284,1048,2483,Valve,0,"Action, Adventure",999,"English, French, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish",80,518,Portal 2,1834,"10,000,000 .. 20,000,000",135628,999,Valve,99,20,98
+24,630,2071,495,43,Valve,0,Action,0,English,1416,100,Alien Swarm,937,"2,000,000 .. 5,000,000",17314,0,Valve,90,20,94
+25,730,936,32261,600093,"Valve, Hidden Path Entertainment",0,"Action, Free to Play",0,"English, Czech, Danish, Dutch, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Bulgarian, Ukrainian",422,13283,Counter-Strike: Global Offensive,386488,"20,000,000 .. 50,000,000",2551887,0,Valve,66,20,86
+26,1002,0,209,0,Mark Healey,0,Indie,999,English,0,152,Rag Doll Kung Fu,17,"20,000 .. 50,000",40,999,Mark Healey,33,3,66
+27,1200,26,447,53,Tripwire Interactive,0,Action,999,"English, French, Russian",26,71,Red Orchestra: Ostfront 41-45,214,"500,000 .. 1,000,000",1503,999,Tripwire Interactive,69,16,83
+28,1250,144,1513,544,Tripwire Interactive,0,Action,1999,"English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Russian",55,282,Killing Floor,2624,"2,000,000 .. 5,000,000",53529,1999,Tripwire Interactive,93,20,96
+29,1300,0,161,2,Ritual Entertainment,0,Action,999,"English, Russian, French",0,145,SiN Episodes: Emergence,60,"100,000 .. 200,000",454,999,Ritual Entertainment,71,11,85
+30,1500,0,95,4,Introversion Software,0,"Indie, Strategy",999,"English, German",0,14,Darwinia,157,"500,000 .. 1,000,000",465,999,Introversion Software,40,8,71
+31,1510,21,182,11,Introversion Software,0,"Indie, Strategy",999,English,21,36,Uplink,152,"500,000 .. 1,000,000",1590,999,Introversion Software,80,18,90
+32,1520,33,456,17,Introversion Software,0,"Indie, Strategy",999,"English, French, German, Italian, Spanish - Spain",19,31,DEFCON,342,"500,000 .. 1,000,000",2039,999,Introversion Software,63,17,84
+33,1530,18,76,4,Introversion Software,0,Indie,999,"English, French, Italian, German, Spanish - Spain",18,14,Multiwinia,76,"500,000 .. 1,000,000",365,999,Introversion Software,56,6,82
+34,1600,0,537,6,Sonalysts,0,Strategy,1499,English,0,389,Dangerous Waters,44,"50,000 .. 100,000",135,1499,Strategy First,42,3,76
+35,1610,0,213,0,Malfador Machinations,0,Strategy,999,English,0,9,Space Empires IV Deluxe,25,"50,000 .. 100,000",108,999,Strategy First,54,7,82
+36,1620,0,0,0,Strategy First,0,Strategy,1999,English,0,0,Jagged Alliance 2 Gold,0,"0 .. 20,000",0,1999,Strategy First,,0,0
+37,1630,0,383,53,Strategy First,0,Strategy,699,English,0,48,Disciples II: Rise of the Elves ,105,"100,000 .. 200,000",442,699,Strategy First,52,9,79
+38,1640,1328,274,39,Strategy First,0,Strategy,699,English,1328,54,Disciples II: Gallean's Return,149,"100,000 .. 200,000",482,699,Strategy First,44,13,75
+39,1670,0,7,2,Strategy First,0,Strategy,499,English,0,4,Iron Warriors: T - 72 Tank Command ,101,"20,000 .. 50,000",137,499,Strategy First,17,4,57
+40,1690,0,179,18,Malfador Machinations,0,Strategy,1499,English,0,105,Space Empires V,84,"50,000 .. 100,000",189,1499,Strategy First,31,8,68
+41,1700,59,201,7,Arkane Studios,0,RPG,499,"English, French, German, Italian, Spanish - Spain, Russian",77,18,Arx Fatalis,102,"100,000 .. 200,000",643,499,Arkane Studios,66,17,85
+42,1900,372,406,67,Reality Pump Studios,75,Strategy,499,"English, French, German, Spanish - Spain, Italian, Czech, Polish, Russian",382,414,Earth 2160,226,"1,000,000 .. 2,000,000",544,124,"Topware Interactive, ACE",33,6,69
+43,1930,487,448,168,Reality Pump Studios,0,RPG,999,"English, French, German, Italian, Spanish - Spain, Czech, Polish, Russian",348,394,Two Worlds Epic Edition,1042,"500,000 .. 1,000,000",2596,999,Topware Interactive,35,13,70
+44,2100,136,426,86,Arkane Studios,0,"Action, RPG",999,"English, French, German, Italian, Spanish - Spain",151,166,Dark Messiah of Might & Magic,301,"1,000,000 .. 2,000,000",4260,999,Ubisoft,87,20,92
+45,2200,272,817,23,id Software,0,Action,1499,English,398,27,Quake III Arena,66,"200,000 .. 500,000",1319,1499,id Software,93,18,95
+46,2210,36,196,19,RavenSoft / id Software,0,Action,1499,English,48,62,Quake IV,159,"200,000 .. 500,000",871,1499,Bethesda Softworks,61,15,83
+47,2270,13,93,11,id Software,0,Action,499,English,13,16,Wolfenstein 3D,88,"200,000 .. 500,000",1720,499,Bethesda-Softworks,93,17,94
+48,2280,13,240,31,id Software,0,Action,499,English,17,32,Ultimate Doom,247,"500,000 .. 1,000,000",3566,499,id Software,87,20,93
+49,2290,658,142,9,id Software,0,Action,499,English,1316,8,Final DOOM,79,"200,000 .. 500,000",568,499,id Software,69,20,86
+50,2300,31,210,21,id Software,0,Action,499,English,44,15,DOOM II,174,"500,000 .. 1,000,000",2447,499,id Software,87,20,92
+51,2310,730,327,26,id Software,0,Action,499,English,1454,44,QUAKE,129,"200,000 .. 500,000",2545,499,id Software,93,20,95
+52,2320,89,357,43,id Software,0,Action,499,English,125,34,QUAKE II,102,"200,000 .. 500,000",1343,499,id Software,84,20,92
+53,2330,0,52,0,Xatrix Entertainment,0,Action,299,English,0,1,QUAKE II Mission Pack: The Reckoning,12,"200,000 .. 500,000",61,299,id Software,58,4,82
+54,2340,1,37,0,Rogue Entertainment,0,Action,299,English,1,1,QUAKE II Mission Pack: Ground Zero,30,"200,000 .. 500,000",53,299,id Software,23,4,60
+55,2350,168,434,4,id Software,0,Action,1499,English,168,5,QUAKE III: Team Arena,30,"200,000 .. 500,000",104,1499,id Software,45,8,78
+56,2360,12,98,6,Raven Software,0,Action,499,English,12,9,HeXen: Beyond Heretic,25,"200,000 .. 500,000",241,499,id Software,77,12,90
+57,2370,0,60,0,Raven Software,0,Action,499,English,0,7,HeXen: Deathkings of the Dark Citadel,20,"200,000 .. 500,000",56,499,id Software,38,7,73
+58,2390,13,148,3,Raven Software,0,Action,499,English,13,8,Heretic: Shadow of the Serpent Riders,28,"200,000 .. 500,000",405,499,id Software,87,11,93
+59,2400,101,302,18,Outerlight Ltd.,0,"Action, Indie, RPG",999,"English, French, German, Italian, Spanish - Spain, Polish, Russian, Japanese",130,185,The Ship: Murder Party,785,"1,000,000 .. 2,000,000",4813,999,Blazing Griffin Ltd.,63,20,83
+60,2420,206,250,10,Outerlight Ltd.,0,"Action, Indie, RPG",999,"English, French, German, Italian, Spanish - Spain, Polish, Russian, Japanese",206,40,The Ship: Single Player,242,"200,000 .. 500,000",581,999,Blazing Griffin Ltd.,33,6,67
+61,2450,0,395,5,Outerlight Ltd.,0,Action,499,English,0,115,Bloody Good Time,200,"100,000 .. 200,000",650,499,Ubisoft,44,8,76
+62,2500,9,172,4,Frozenbyte,85,Action,699,English,9,98,Shadowgrounds,248,"500,000 .. 1,000,000",965,104,Frozenbyte,49,16,79
+63,2520,0,17,0,"CINEMAX, s.r.o.",0,"Casual, Indie",499,"English, Polish, Russian",0,21,Gumboy - Crazy Adventures,45,"50,000 .. 100,000",52,499,"CINEMAX, s.r.o.",14,3,55
+64,2540,0,35,0,Elephant Games,0,"Casual, Indie",499,English,0,19,RIP - Trilogy,128,"100,000 .. 200,000",197,499,Dreamatrix,20,9,65
+65,2570,0,6,0,Freegamer,0,"Indie, RPG",0,English,0,5,Vigil: Blood Bitterness,106,"50,000 .. 100,000",29,0,HeR Interactive,2,4,17
+66,2590,0,84,3,Black Element,0,Action,499,English,0,25,Alpha Prime,518,"200,000 .. 500,000",608,499,Bohemia Interactive,14,8,60
+67,2600,1952,586,102,Troika Games,0,Action,1999,"English, French, German",1952,147,Vampire: The Masquerade - Bloodlines,339,"500,000 .. 1,000,000",5967,1999,Activision,90,20,94
+68,2610,26,191,6,Neversoft,0,Action,1999,English,26,56,GUN,87,"50,000 .. 100,000",723,1999,Activision,74,17,89
+69,2620,51,335,48,Infinity Ward,0,Action,1999,"English, German",51,216,Call of Duty,110,"200,000 .. 500,000",1487,1999,Activision,87,20,93
+70,2630,31,669,183,"Infinity Ward, Aspyr (Mac)",0,Action,1999,"English, French, German, Italian, Spanish - Spain",34,351,Call of Duty 2,229,"200,000 .. 500,000",2351,1999,"Activision, Aspyr (Mac)",80,18,90
+71,2640,80,542,32,Gray Matter Studios,0,Action,1999,"English, French, Italian",80,253,Call of Duty: United Offensive,93,"200,000 .. 500,000",468,1999,Activision,58,12,84
+72,2700,17,607,246,"Frontier, Aspyr (Mac)",0,"Simulation, Strategy",0,"English, French, Italian, German, Spanish - Spain, Danish, Dutch, Finnish, Norwegian, Swedish",25,183,RollerCoaster Tycoon 3: Platinum,395,"500,000 .. 1,000,000",3292,0,"Atari, Aspyr (Mac)",74,19,88
+73,2710,36,489,0,Eugen Systems,0,Action,299,English,36,292,Act of War: Direct Action,33,"20,000 .. 50,000",176,299,THQ Nordic,61,3,85
+74,2720,0,65,0,Iocaine Studios,0,"Action, Indie, Strategy",499,English,0,93,ThreadSpace: Hyperbol,9,"20,000 .. 50,000",30,499,Atari,44,4,91
+75,2780,0,341,3,Bohemia Interactive,0,Action,799,English,0,40,ARMA: Combat Operations,76,"50,000 .. 100,000",146,799,Bohemia Interactive,26,6,66
+76,2800,0,401,19,Egosoft,0,Strategy,499,"English, French, German, Italian, Spanish - Spain, Czech, Polish, Russian",0,31,X2: The Threat,50,"200,000 .. 500,000",209,499,Egosoft,52,11,80
+77,2810,0,394,32,Egosoft,0,Strategy,999,"English, French, German, Spanish - Spain, Italian, Russian, Simplified Chinese, Traditional Chinese, Czech, Polish",0,30,X3: Reunion,110,"200,000 .. 500,000",278,999,Egosoft,35,12,72
+78,2820,1,1163,168,Egosoft,0,"Action, Simulation, Strategy",1599,"English, French, German, Italian, Russian, Polish, Simplified Chinese, Traditional Chinese, Czech, Spanish - Spain, Japanese",1,119,X3: Terran Conflict,267,"500,000 .. 1,000,000",1614,1599,Egosoft,63,19,85
+79,2840,0,183,6,Egosoft,0,"Simulation, Strategy",499,"English, German",0,23,X: Beyond the Frontier,46,"200,000 .. 500,000",141,499,Egosoft,42,11,77
+80,2850,0,267,0,Egosoft,0,"Simulation, Strategy",499,"English, German",0,24,X: Tension,18,"100,000 .. 200,000",58,499,Egosoft,44,10,73
+81,2870,881,1781,103,Egosoft,0,"Action, Simulation",2999,"English, German, Italian, Russian, Simplified Chinese, Traditional Chinese, French, Korean",1749,325,X Rebirth,4020,"200,000 .. 500,000",2819,2999,Egosoft,7,17,39
+82,2900,0,13,5,Sonalysts,0,Strategy,999,English,0,22,688(I) Hunter/Killer,16,"20,000 .. 50,000",51,999,Strategy First,44,3,75
+83,2910,0,148,14,Sonalysts,0,Strategy,999,English,0,221,Fleet Command,30,"50,000 .. 100,000",127,999,Strategy First,52,3,80
+84,2920,0,63,0,Sonalysts,0,Strategy,999,English,0,111,Sub Command,14,"20,000 .. 50,000",30,999,Strategy First,30,3,67
+85,2990,168,343,132,Bugbear Entertainment,0,Racing,999,"English, French, German, Italian, Spanish - Spain, Dutch",140,128,FlatOut 2,332,"500,000 .. 1,000,000",5272,999,Strategy First,90,17,94
+86,3010,0,147,0,Techland,0,Racing,499,English,0,54,Xpand Rally,38,"20,000 .. 50,000",133,499,Techland,45,2,75
+87,3020,0,246,13,Techland,0,Action,999,"English, French, German, Spanish - Spain, Russian",0,116,Call of Juarez,183,"100,000 .. 200,000",774,999,Techland Publishing,52,14,82
+88,3050,0,53,0,Techland,0,Racing,499,English,0,48,Xpand Rally Xtreme,33,"20,000 .. 50,000",66,499,Techland,27,3,70
+89,3130,0,508,19,1C Entertainment,0,Strategy,499,"English, Russian, German, French",0,94,Men of War: Red Tide,70,"200,000 .. 500,000",284,499,"1C Entertainment, 1C-SoftClub",52,5,81
+90,3170,1081,409,57,Katauri Interactive,0,"RPG, Strategy",999,"English, Russian, French, German, Spanish - Spain, Italian, Japanese, Traditional Chinese",1081,56,King's Bounty: Armored Princess,52,"100,000 .. 200,000",471,999,1C Entertainment,77,14,89
+91,3230,0,72,0,Metamorf,0,Strategy,499,English,0,95,Genesis Rising,92,"20,000 .. 50,000",28,499,THQ Nordic,2,4,23
+92,3260,0,70,1,Kheops Studio,0,"Adventure, Casual",499,"English, German, Italian, Spanish - Spain",0,23,Safecracker: The Ultimate Puzzle Adventure,170,"50,000 .. 100,000",254,499,HandyGames,19,5,58
+93,3270,0,119,3,Mindware Studios,0,Action,499,"English, German",0,38,Painkiller Overdose,124,"200,000 .. 500,000",417,499,THQ Nordic,45,8,74
+94,3300,0,343,0,"PopCap Games, Inc.",0,Casual,499,"English, French, German, Italian, Spanish - Spain",0,118,Bejeweled 2 Deluxe,12,"50,000 .. 100,000",125,499,"PopCap Games, Inc.",80,4,89
+95,3310,357,264,49,"PopCap Games, Inc.",0,Casual,499,"English, French, German, Italian, Spanish - Spain",357,39,Chuzzle Deluxe,13,"50,000 .. 100,000",183,499,"PopCap Games, Inc.",87,5,92
+96,3320,209,234,37,"PopCap Games, Inc.",0,Casual,499,English,210,85,Insaniquarium Deluxe,55,"100,000 .. 200,000",1134,499,"PopCap Games, Inc.",93,15,95
+97,3330,22,149,168,"PopCap Games, Inc.",0,Casual,499,"English, French, German, Italian, Spanish - Spain",27,45,Zuma Deluxe,31,"100,000 .. 200,000",416,499,"PopCap Games, Inc.",87,4,92
+98,3340,0,15,0,"PopCap Games, Inc.",0,Casual,499,English,0,19,AstroPop Deluxe,5,"20,000 .. 50,000",36,499,"PopCap Games, Inc.",69,2,86
+99,3350,0,17,0,"PopCap Games, Inc.",0,Casual,499,English,0,18,Bejeweled Deluxe,7,"20,000 .. 50,000",52,499,"PopCap Games, Inc.",71,4,86
+100,3360,0,37,0,"PopCap Games, Inc.",0,Casual,499,English,0,33,Big Money! Deluxe,3,"20,000 .. 50,000",25,499,"PopCap Games, Inc.",74,1,87
+101,3380,0,13,0,"PopCap Games, Inc.",0,Casual,499,English,0,12,Dynomite Deluxe,4,"20,000 .. 50,000",48,499,"PopCap Games, Inc.",84,2,91
+102,3390,0,78,11,"PopCap Games, Inc.",0,Casual,499,English,0,47,Feeding Frenzy 2 Deluxe,16,"100,000 .. 200,000",353,499,"PopCap Games, Inc.",93,3,97
+103,3400,0,164,0,"PopCap Games, Inc.",0,Casual,499,English,0,195,Hammer Heads Deluxe,2,"20,000 .. 50,000",27,499,"PopCap Games, Inc.",87,1,96
+104,3410,23,57,0,"PopCap Games, Inc.",0,Casual,499,English,23,68,Heavy Weapon Deluxe,27,"20,000 .. 50,000",66,499,"PopCap Games, Inc.",33,3,71
+105,3420,0,99,0,"PopCap Games, Inc.",0,Casual,499,English,0,50,Iggle Pop Deluxe,1,"20,000 .. 50,000",11,499,"PopCap Games, Inc.",80,1,90
+106,3430,22,47,0,"PopCap Games, Inc.",0,Casual,499,English,22,62,Pizza Frenzy Deluxe,4,"20,000 .. 50,000",51,499,"PopCap Games, Inc.",84,1,93
+107,3440,0,11,0,"PopCap Games, Inc.",0,Casual,499,English,0,11,Rocket Mania Deluxe,2,"20,000 .. 50,000",33,499,"PopCap Games, Inc.",90,2,96
+108,3450,0,922,14,"PopCap Games, Inc.",0,Casual,499,English,0,1229,Typer Shark! Deluxe,23,"20,000 .. 50,000",83,499,"PopCap Games, Inc.",47,3,76
+109,3460,33,283,0,"PopCap Games, Inc.",0,Casual,499,English,33,399,Talismania Deluxe,0,"20,000 .. 50,000",13,499,"PopCap Games, Inc.",100,2,100
+110,3480,25,329,88,"PopCap Games, Inc.",0,Casual,499,"English, French, Italian, German, Spanish - Spain",33,152,Peggle Deluxe,67,"200,000 .. 500,000",1075,499,"PopCap Games, Inc.",90,8,95
+111,3483,0,106,8,"PopCap Games, Inc.",0,Casual,0,English,0,31,Peggle Extreme,57,"200,000 .. 500,000",698,0,"PopCap Games, Inc.",84,4,92
+112,3490,0,55,0,"Retro64, Inc.",0,Casual,499,English,0,39,Venice Deluxe,2,"20,000 .. 50,000",10,499,"PopCap Games, Inc.",58,1,83
+113,3500,0,367,0,SpinTop Games,0,Casual,499,English,0,439,Mystery P.I. - The Lottery Ticket,3,"20,000 .. 50,000",10,499,"PopCap Games, Inc.",44,2,72
+114,3510,0,392,0,SpinTop Games,0,Casual,499,English,0,543,Amazing Adventures The Lost Tomb,8,"20,000 .. 50,000",20,499,"PopCap Games, Inc.",35,3,72
+115,3520,0,682,0,SpinTop Games,0,Casual,499,English,0,734,Mystery P.I. - The Vegas Heist,5,"20,000 .. 50,000",11,499,"PopCap Games, Inc.",30,2,69
+116,3530,0,279,0,SpinTop Games,0,Casual,499,English,0,339,Amazing Adventures Around the World,7,"20,000 .. 50,000",23,499,"PopCap Games, Inc.",44,3,75
+117,3540,24,273,45,"PopCap Games, Inc.",0,Casual,499,English,39,136,Peggle Nights,23,"200,000 .. 500,000",358,499,"PopCap Games, Inc.",87,4,94
+118,3560,0,237,0,"PopCap Games, Inc.",0,"Strategy, Casual",499,English,0,349,Bejeweled Twist,16,"20,000 .. 50,000",95,499,"PopCap Games, Inc.",63,4,85
+119,3570,0,525,0,SpinTop Games,0,Casual,499,English,0,525,Mystery P.I. - The New York Fortune,5,"20,000 .. 50,000",8,499,"PopCap Games, Inc.",21,2,54
+120,3580,0,49,0,"PopCap Games, Inc.",0,Casual,499,English,0,84,The Wizard's Pen,3,"20,000 .. 50,000",15,499,"PopCap Games, Inc.",58,2,80
+121,3590,449,942,709,"PopCap Games, Inc.",0,Strategy,499,English,82,291,Plants vs. Zombies GOTY Edition,424,"1,000,000 .. 2,000,000",14088,499,"PopCap Games, Inc.",97,20,97
+122,3600,0,156,3,SpinTop Games,0,Casual,499,English,0,67,Escape Rosecliff Island,56,"100,000 .. 200,000",95,499,"PopCap Games, Inc.",22,4,71
+123,3610,0,1128,0,SpinTop Games,0,Casual,499,English,0,1568,Mystery P.I. - Lost in Los Angeles,3,"20,000 .. 50,000",8,499,"PopCap Games, Inc.",36,2,72
+124,3620,116,272,105,"PopCap Games, Inc.",0,"Action, Casual",499,English,116,95,Zuma's Revenge!,26,"100,000 .. 200,000",423,499,"PopCap Games, Inc.",90,5,95
+125,3700,82,353,50,Rebellion,0,Action,799,"English, French, German, Italian, Spanish - Spain",105,98,Sniper Elite,360,"500,000 .. 1,000,000",1128,799,Rebellion,42,13,75
+126,3710,17,142,4,Rebellion,0,Action,799,English,17,64,Judge Dredd: Dredd vs. Death,76,"50,000 .. 100,000",539,799,Rebellion,69,10,88
+127,3720,631,577,50,Elixir Studios,0,Strategy,999,"English, French, German, Spanish - Spain",1257,229,Evil Genius,89,"200,000 .. 500,000",1806,999,Rebellion,93,18,95
+128,3730,23,130,12,Rebellion,0,Action,499,"English, Dutch, French, German, Spanish - Spain",35,56,Aliens versus Predator Classic 2000,213,"200,000 .. 500,000",1404,499,Rebellion,66,16,86
+129,3800,0,272,1,GlyphX Games,0,Action,999,English,0,305,Advent Rising,71,"50,000 .. 100,000",257,999,Majesco Entertainment,47,6,79
+130,3810,166,240,1,Terminal Reality,0,Action,999,English,166,242,BloodRayne,108,"50,000 .. 100,000",360,999,Majesco Entertainment,44,12,77
+131,3820,165,241,3,Terminal Reality,0,Action,999,English,165,234,BloodRayne 2,102,"50,000 .. 100,000",250,999,Majesco Entertainment,35,11,69
+132,3830,123,377,58,Double Fine Productions,0,Action,999,"English, French, German",163,185,Psychonauts,445,"2,000,000 .. 5,000,000",8127,999,Double Fine Productions,90,20,96
+133,3900,463,510,658,Firaxis Games,0,Strategy,1999,"English, French, German, Italian, Spanish - Spain",863,83,Sid Meier's Civilization IV,123,"500,000 .. 1,000,000",1355,1999,2K,80,19,91
+134,3910,76,468,1192,Firaxis Games,0,Strategy,499,English,150,16,Sid Meier's Civilization III Complete,400,"1,000,000 .. 2,000,000",2517,499,2K,66,15,88
+135,3920,31,528,118,Firaxis Games,0,RPG,999,English,36,159,Sid Meier's Pirates!,189,"500,000 .. 1,000,000",2591,999,2K,87,20,93
+136,3960,0,44,0,PopTop,0,Strategy,499,English,0,43,Shattered Union,45,"20,000 .. 50,000",39,499,2K,9,2,44
+137,3980,0,200,0,"FireFly Studios, Firaxis Games",0,Strategy,999,"English, French, Spanish - Spain",0,50,CivCity: Rome,61,"50,000 .. 100,000",178,999,2K,40,4,74
+138,3990,0,140,190,Firaxis Games,0,Strategy,499,"English, French, German, Italian, Spanish - Spain",0,42,Civilization IV: Warlords,19,"1,000,000 .. 2,000,000",117,499,2K,66,7,87
+139,4000,658,10301,34039,Facepunch Studios,0,"Indie, Simulation",999,"English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",155,1625,Garry's Mod,16006,"10,000,000 .. 20,000,000",356639,999,Valve,93,20,95
+140,4100,0,0,0,Funkitron,0,"Casual, Strategy, Indie",999,English,0,0,Poker Superstars II,4,"0 .. 20,000",3,999,Funkitron,,1,0
+141,4230,0,174,0,SimBin,0,Racing,3999,"English, French, German, Italian, Spanish - Spain",0,44,RACE - The WTCC Game,39,"200,000 .. 500,000",117,3999,SimBin,42,2,77
+142,4290,0,6,0,SimBin,0,Racing,499,English,0,1,RACE: Caterham Expansion,1,"0 .. 20,000",4,499,SimBin,,2,0
+143,4300,0,22,0,Naked Sky Entertainment,0,"Action, Indie",999,"English, French, German, Italian, Japanese, Korean, Traditional Chinese, Simplified Chinese, Spanish - Spain",0,36,RoboBlitz,14,"20,000 .. 50,000",42,999,Naked Sky Entertainment,42,5,80
+144,4420,0,81,0,Monte Cristo,0,RPG,999,"English, French, German, Italian, Spanish - Spain",0,73,Silverfall,35,"20,000 .. 50,000",56,999,Focus Home Interactive,21,6,58
+145,4460,0,279,0,Monte Cristo,0,"Simulation, Strategy",999,"English, French, German",0,266,City Life 2008,41,"20,000 .. 50,000",77,999,Focus Home Interactive,26,3,64
+146,4470,0,117,0,Monte Cristo,0,RPG,999,"English, French, German",0,133,Silverfall: Earth Awakening,17,"20,000 .. 50,000",30,999,Focus Home Interactive,23,5,66
+147,4500,198,725,318,GSC Game World,0,"Action, RPG",1999,"English, French, Italian, Spanish - Spain, German, Russian, Ukrainian",237,233,S.T.A.L.K.E.R.: Shadow of Chernobyl,538,"1,000,000 .. 2,000,000",10639,1999,GSC Game World,93,20,94
+148,4520,0,33,0,Pandemic Studios,75,"Action, Strategy",999,"English, French, Italian, Spanish - Spain, Korean, German",0,16,Full Spectrum Warrior,61,"100,000 .. 200,000",102,249,THQ Nordic,22,5,62
+149,4530,0,74,4,Pandemic Studios,75,"Action, Strategy",999,"English, French, Italian, Spanish - Spain, German",0,29,Full Spectrum Warrior: Ten Hammers,38,"100,000 .. 200,000",73,249,THQ Nordic,26,4,63
+150,4560,137,557,105,Relic Entertainment,0,"Action, Strategy",1999,"English, French, Spanish - Spain, Italian, German, Czech, Japanese, Korean, Polish, Russian, Traditional Chinese",204,89,Company of Heroes - Legacy Edition,312,"2,000,000 .. 5,000,000",4755,1999,SEGA,87,20,93
+151,4570,250,273,109,Relic Entertainment,0,Strategy,1299,"English, French, German, Italian, Spanish - Spain",255,133,"Warhammer 40,000: Dawn of War - Game of the Year Edition",200,"1,000,000 .. 2,000,000",3386,1299,SEGA,90,18,95
+152,4580,117,872,352,Relic Entertainment,0,Strategy,1299,"English, French, German, Italian, Spanish - Spain",104,205,"Warhammer 40,000: Dawn of War - Dark Crusade",128,"1,000,000 .. 2,000,000",2776,1299,SEGA,93,19,95
+153,4700,453,1599,4471,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",0,Strategy,2499,"English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Polish, Russian",273,262,Total War: MEDIEVAL II – Definitive Edition,570,"2,000,000 .. 5,000,000",9986,2499,"SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",90,20,94
+154,4720,1577,146,11,Monolith,0,Action,1495,"English, German, French, Italian, Spanish - Spain",1577,48,Condemned: Criminal Origins,208,"500,000 .. 1,000,000",1201,1495,SEGA,63,18,86
+155,4760,376,1474,1724,CREATIVE ASSEMBLY,0,Strategy,999,English,303,219,Rome: Total War - Collection,550,"1,000,000 .. 2,000,000",7627,999,SEGA,87,20,93
+156,4770,14,215,30,The Creative Assembly,0,Strategy,499,English,20,32,Rome: Total War - Alexander,130,"500,000 .. 1,000,000",322,499,SEGA,35,9,69
+157,4780,0,0,0,"The Creative Assembly, Feral Interactive (Mac), Feral Interactive (Linux)",0,Strategy,2499,English,0,0,Medieval II: Total War Kingdoms,32,"200,000 .. 500,000",584,2499,"SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",90,13,94
+158,4800,0,248,12,GSC Game World,0,Strategy,1499,"English, French, German, Russian",0,143,Heroes of Annihilated Empires,45,"50,000 .. 100,000",249,1499,GSC Game World,61,4,90
+159,4850,126,830,136,GSC Game World,0,Strategy,499,"English, French, German, Russian",212,212,Cossacks: Back to War,138,"200,000 .. 500,000",1058,499,GSC World Publishing,71,6,88
+160,4870,50,206,21,GSC Game World,0,Strategy,499,English,50,14,Cossacks: Art of War,18,"50,000 .. 100,000",100,499,GSC World Publishing,61,3,84
+161,4880,0,133,19,GSC Game World,0,Strategy,499,English,0,61,Cossacks: European Wars,63,"100,000 .. 200,000",165,499,GSC World Publishing,36,3,71
+162,4890,63,216,39,GSC Game World,0,Strategy,499,"English, Russian",71,82,Cossacks II: Battle for Europe,134,"100,000 .. 200,000",232,499,GSC World Publishing,23,3,61
+163,4900,632,775,0,Unknown Worlds Entertainment,0,"Casual, Indie",0,English,632,29,Zen of Sudoku,16,"0 .. 20,000",113,0,Unknown Worlds Entertainment,69,3,87
+164,4920,225,862,303,Unknown Worlds Entertainment,0,"Action, Indie, Strategy",999,"English, French, German, Spanish - Spain, Polish, Russian, Finnish, Romanian, Swedish, Czech",277,182,Natural Selection 2,1483,"1,000,000 .. 2,000,000",8302,999,Unknown Worlds Entertainment,61,20,85
+165,6000,103,233,65,LucasArts,0,Action,999,"English, French, German, Italian, Spanish - Spain",159,80,STAR WARS Republic Commando,369,"1,000,000 .. 2,000,000",6250,999,"LucasArts, Lucasfilm, Disney Interactive",90,20,94
+166,6010,1,161,14,LucasArts,0,Adventure,599,English,1,56,Indiana Jones and the Fate of Atlantis,30,"100,000 .. 200,000",587,599,"LucasArts, Lucasfilm, Disney Interactive",93,10,95
+167,6020,108,608,224,"Raven Software, Aspyr (Mac)",0,Action,999,"English, French, German, Spanish - Spain",58,144,STAR WARS Jedi Knight - Jedi Academy,326,"1,000,000 .. 2,000,000",5594,999,"LucasArts, Aspyr (Mac), Lucasfilm, Disney Interactive",90,20,94
+168,6030,63,287,54,"Raven Software, Aspyr (Mac)",0,Action,999,"English, French, German, Spanish - Spain, Traditional Chinese",63,77,STAR WARS Jedi Knight II - Jedi Outcast,213,"1,000,000 .. 2,000,000",1992,999,"LucasArts, Aspyr (Mac), Lucasfilm, Disney Interactive",77,20,90
+169,6040,0,214,3,LucasArts,0,Adventure,599,"English, French, Italian, German, Spanish - Spain",0,132,The Dig,51,"100,000 .. 200,000",566,599,LucasArts,80,14,91
+170,6060,68,590,453,Pandemic Studios,0,Action,999,English,35,178,"Star Wars: Battlefront 2 (Classic, 2005)",2404,"2,000,000 .. 5,000,000",28804,999,"Lucasfilm, LucasArts, Disney Interactive",84,20,91
+171,6080,0,414,5,Frontier,0,"Action, Adventure, Racing, Simulation, Strategy",999,"English, French, German, Italian, Spanish - Spain",0,155,Thrillville: Off the Rails,38,"20,000 .. 50,000",265,999,LucasArts,69,7,87
+172,6090,0,38,0,Planet Moon Studios,0,Action,599,"English, French, German, Italian, Spanish - Spain",0,21,Armed and Dangerous,15,"20,000 .. 50,000",112,599,"LucasArts, Lucasfilm, Disney Interactive",71,6,89
+173,6120,219,132,6,Klei Entertainment,0,"Action, Indie",999,English,219,76,Shank,227,"200,000 .. 500,000",1721,999,Klei Entertainment,71,16,89
+174,6200,0,209,8,Sick Puppies,0,Strategy,499,"English, French, German, Italian",0,55,Ghost Master,165,"100,000 .. 200,000",1011,499,Strategy First,63,11,86
+175,6210,0,16,0,Deepred,0,Strategy,499,English,0,12,Vegas: Make It Big,34,"50,000 .. 100,000",89,499,Strategy First,36,3,74
+176,6220,4,147,19,Bugbear Entertainment,0,Racing,749,"English, French, German, Italian, Spanish - Spain",5,37,FlatOut,179,"200,000 .. 500,000",1909,749,Strategy First,80,10,91
+177,6250,0,297,4,Muzzy Lane,0,"Action, Strategy",499,English,0,62,Making History: The Calm & the Storm,107,"50,000 .. 100,000",461,499,Strategy First,54,8,80
+178,6270,0,17,0,Artematica Entertainment,0,Racing,499,"English, French, Spanish - Spain",0,5,Ducati World Championship,100,"20,000 .. 50,000",75,499,Strategy First,7,2,39
+179,6300,0,437,9,Funcom,0,"Adventure, RPG",1999,English,0,421,Dreamfall: The Longest Journey,88,"100,000 .. 200,000",576,1999,Funcom,66,14,85
+180,6310,0,456,17,Funcom,0,"Action, Adventure, RPG",999,English,0,131,The Longest Journey,101,"200,000 .. 500,000",1132,999,Funcom,80,20,91
+181,6370,39,1104,3,Stunlock Studios,0,"Action, Free to Play, Massively Multiplayer",0,"English, French, German, Spanish - Spain",44,61,Bloodline Champions,225,"200,000 .. 500,000",1360,0,Stunlock Studios,63,9,85
+182,6400,79,613,7,Most Wanted Entertainment,0,"Action, Strategy",799,"English, French, German, Italian, Spanish - Spain",79,527,Joint Task Force,15,"20,000 .. 50,000",98,799,HD Publishing,66,3,86
+183,6420,0,553,10,"Mithis Games, THQ Nordic",0,"Indie, Simulation, Strategy",999,"English, French, Italian, German, Russian, Hungarian",0,129,Nexus - The Jupiter Incident,86,"100,000 .. 200,000",455,999,HandyGames,61,14,83
+184,6510,600,253,2,"CAPCOM Co., Ltd.",0,"Action, Adventure",1499,"English, French, German, Italian, Spanish - Spain, Japanese, Korean",600,79,Lost Planet: Extreme Condition,174,"200,000 .. 500,000",556,1499,Capcom,44,10,72
+185,6550,9,230,19,"CAPCOM Co., Ltd.",0,Action,1999,"English, French, German, Spanish - Spain, Italian",15,29,Devil May Cry 3 Special Edition,1004,"200,000 .. 500,000",1420,1999,Capcom,18,20,57
+186,6600,0,11,0,R C Knight,0,"Casual, Indie",399,English,0,7,Bullet Candy,32,"50,000 .. 100,000",37,399,Codemasters,14,6,50
+187,6800,63,116,67,Pyro Studios,0,Action,499,English,63,13,Commandos: Behind Enemy Lines,207,"500,000 .. 1,000,000",1546,499,Kalypso Media Digital Ltd,71,14,87
+188,6810,0,40,23,Pyro Studios,0,Action,499,English,0,5,Commandos: Beyond the Call of Duty,70,"500,000 .. 1,000,000",390,499,Kalypso Media Digital Ltd,61,10,83
+189,6830,4,166,38,Pyro Studios,0,Action,499,English,4,10,Commandos 2: Men of Courage,229,"500,000 .. 1,000,000",1314,499,Kalypso Media Digital Ltd,63,13,83
+190,6840,0,39,10,Pyro Studios,0,Action,499,English,0,8,Commandos 3: Destination Berlin,262,"500,000 .. 1,000,000",410,499,Kalypso Media Digital Ltd,21,9,59
+191,6850,0,231,17,Io-Interactive A/S,0,Action,899,English,0,25,Hitman 2: Silent Assassin,244,"1,000,000 .. 2,000,000",1485,899,Io-Interactive A/S,63,16,85
+192,6860,124,388,89,Io-Interactive A/S,0,Action,999,English,49,98,Hitman: Blood Money,377,"1,000,000 .. 2,000,000",5730,999,Io-Interactive A/S,87,20,93
+193,6870,96,228,15,Eidos Interactive,0,Action,699,"English, French, German, Italian, Spanish - Spain",154,48,Battlestations: Midway,108,"200,000 .. 500,000",300,699,Square Enix,38,9,72
+194,6880,1,163,26,Avalanche Studios,0,Action,699,"English, French, German, Italian, Spanish - Spain",1,34,Just Cause,806,"1,000,000 .. 2,000,000",1648,699,Square Enix,28,13,66
+195,6900,8,105,14,IO Interactive A/S,0,Action,799,"English, French, Italian, German, Spanish - Spain",8,25,Hitman: Codename 47,433,"1,000,000 .. 2,000,000",1156,799,IO Interactive A/S,36,13,71
+196,6910,19,342,82,Ion Storm,0,Action,699,English,27,54,Deus Ex: Game of the Year Edition,331,"1,000,000 .. 2,000,000",6036,699,Square Enix,90,20,94
+197,6920,469,135,12,Ion Storm,0,Action,699,English,469,12,Deus Ex: Invisible War,423,"500,000 .. 1,000,000",628,699,Square Enix,19,20,58
+198,6980,407,324,24,Ion Storm,0,Action,899,English,491,37,Thief: Deadly Shadows,194,"500,000 .. 1,000,000",1099,899,Square Enix,61,18,84
+199,7000,278,220,43,Crystal Dynamics,0,"Action, Adventure",699,"English, French, Italian, German, Spanish - Spain",522,67,Tomb Raider: Legend,230,"500,000 .. 1,000,000",1584,699,Square Enix,69,15,87
+200,7010,7,81,0,Crystal Dynamics,0,Action,599,English,7,35,Project: Snowblind,53,"100,000 .. 200,000",160,599,Square Enix,42,5,74
+201,7020,0,167,2,Rebellion,0,Action,999,"English, French, German, Italian, Spanish - Spain",0,138,Rogue Trooper,14,"50,000 .. 100,000",244,999,Rebellion,90,7,94
+202,7110,766,399,18,BioWare Corporation,0,RPG,1499,"English, French, German, Italian, Spanish - Spain",766,152,Jade Empire: Special Edition,268,"200,000 .. 500,000",795,1499,"BioWare Corporation, Electronic Arts",40,19,74
+203,7200,361,2034,100,Nadeo,0,Racing,2999,"English, French, German, Italian, Spanish - Spain, Portuguese, Japanese, Traditional Chinese, Korean, Slovakian, Dutch, Russian, Hungarian, Czech, Polish",543,343,Trackmania United Forever Star Edition,52,"100,000 .. 200,000",941,2999,Ubisoft,90,8,94
+204,7210,0,411,8,Pendulo Studios,0,Adventure,999,"English, French",0,144,"Runaway, A Road Adventure",88,"100,000 .. 200,000",234,999,Focus Home Interactive,36,5,72
+205,7220,0,428,2,Pendulo Studios,0,Adventure,999,"English, French",0,437,"Runaway, The Dream of The Turtle",64,"100,000 .. 200,000",84,999,Focus Home Interactive,16,4,56
+206,7260,0,940,0,Cyanide Studios,0,RPG,999,English,0,270,Loki,52,"20,000 .. 50,000",66,999,Focus Home Interactive,15,4,54
+207,7340,0,231,0,Big Fish Games,0,"Casual, Indie",999,English,0,231,Azada,4,"0 .. 20,000",8,999,Big Fish Games,,3,0
+208,7510,102,329,140,Gaijin Entertainment,0,"Action, Adventure, RPG",999,"English, French, German, Italian, Spanish - Spain",113,338,X-Blades,958,"200,000 .. 500,000",1539,999,Topware Interactive,21,13,58
+209,7520,297,512,258,Reality Pump Studios,0,RPG,1999,"English, French, German, Italian, Spanish - Spain, Czech, Polish, Russian",353,308,Two Worlds II HD,2027,"1,000,000 .. 2,000,000",3014,1999,"Topware Interactive, ACE",19,20,57
+210,7530,152,328,193,Reality Pump Studios,0,Strategy,999,"English, French, German, Italian, Russian, Spanish - Spain",262,325,Two Worlds II Castle Defense,186,"100,000 .. 200,000",141,999,Topware Interactive,8,3,41
+211,7600,0,347,97,"Firaxis Games, Feral Interactive (Mac)",0,Strategy,999,"English, French, German, Italian, Spanish - Spain",0,106,Sid Meier's Railroads!,552,"500,000 .. 1,000,000",1086,999,"2K, Feral Interactive (Mac)",27,10,65
+212,7610,0,303,78,PopTop,0,Strategy,999,"English, French, German, Italian, Spanish - Spain",0,9,Railroad Tycoon 3,145,"200,000 .. 500,000",347,999,2K,33,8,71
+213,7620,5,300,110,PopTop,0,Strategy,499,English,5,43,Railroad Tycoon II Platinum,82,"200,000 .. 500,000",411,499,2K,58,7,83
+214,7650,0,181,23,"MicroProse Software, Inc",0,Strategy,499,"English, French, German, Spanish - Spain",0,17,X-COM: Terror From the Deep,32,"500,000 .. 1,000,000",376,499,2K,84,17,93
+215,7660,0,365,18,"MicroProse Software, Inc",0,Strategy,499,English,0,11,X-COM: Apocalypse,52,"500,000 .. 1,000,000",412,499,2K,71,12,90
+216,7670,190,405,69,"2K Boston, 2K Australia",0,"Action, RPG",1999,"English, French, German, Italian, Spanish - Spain",319,168,BioShock,1157,"2,000,000 .. 5,000,000",19512,1999,2K,90,20,94
+217,7730,0,29,2,"MicroProse Software, Inc",0,Strategy,499,English,0,8,X-COM: Interceptor,53,"500,000 .. 1,000,000",57,499,2K,12,6,51
+218,7760,316,273,52,"MicroProse Software, Inc",0,Strategy,499,English,324,10,X-COM: UFO Defense,136,"1,000,000 .. 2,000,000",2143,499,2K,90,20,96
+219,7770,0,31,0,"MicroProse Software, Inc",0,Strategy,499,English,0,14,X-COM: Enforcer,135,"50,000 .. 100,000",143,499,2K,12,6,52
+220,7830,25,858,59,Best Way,0,Strategy,499,"English, Russian, French, Italian, Spanish - Spain, German",44,247,Men of War,253,"200,000 .. 500,000",1643,499,"1C Entertainment, 1C-SoftClub",66,20,86
+221,7840,0,91,0,Sky Fallen,0,Racing,299,"English, German, French, Spanish - Spain, Italian",0,23,Death Track: Resurrection,50,"20,000 .. 50,000",34,299,1C Entertainment,7,3,45
+222,7860,0,134,4,The Farm 51,0,Action,499,"English, French, German, Spanish - Spain, Italian, Russian, Hungarian",0,53,NecroVision,264,"100,000 .. 200,000",527,499,1C Entertainment,27,8,68
+223,7940,164,1329,235,"Infinity Ward, Aspyr (Mac)",0,Action,1999,"English, French, German, Italian, Spanish - Spain",73,387,Call of Duty 4: Modern Warfare,801,"1,000,000 .. 2,000,000",8559,1999,"Activision, Aspyr (Mac)",80,20,90
+224,8000,271,328,98,"Crystal Dynamics, Feral Interactive (Mac)",0,"Action, Adventure",899,"English, French, German, Italian, Spanish - Spain",531,84,Tomb Raider: Anniversary,363,"500,000 .. 1,000,000",1868,899,"Square Enix, Feral Interactive (Mac)",58,20,82
+225,8040,0,273,6,,0,,0,,0,310,Championship Manager 2007,0,"0 .. 20,000",0,0,,,0,0
+226,8060,0,502,15,,0,,0,,0,42,Championship Manager 2008,0,"0 .. 20,000",0,0,,,0,0
+227,8080,51,111,8,IO Interactive,0,Action,699,"English, French, German, Italian, Spanish - Spain",84,44,Kane and Lynch: Dead Men,681,"200,000 .. 500,000",1144,699,Square Enix,22,17,66
+228,8100,0,52,4,Pivotal Games,0,Action,599,"English, Spanish - Spain, French, Italian",0,27,Conflict: Denied Ops,97,"50,000 .. 100,000",75,599,Square Enix,8,4,40
+229,8140,144,200,68,Crystal Dynamics,0,"Action, Adventure",899,"English, French, Italian, German, Spanish - Spain",280,46,Tomb Raider: Underworld,556,"500,000 .. 1,000,000",1707,899,Square Enix,42,18,75
+230,8170,54,728,30,Eidos Studio Hungary,0,"Action, Strategy",899,"English, French, German, Italian, Spanish - Spain",55,130,Battlestations Pacific,520,"200,000 .. 500,000",987,899,Square Enix,26,12,64
+231,8190,274,858,653,Avalanche Studios,0,"Action, Adventure",1499,"English, French, German, Italian, Spanish - Spain, Polish, Russian",32,193,Just Cause 2,3081,"2,000,000 .. 5,000,000",32861,1499,Square Enix,80,20,90
+232,8200,0,129,2,Telltale Games,0,"Action, Adventure",1999,"English, French, German, Italian",0,102,Sam & Max 101: Culture Shock,48,"100,000 .. 200,000",316,1999,Telltale Games,66,9,87
+233,8210,0,141,2,Telltale Games,0,"Action, Adventure",1999,"English, German, Italian",0,134,Sam & Max 102: Situation: Comedy,6,"0 .. 20,000",60,1999,Telltale Games,77,2,97
+234,8220,0,94,1,Telltale Games,0,"Action, Adventure",1999,"English, French, German, Italian",0,95,"Sam & Max 103: The Mole, the Mob and the Meatball",8,"0 .. 20,000",53,1999,Telltale Games,66,4,93
+235,8230,0,815,3,Telltale Games,0,"Action, Adventure",1999,"English, French, German, Italian",0,61,Sam & Max 104: Abe Lincoln Must Die!,64,"100,000 .. 200,000",339,1999,Telltale Games,61,5,91
+236,8240,0,166,2,Telltale Games,0,"Action, Adventure",1999,"English, French, German, Italian",0,178,Sam & Max 105: Reality 2.0,5,"0 .. 20,000",50,1999,Telltale Games,77,2,96
+237,8250,2,154,0,Telltale Games,0,"Action, Adventure",1999,"English, French, German, Italian",2,165,Sam & Max 106: Bright Side of the Moon,5,"0 .. 20,000",49,1999,Telltale Games,77,2,96
+238,8260,71,147,0,Telltale Games,0,Adventure,1999,English,71,178,Sam & Max 201: Ice Station Santa,12,"0 .. 20,000",105,1999,Telltale Games,74,2,93
+239,8270,0,158,0,Telltale Games,0,Adventure,1999,English,0,159,Sam & Max 202: Moai Better Blues,7,"0 .. 20,000",38,1999,Telltale Games,61,1,88
+240,8280,0,194,0,Telltale Games,0,Adventure,1999,English,0,234,Sam & Max 203: Night of the Raving Dead,5,"0 .. 20,000",36,1999,Telltale Games,69,1,95
+241,8290,0,191,0,Telltale Games,0,Adventure,1999,English,0,197,Sam & Max 204: Chariots of the Dogs,3,"0 .. 20,000",37,1999,Telltale Games,84,1,100
+242,8300,0,247,0,Telltale Games,0,Adventure,1999,English,0,370,Sam & Max 205: What's New Beelzebub?,5,"0 .. 20,000",35,1999,Telltale Games,69,1,95
+243,8310,122,68,1,Telltale Games,0,Adventure,999,English,122,72,Bone: Out From Boneville,71,"50,000 .. 100,000",77,999,Telltale Games,13,2,63
+244,8320,242,121,0,Telltale Games,0,Adventure,999,English,242,147,Bone: The Great Cow Race,33,"20,000 .. 50,000",43,999,Telltale Games,16,2,72
+245,8330,123,34,0,Telltale Games,0,Casual,299,English,123,17,Telltale Texas Hold ‘Em,75,"50,000 .. 100,000",69,299,Telltale Games,10,2,56
+246,8340,0,120,1,Telltale Games,0,Adventure,1999,English,0,111,Strong Bad's Cool Game for Attractive People: Season 1,26,"100,000 .. 200,000",218,1999,Telltale Games,74,8,91
+247,8350,0,166,0,Telltale Games,0,Adventure,1999,"English, Not supported",0,225,Strong Bad's Cool Game for Attractive People: Episode 2,5,"0 .. 20,000",12,1999,Telltale Games,,1,0
+248,8360,0,175,0,Telltale Games,0,Adventure,1999,"English, Not supported",0,212,Strong Bad's Cool Game for Attractive People: Episode 3,6,"0 .. 20,000",11,1999,Telltale Games,,1,0
+249,8370,0,163,0,Telltale Games,0,Adventure,0,,0,175,Strong Bad's Cool Game for Attractive People: Episode 4,5,"0 .. 20,000",11,0,Telltale Games,,1,0
+250,8380,0,136,0,Telltale Games,0,Adventure,0,,0,157,Strong Bad's Cool Game for Attractive People: Episode 5,3,"0 .. 20,000",12,0,Telltale Games,,1,0
+251,8400,0,79,6,Bizarre Creations,0,Casual,399,English,0,15,Geometry Wars: Retro Evolved,59,"100,000 .. 200,000",576,399,Activision,77,16,90
+252,8500,709,3376,3369,CCP,0,"Action, Free to Play, Massively Multiplayer, RPG, Strategy",0,"English, German, Russian, French",40,90,EVE Online,2684,"1,000,000 .. 2,000,000",8074,0,CCP,42,20,75
+253,8600,3,508,31,SimBin,0,Racing,399,"English, French, German, Italian, Spanish - Spain",3,32,RACE 07,341,"1,000,000 .. 2,000,000",1671,399,SimBin,58,6,86
+254,8780,0,0,0,SimBin,0,Racing,799,"English, French, German, Italian, Spanish - Spain",0,0,RACE On,0,"0 .. 20,000",0,799,SimBin,,0,0
+255,8790,0,18,1,SimBin Studios AB,0,"Racing, Simulation, Sports",799,English,0,1,GTR 2 FIA GT Racing Game,16,"50,000 .. 100,000",173,799,SimBin,80,6,90
+256,8800,878,2343,1386,Firaxis Games,0,Strategy,999,"English, French, German, Italian, Spanish - Spain",1323,289,Civilization IV: Beyond the Sword,60,"1,000,000 .. 2,000,000",1360,999,2K,93,12,95
+257,8850,171,426,52,"2K Marin, 2K China, Digital Extremes, 2K Australia, Feral Interactive (Mac)",0,Action,1999,"English, French, German, Italian, Spanish - Spain",258,153,BioShock 2,938,"2,000,000 .. 5,000,000",8507,1999,"2K, Feral Interactive (Mac)",77,20,89
+258,8870,231,826,575,"Irrational Games, Aspyr (Mac), Virtual Programming (Linux)",0,Action,2999,"English, French, German, Italian, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese",99,596,BioShock Infinite,3744,"2,000,000 .. 5,000,000",78199,2999,"2K, Aspyr (Mac)",93,20,95
+259,8880,0,118,1,Irrational Games,0,"RPG, Strategy",499,English,0,55,Freedom Force,145,"200,000 .. 500,000",193,499,2K,17,9,62
+260,8890,0,113,1,Irrational Games,0,"RPG, Strategy",499,English,0,19,Freedom Force vs. the Third Reich,28,"200,000 .. 500,000",115,499,2K,52,5,85
+261,8930,521,5774,28365,"Firaxis Games, Aspyr (Mac), Aspyr (Linux)",0,Strategy,2999,"English, French, German, Italian, Spanish - Spain, Polish, Japanese, Korean, Russian, Traditional Chinese",238,2097,Sid Meier's Civilization V,5397,"5,000,000 .. 10,000,000",127946,2999,"2K, Aspyr (Mac), Aspyr (Linux)",93,20,95
+262,8970,0,83,0,Silver Wish Games,0,Indie,499,"English, French, German, Italian, Spanish - Spain",0,34,Axel & Pixel,13,"20,000 .. 50,000",33,499,2K,35,2,71
+263,8980,267,1551,942,Gearbox Software,0,"Action, RPG",1999,"English, French, Spanish - Spain, German, Italian",89,625,Borderlands,1568,"2,000,000 .. 5,000,000",22407,1999,2K,87,20,93
+264,9000,0,77,5,id Software,0,Action,299,English,0,6,Spear of Destiny,37,"200,000 .. 500,000",196,299,id Software,61,9,83
+265,9010,22,231,64,Gray Matter Studios,0,Action,499,English,33,60,Return to Castle Wolfenstein,258,"500,000 .. 1,000,000",2999,499,Bethesda-Softworks,84,20,91
+266,9030,0,78,0,Rogue Entertainment,0,Action,299,English,0,46,QUAKE Mission Pack 2: Dissolution of Eternity,15,"200,000 .. 500,000",136,299,id Software,77,5,88
+267,9040,0,181,4,Ritual Entertainment,0,Action,299,English,0,52,QUAKE Mission Pack 1: Scourge of Armagon,12,"200,000 .. 500,000",197,299,id Software,90,6,93
+268,9050,491,278,41,id Software,0,Action,499,"English, German, Italian, Spanish - Spain, French",846,84,DOOM 3,361,"200,000 .. 500,000",2529,499,id Software,69,20,87
+269,9060,14,73,0,Raven Software,0,Action,499,English,14,19,HeXen II,37,"100,000 .. 200,000",167,499,id Software,54,12,80
+270,9160,1,106,7,id Software,0,Action,1499,English,1,7,Master Levels for Doom II,63,"500,000 .. 1,000,000",299,1499,id Software,56,16,82
+271,9180,4,61,8,id Software,0,Action,499,English,5,12,Commander Keen,52,"200,000 .. 500,000",724,499,id Software,87,11,93
+272,9200,150,621,216,id Software,0,Action,999,"English, Czech, French, German, Italian, Japanese, Polish, Russian, Spanish - Spain",169,271,RAGE,2782,"1,000,000 .. 2,000,000",9191,999,Bethesda Softworks,44,20,74
+273,9310,97,231,41,Relic Entertainment,0,Strategy,1299,"English, French, German, Italian, Spanish - Spain",97,47,"Warhammer 40,000: Dawn of War – Winter Assault",71,"500,000 .. 1,000,000",587,1299,SEGA,74,14,90
+274,9340,1089,417,38,Relic Entertainment,0,"Action, Strategy",1999,English,1089,48,Company of Heroes: Opposing Fronts,51,"2,000,000 .. 5,000,000",571,1999,SEGA,80,13,90
+275,9350,177,526,123,Gas Powered Games,0,Strategy,1299,"English, Czech, French, German, Italian, Polish, Russian, Spanish - Spain, Traditional Chinese",269,92,Supreme Commander,150,"500,000 .. 1,000,000",1043,1299,Square Enix,69,14,86
+276,9420,151,1491,661,Gas Powered Games,0,Strategy,1299,"English, French, Italian, German, Spanish - Spain, Czech, Polish, Russian, Traditional Chinese",86,402,Supreme Commander: Forged Alliance,157,"1,000,000 .. 2,000,000",4838,1299,Square Enix,95,20,96
+277,9450,315,1649,960,Relic Entertainment,0,Strategy,1299,"English, French, German",136,491,"Warhammer 40,000: Dawn of War - Soulstorm",274,"1,000,000 .. 2,000,000",4734,1299,SEGA,90,19,94
+278,9460,1,184,2,Kaos Studios,0,Action,1999,"English, French, Italian, Spanish - Spain",1,83,Frontlines: Fuel of War,224,"200,000 .. 500,000",374,1999,THQ Nordic,22,9,61
+279,9480,475,796,108,Volition,0,Action,999,"English, French, German, Italian, Spanish - Spain, Dutch, Danish, Swedish, Russian",105,98,Saints Row 2,2825,"2,000,000 .. 5,000,000",9342,999,Deep Silver,44,20,76
+280,9500,0,68,0,Cryptic Sea,0,Indie,999,English,0,12,Gish,95,"200,000 .. 500,000",160,999,Chronic Logic,22,9,72
+281,9710,0,16,6,Spellbound,0,Action,999,English,0,11,Desperados 2: Cooper's Revenge,51,"50,000 .. 100,000",40,999,THQ Nordic,8,4,40
+282,9730,0,21,3,,0,,999,English,0,21,Tycoon City: New York,99,"20,000 .. 50,000",56,999,Retroism,5,3,34
+283,9760,0,236,15,Eugen Systems,0,Action,299,English,0,58,Act of War: High Treason,39,"20,000 .. 50,000",149,299,THQ Nordic,49,3,80
+284,9800,1,280,7,Haggard Games,0,"Action, Adventure",499,"English, Russian, French, Italian, German, Spanish - Spain",1,112,Death to Spies,143,"50,000 .. 100,000",419,499,1C Entertainment,40,8,73
+285,9850,0,37,0,"InnoGlow, Stormregion, THQ Nordic",0,"Simulation, Strategy",1499,"English, French, German, Spanish - Spain, Italian",0,38,Codename: Panzers - Cold War,52,"20,000 .. 50,000",79,1499,THQ Nordic,20,12,58
+286,9880,781,2017,171,Cryptic Studios,0,"Free to Play, Massively Multiplayer, RPG",0,English,1054,105,Champions Online,803,"500,000 .. 1,000,000",2061,0,Perfect World Entertainment,35,20,71
+287,9900,226,3169,3240,Cryptic Studios,0,"Free to Play, Massively Multiplayer, RPG",0,"English, French, German",199,271,Star Trek Online,2318,"1,000,000 .. 2,000,000",7498,0,Perfect World Entertainment,44,20,76
+288,9940,0,264,3,Krome Studios,0,"Action, Adventure",299,"English, French, German, Italian, Spanish - Spain",0,184,Blade Kitten,148,"50,000 .. 100,000",740,299,Krome Studios,58,11,83
+289,9960,0,18,0,ImagineEngline,0,Adventure,599,"English, French, German",0,19,Haunted House,14,"0 .. 20,000",9,599,Atari,6,1,40
+290,9970,0,66,0,Incinerator Studios,0,Action,999,"English, French, German",0,69,Star Raiders,24,"0 .. 20,000",5,999,Atari,2,2,20
+291,9980,0,24,0,Artech Studios,0,Casual,699,"English, French, German",0,28,The UnderGarden,24,"20,000 .. 50,000",47,699,Retroism,27,4,66
+292,10090,167,2616,720,Treyarch,0,Action,1999,"English, French, Italian, German, Spanish - Spain",68,877,Call of Duty: World at War,1456,"1,000,000 .. 2,000,000",19214,1999,Activision,84,20,92
+293,10100,7,233,13,Sierra,0,Adventure,1999,English,7,31,King's Quest Collection,32,"100,000 .. 200,000",123,1999,Activision,49,9,77
+294,10110,0,214,7,Sierra,0,Adventure,1999,English,0,24,Space Quest Collection,42,"100,000 .. 200,000",140,1999,Activision,44,12,77
+295,10120,0,11,0,Artech Studios,0,"Action, Casual",999,"English, French, German, Italian, Spanish - Spain",0,11,Aces of the Galaxy,15,"0 .. 20,000",14,999,Activision,10,4,46
+296,10130,0,168,3,Saber Interactive,0,Action,1999,English,0,62,TimeShift,155,"100,000 .. 200,000",603,1999,Activision,49,14,79
+297,10140,0,27,0,Wanako Games,0,Sports,999,"English, French, German, Italian, Spanish - Spain",0,49,3D Ultra Minigolf Adventures,27,"0 .. 20,000",51,999,Activision,26,4,67
+298,10150,732,579,37,Radical Entertainment,0,"Action, Adventure",1999,"English, French, Spanish - Spain, Italian",1428,235,Prototype,857,"500,000 .. 1,000,000",3609,1999,Activision,52,20,80
+299,10180,96,987,651,"Infinity Ward, Aspyr (Mac)",0,Action,1999,"English, French, German, Italian, Spanish - Spain",26,434,Call of Duty: Modern Warfare 2,2791,"5,000,000 .. 10,000,000",29459,1999,"Activision, Aspyr (Mac)",80,20,89
+300,10220,0,213,3,Trashmasters,0,Action,1199,"English, Russian, German",0,131,Postal III,1064,"100,000 .. 200,000",624,1199,Akella,5,20,38
+301,10230,0,0,0,Electronic Paradise,0,Adventure,799,"English, German, Russian",0,0,Dead Mountaineer's Hotel,62,"0 .. 20,000",25,799,Akella,3,2,31
+302,10240,0,251,0,SPLine,0,Adventure,699,English,0,424,A Stroke of Fate: Operation Valkyrie,10,"0 .. 20,000",15,699,Akella,20,2,66
+303,10250,0,168,0,Studio4,0,Simulation,699,English,0,235,PT Boats: Knights of the Sea,12,"0 .. 20,000",12,699,Akella,11,2,50
+304,10260,0,42,0,studio4,0,Simulation,699,English,0,83,PT Boats: South Gambit,10,"0 .. 20,000",5,699,Akella,4,2,33
+305,10270,0,673,68,Akella,0,"RPG, Strategy",999,"English, Russian",0,340,Disciples III: Reincarnation,242,"100,000 .. 200,000",605,999,bitComposer Games,35,9,66
+306,10460,0,147,0,Bizarre Creations,0,Action,1499,English,0,113,The Club,49,"20,000 .. 50,000",48,1499,SEGA,11,2,51
+307,10500,224,3156,3735,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",0,Strategy,2499,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Czech",63,586,Total War: EMPIRE – Definitive Edition,1655,"2,000,000 .. 5,000,000",14687,2499,"SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",74,20,88
+308,10520,0,0,0,Eurocom,0,Sports,0,English,0,0,Beijing 2008 - The Official Video Game of the Olympic Games,0,"0 .. 20,000",0,0,SEGA,,0,0
+309,10680,34,605,84,Rebellion,0,Action,1499,"English, French, German, Italian, Russian, Spanish - Spain",34,252,Aliens vs. Predator,1156,"1,000,000 .. 2,000,000",9284,1499,SEGA,71,20,87
+310,11020,103,316,373,Nadeo,0,Racing,0,"English, French, German, Italian, Spanish - Spain, Portuguese, Japanese, Traditional Chinese, Korean, Slovakian, Dutch, Russian, Hungarian, Czech, Polish",24,53,TrackMania Nations Forever,1184,"2,000,000 .. 5,000,000",8057,0,Ubisoft,69,20,87
+311,11040,0,156,0,Frogwares,0,"Adventure, RPG",999,"English, French, Italian, German, Russian",0,82,Sherlock Holmes - Nemesis,41,"50,000 .. 100,000",113,999,Frogwares,38,6,74
+312,11050,0,47,0,Frogwares,0,Adventure,999,"English, French, German, Italian, Polish, Russian, Spanish - Spain",0,68,Dracula Origin,44,"20,000 .. 50,000",90,999,Frogwares,28,4,67
+313,11130,0,38,0,Frogwares,0,Adventure,0,"English, French, German, Italian, Polish, Portuguese - Brazil, Russian, Spanish - Spain",0,11,Sherlock Holmes: The Mystery of the Mummy,127,"100,000 .. 200,000",57,0,Frogwares,3,5,30
+314,11140,0,286,3,Frogwares,0,Adventure,999,"English, French, German, Italian, Polish, Russian",0,282,Sherlock Holmes: The Awakened - Remastered Edition,45,"100,000 .. 200,000",172,999,Frogwares,49,7,79
+315,11150,0,209,2,Frogwares,0,Adventure,999,"English, Bulgarian, Czech, French, German, Italian, Polish, Russian, Spanish - Spain",0,111,Sherlock Holmes: The Silver Earring,50,"100,000 .. 200,000",95,999,Frogwares,26,4,63
+316,11180,0,278,1,Frogwares,0,"Adventure, Casual",999,"English, French, German, Spanish - Spain",0,191,Sherlock Holmes: The Mystery of the Persian Carpet,89,"0 .. 20,000",40,999,Frogwares,4,4,31
+317,11190,0,291,4,Frogwares,0,"Adventure, RPG",999,"English, Czech, French, German, Italian, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain",0,73,Sherlock Holmes versus Jack the Ripper,88,"100,000 .. 200,000",294,999,Frogwares,44,7,75
+318,11200,0,212,4,Frozenbyte,85,Action,999,"English, French, Spanish - Spain",0,135,Shadowgrounds Survivor,237,"200,000 .. 500,000",330,149,Frozenbyte,18,11,58
+319,11230,0,34,0,"CINEMAX, s.r.o.",0,"Casual, Indie, Racing",299,"English, German, Polish, Czech",0,12,Gumboy Tournament,142,"50,000 .. 100,000",353,299,"CINEMAX, s.r.o.",35,6,72
+320,11240,0,71,0,Meridian4,0,"Action, Indie, Strategy",499,English,0,12,Space Trader: Merchant Marine,308,"200,000 .. 500,000",304,499,Meridian4,11,10,52
+321,11250,0,128,0,"Buka Entertainment, Lesta Studio",0,"Simulation, Strategy",799,English,0,113,Pacific Storm,9,"50,000 .. 100,000",18,799,Buka Entertainment,27,4,69
+322,11260,0,151,0,Lesta Studio,0,"Simulation, Strategy",799,English,0,163,Pacific Storm Allies,56,"50,000 .. 100,000",76,799,Buka Entertainment,17,4,55
+323,11280,625,175,1,Frogames,0,"Action, Casual, Indie",599,English,625,117,Penguins Arena: Sedna's World,127,"100,000 .. 200,000",904,599,Frogames,69,10,89
+324,11330,0,93,1,IonFX,0,"Casual, Indie",499,English,0,24,Obulis,130,"200,000 .. 500,000",586,499,Meridian4,54,8,83
+325,11340,0,117,1,Meridian4,0,"Action, Indie",499,English,0,31,Larva Mortus,159,"100,000 .. 200,000",523,499,Meridian4,44,15,76
+326,11360,0,40,1,2DEngine.com,0,Indie,499,English,0,13,Chains,142,"100,000 .. 200,000",432,499,Meridian4,42,9,74
+327,11370,0,179,0,,0,,499,"English, French, German, Italian, Spanish - Spain",0,19,Nikopol: Secrets of the Immortals,127,"100,000 .. 200,000",163,499,Meridian4,16,12,59
+328,11390,0,93,6,,0,,999,"English, French, German",0,24,Crash Time 2,1012,"500,000 .. 1,000,000",1140,999,Meridian4,13,9,56
+329,11450,176,279,61,"Triumph Studios, Virtual Programming",0,RPG,499,"English, French, German, Spanish - Spain",341,70,Overlord,266,"1,000,000 .. 2,000,000",3387,499,Codemasters,84,20,93
+330,11480,0,558,12,Best Way,0,Strategy,499,"English, French, German, Italian, Spanish - Spain, Russian",0,203,Soldiers: Heroes of World War II,60,"100,000 .. 200,000",265,499,1C Entertainment,54,3,79
+331,11560,0,608,0,KDV Games,0,Strategy,499,"English, French, German, Italian, Spanish - Spain",0,1093,Maelstrom: The Battle for Earth Begins,43,"20,000 .. 50,000",69,499,Codemasters,21,2,62
+332,11590,0,86,3,Deep Red Limited,0,Simulation,499,"English, French, German, Italian, Spanish - Spain, Dutch",0,29,Hospital Tycoon,293,"200,000 .. 500,000",174,499,Codemasters,5,3,45
+333,11610,30,4458,94,Eyedentity Games Inc.,0,"Action, Free to Play, Massively Multiplayer, RPG",0,English,30,212,Dragon Nest,497,"500,000 .. 1,000,000",1456,0,Eyedentity Games Inc.,40,13,74
+334,12100,289,281,92,Rockstar Games,0,Action,999,"English, French, German, Italian, Spanish - Spain",50,40,Grand Theft Auto III,726,"2,000,000 .. 5,000,000",4557,999,Rockstar Games,66,20,85
+335,12110,85,399,303,Rockstar Games,0,Action,999,"English, French, German, Italian, Spanish - Spain",57,77,Grand Theft Auto: Vice City,782,"1,000,000 .. 2,000,000",9508,999,Rockstar Games,84,20,92
+336,12120,230,1338,1314,Rockstar Games,0,Action,1499,English,42,153,Grand Theft Auto: San Andreas,3114,"2,000,000 .. 5,000,000",26122,1499,Rockstar Games,74,20,88
+337,12130,0,167,7,Rockstar North,0,Action,999,"English, French, German, Italian, Spanish - Spain",0,27,Manhunt,415,"100,000 .. 200,000",790,999,Rockstar Games,26,18,67
+338,12140,64,284,52,Remedy Entertainment,0,Action,999,English,93,98,Max Payne,415,"500,000 .. 1,000,000",3782,999,Rockstar Games,77,20,90
+339,12150,37,297,28,Remedy Entertainment,0,Action,999,English,17,96,Max Payne 2: The Fall of Max Payne,168,"500,000 .. 1,000,000",2407,999,Rockstar Games,87,20,92
+340,12160,0,162,5,Rockstar San Diego,0,Racing,0,"English, French, Italian, German, Spanish - Spain",0,21,Midnight Club 2,108,"100,000 .. 200,000",509,0,Rockstar Games,56,9,85
+341,12170,0,28,1,Rockstar North,0,Action,0,English,0,5,Grand Theft Auto,29,"200,000 .. 500,000",195,0,Rockstar Games,69,11,83
+342,12180,0,28,1,Rockstar North,0,Action,0,English,0,8,Grand Theft Auto 2,17,"500,000 .. 1,000,000",176,0,Rockstar Games,80,13,86
+343,12200,37,457,131,Rockstar New England,0,"Action, Adventure",1499,"English, Italian, German, Spanish - Spain, French",38,120,Bully: Scholarship Edition,1710,"500,000 .. 1,000,000",8342,1499,Rockstar Games,56,20,82
+344,12210,160,1614,1098,"Rockstar North, Rockstar Toronto",0,"Action, Adventure",1999,"English, French, Italian, German, Spanish - Spain",49,560,Grand Theft Auto IV,18616,"2,000,000 .. 5,000,000",34573,1999,Rockstar Games,26,20,63
+345,12220,56,1124,185,Rockstar North / Toronto,0,Action,1999,"English, French, German, Italian, Spanish - Spain",35,199,Grand Theft Auto: Episodes from Liberty City,2296,"2,000,000 .. 5,000,000",6271,1999,Rockstar Games,38,20,71
+346,12240,0,306,15,,0,,0,,0,18,Grand Theft Auto: Vice City,781,"0 .. 20,000",9497,0,,84,20,92
+347,12310,0,379,0,Momentum Digital Media Technologies,0,"RPG, Casual, Adventure",999,English,0,449,Culpa Innata,14,"20,000 .. 50,000",56,999,Strategy First,52,8,80
+348,12320,39,420,59,Ascaron Entertainment ltd.,0,"Action, RPG",999,English,39,77,Sacred Gold,301,"200,000 .. 500,000",1465,999,Strategy First,56,16,82
+349,12330,20,348,3,Ascaron Entertainment ltd.,0,Action,999,English,32,42,Darkstar One,58,"100,000 .. 200,000",249,999,Strategy First,54,8,81
+350,12340,0,445,0,Deck13,0,Adventure,999,English,0,240,Jack Keane,26,"20,000 .. 50,000",45,999,Deck13,23,3,65
+351,12360,38,346,32,Bugbear Entertainment,0,Racing,1999,"English, French, German, Italian, Spanish - Spain",37,126,FlatOut: Ultimate Carnage,385,"200,000 .. 500,000",1920,1999,Strategy First,58,9,82
+352,12390,0,84,0,Parallax Arts Studio,85,Action,1499,English,0,136,Exodus from the Earth ,40,"20,000 .. 50,000",48,224,Strategy First,14,3,56
+353,12420,0,162,0,KDV Games,0,Strategy,1499,English,0,233,Perimeter 2: New Earth,40,"0 .. 20,000",12,1499,Strategy First,2,2,21
+354,12430,0,12,0,Technetium Games,0,Casual,499,English,0,14,SlamIt Pinball Big Score,68,"0 .. 20,000",31,499,Kalypso Media Digital,4,2,32
+355,12440,0,239,0,Deck 13,0,Adventure,499,English,0,240,Ankh 2: Heart of Osiris ,17,"20,000 .. 50,000",21,499,Strategy First,15,3,54
+356,12450,0,375,0,Deck 13,0,Adventure,999,English,0,377,Ankh 3: Battle of the Gods,8,"20,000 .. 50,000",11,999,Strategy First,17,2,55
+357,12460,0,24,0,Mascot Entertainment,0,Strategy,499,English,0,29,BC Kings,76,"20,000 .. 50,000",85,499,Strategy First,13,2,54
+358,12470,0,192,19,Ascaron Entertainment ltd.,0,Strategy,499,English,0,100,Port Royale 2,92,"50,000 .. 100,000",171,499,Strategy First,26,6,64
+359,12480,0,24,0,"Noviy Disk, Lesta Studios Inc",0,Strategy,999,English,0,34,9th Company: Roots Of Terror,66,"20,000 .. 50,000",86,999,Strategy First,16,5,57
+360,12500,0,622,13,Infinite Interactive,0,Casual,999,English,0,269,PuzzleQuest: Challenge of the Warlords,76,"100,000 .. 200,000",557,999,"D3Publisher of America, Inc.",69,12,87
+361,12510,0,70,0,"Gamebryo, Virtual Playground",0,Strategy,999,English,0,99,Prison Tycoon 3: Lockdown,87,"20,000 .. 50,000",18,999,"ValuSoft, Retroism",2,2,17
+362,12520,0,579,7,SCS Software,0,Racing,999,English,0,298,18 Wheels of Steel: American Long Haul,110,"50,000 .. 100,000",243,999,"ValuSoft, Play Hard Games",30,4,70
+363,12530,48,613,0,SCS Software,0,"Action, Adventure, Strategy",999,English,48,628,Hunting Unlimited 2008,9,"20,000 .. 50,000",28,999,"ValuSoft, Retroism",42,4,75
+364,12540,0,9,0,Zemnott,0,Casual,999,English,0,10,Mahjongg Investigations: Under Suspicion,6,"0 .. 20,000",21,999,"ValuSoft, Retroism",,2,0
+365,12560,0,42,0,Gabriel Entertainment,0,Simulation,999,English,0,19,Ride! Carnival Tycoon,25,"20,000 .. 50,000",15,999,"ValuSoft, Retroism",5,2,42
+366,12570,0,1420,0,Zemnott,0,,999,"English, French, German, Italian, Spanish - Spain",0,2838,Hot Dish,12,"20,000 .. 50,000",10,999,ValuSoft,,1,0
+367,12580,0,7,0,Zemnott,0,,999,"English, French, German, Italian, Spanish - Spain",0,12,Dr. Daisy Pet Vet,10,"20,000 .. 50,000",11,999,ValuSoft,,2,0
+368,12590,0,52,0,BigAnt Studios,0,Racing,999,English,0,83,Sprint Cars Road to Knoxville,24,"20,000 .. 50,000",25,999,"ValuSoft, Retroism",12,1,55
+369,12600,0,10,0,"Merscom, Babylon",0,Racing,999,English,0,10,Midnight Outlaw: 6 Hours to SunUp,27,"0 .. 20,000",10,999,"ValuSoft, Retroism",3,1,16
+370,12640,885,454,17,Radon Labs,0,RPG,999,"English, German, French",885,63,Drakensang,70,"100,000 .. 200,000",225,999,DTP Entertainment,44,14,75
+371,12650,0,77,0,dtp – young entertainment Gmbh &amp; Co. KG,0,"Casual, Simulation",699,English,0,81,Fetch It Again,1,"0 .. 20,000",2,699,"ValuSoft, Retroism",,2,0
+372,12660,0,0,0,dtp – young entertainment Gmbh &amp; Co. KG,0,"Casual, Simulation",699,English,0,0,Miss Popularity,2,"0 .. 20,000",2,699,"ValuSoft, Retroism",,2,0
+373,12670,0,1,0,Virtual Playground,0,Simulation,999,English,0,1,Mission Runway,6,"0 .. 20,000",14,999,"ValuSoft, Retroism",,2,0
+374,12690,0,979,0,,0,,999,English,0,986,Hunting Unlimited 2010,38,"20,000 .. 50,000",137,999,"ValuSoft, Retroism",47,4,77
+375,12710,246,404,42,"Triumph Studios, Virtual Programming",0,RPG,999,"English, French, German, Italian, Spanish - Spain",246,164,Overlord: Raising Hell,72,"500,000 .. 1,000,000",925,999,Codemasters,84,13,92
+376,12770,0,99,4,Liquid Entertainment,0,RPG,999,"English, French, German, Italian, Spanish - Spain",0,24,Rise of the Argonauts,176,"200,000 .. 500,000",359,999,Codemasters,28,7,74
+377,12790,0,162,1,Blue Omega Entertainment,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",0,141,Damnation,175,"50,000 .. 100,000",134,999,Codemasters,8,9,48
+378,12810,56,522,77,"Triumph Studios, Virtual Programming",0,RPG,999,"English, French, German, Italian, Spanish - Spain",58,176,Overlord II,298,"1,000,000 .. 2,000,000",2071,999,Codemasters,69,20,87
+379,12830,31,224,20,Codemasters Studios,0,Action,999,"English, French, German, Italian, Spanish - Spain",31,65,Operation Flashpoint: Dragon Rising,575,"500,000 .. 1,000,000",1008,999,Codemasters,23,17,63
+380,12900,40,520,30,Dylan Fitterer,0,Indie,999,English,45,148,AudioSurf,394,"1,000,000 .. 2,000,000",9023,999,Codemasters,93,20,95
+381,13000,0,388,0,Sanzaru Games,0,"Casual, Indie",499,"English, French, German, Italian, Spanish - Spain, Japanese, (all with full audio support)",0,653,Ninja Reflex: Steamworks Edition,4,"0 .. 20,000",46,499,Nunchuck Games,84,3,93
+382,13200,11,107,3,"Epic Games, Inc.",0,Action,1499,English,11,34,Unreal 2: The Awakening,96,"200,000 .. 500,000",235,1499,"Epic Games, Inc.",33,8,70
+383,13210,13,1275,34,"Epic Games, Inc.",0,Action,1999,"English, French, German, Spanish - Spain, Italian",25,146,Unreal Tournament 3 Black,268,"500,000 .. 1,000,000",2378,1999,"Epic Games, Inc.",74,20,89
+384,13230,34,1081,47,"Epic Games, Inc.",0,Action,1499,"English, French, German, Italian, Spanish - Spain",60,129,Unreal Tournament 2004: Editor's Choice Edition,57,"200,000 .. 500,000",2147,1499,"Epic Games, Inc.",97,20,97
+385,13240,9,142,31,"Epic Games, Inc.",0,Action,999,English,14,46,Unreal Tournament: Game of the Year Edition,61,"200,000 .. 500,000",2089,999,"Epic Games, Inc.",97,20,97
+386,13250,1081,462,8,"Epic Games, Inc.",0,Action,999,"English, French, German, Italian, Spanish - Spain",2138,2,Unreal Gold,122,"500,000 .. 1,000,000",1196,999,"Epic Games, Inc.",77,20,94
+387,13500,0,225,7,Ubisoft,0,"Action, Adventure",999,English,0,45,Prince of Persia: Warrior Within,100,"200,000 .. 500,000",640,999,Ubisoft,66,18,85
+388,13520,12,278,75,Crytek Studios,0,Action,999,English,12,65,Far Cry,573,"500,000 .. 1,000,000",3043,999,Ubisoft,61,19,84
+389,13530,0,217,4,Ubisoft Montreal,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",0,50,Prince of Persia: The Two Thrones,103,"200,000 .. 500,000",344,999,Ubisoft,44,15,76
+390,13540,59,144,16,Ubisoft Montreal,0,Action,999,"English, French",59,25,Tom Clancy's Rainbow Six Vegas,101,"100,000 .. 200,000",355,999,Ubisoft,45,12,77
+391,13560,9,256,16,Ubisoft,0,Action,999,"English, French",9,79,Tom Clancy's Splinter Cell,140,"200,000 .. 500,000",873,999,Ubisoft,66,12,85
+392,13570,219,400,30,Ubisoft Montreal,0,Action,999,"English, French, German, Spanish - Spain, Italian",341,103,Tom Clancy's Splinter Cell Chaos Theory,144,"200,000 .. 500,000",1729,999,Ubisoft,84,15,91
+393,13580,100,331,7,Ubisoft Montreal,0,Action,999,"English, French, German, Italian, Spanish - Spain",195,81,Tom Clancy's Splinter Cell Double Agent,439,"200,000 .. 500,000",346,999,Ubisoft,8,7,42
+394,13600,0,186,5,Kudosoft,0,"Action, Adventure",999,English,0,67,Prince of Persia: The Sands of Time,114,"200,000 .. 500,000",800,999,Ubisoft,69,16,86
+395,13620,0,23,0,Red Storm Entertainment,0,Action,499,English,0,23,Tom Clancy's Ghost Recon Desert Siege,2,"50,000 .. 100,000",34,499,Ubisoft,90,5,93
+396,13630,0,60,0,Red Storm Entertainment,0,Action,499,English,0,7,Tom Clancy's Ghost Recon Island Thunder,4,"100,000 .. 200,000",42,499,Ubisoft,80,4,89
+397,15000,0,102,3,Red Storm Entertainment,0,Action,999,English,0,35,Tom Clancy's Rainbow Six Lockdown,77,"20,000 .. 50,000",80,999,Ubisoft,11,5,53
+398,15080,12,95,2,"Ubisoft Bulgaria, Ubisoft Montpellier",0,"Action, Adventure",999,"English, French, Spanish - Spain",23,50,Rayman Raving Rabbids,75,"20,000 .. 50,000",228,999,Ubisoft,42,9,74
+399,15100,276,614,92,Ubisoft Montreal,0,"Action, Adventure",1999,"English, French, Italian, German, Spanish - Spain",267,261,Assassin's Creed: Director's Cut Edition,1115,"1,000,000 .. 2,000,000",5552,1999,Ubisoft,58,20,82
+400,15120,214,529,60,Ubisoft Montreal,0,Action,999,"English, French, Italian, German, Spanish - Spain",346,213,Tom Clancy's Rainbow Six Vegas 2,448,"1,000,000 .. 2,000,000",2527,999,Ubisoft,61,20,84
+401,15130,36,247,20,Ubisoft,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",36,100,Beyond Good and Evil,177,"200,000 .. 500,000",1792,999,Ubisoft,80,20,90
+402,15160,0,272,2,Ubisoft,0,Simulation,999,"English, French, Spanish - Spain",0,392,Petz Horsez 2,34,"0 .. 20,000",70,999,Ubisoft,28,4,61
+403,15170,109,964,213,Nival,0,Strategy,999,"English, French, Italian, German, Spanish - Spain",164,240,Heroes of Might & Magic V,170,"500,000 .. 1,000,000",1234,999,Ubisoft,69,12,87
+404,15190,0,188,8,Gearbox Software,0,Action,999,"English, French, Italian, Dutch, Spanish - Spain",0,93,Brothers in Arms: Road to Hill 30,91,"100,000 .. 200,000",608,999,Ubisoft,66,13,86
+405,15200,1,604,39,Ubisoft Romania,0,Simulation,999,"English, French, Spanish - Spain",1,175,Silent Hunter: Wolves of the Pacific,122,"100,000 .. 200,000",225,999,Ubisoft,24,4,64
+406,15210,71,2407,105,Ubisoft,0,Simulation,999,"English, German",71,182,Silent Hunter III,108,"100,000 .. 200,000",655,999,Ubisoft,63,11,85
+407,15240,1791,1216,0,Ubisoft Romania,0,Simulation,999,English,1791,117,Silent Hunter: Wolves of the Pacific U-Boat Missions,24,"50,000 .. 100,000",70,999,Ubisoft,40,3,73
+408,15270,0,302,2,Darkworks,0,Action,999,"English, French, Italian, German, Spanish - Spain",0,180,Cold Fear,40,"20,000 .. 50,000",257,999,Ubisoft,66,6,86
+409,15300,4,112,16,Red Storm Entertainment,0,Action,999,English,4,43,Tom Clancy's Ghost Recon,41,"100,000 .. 200,000",527,999,Ubisoft,84,15,92
+410,15320,27,1121,57,1C: Maddox Games,0,Simulation,999,"English, Russian",27,74,IL-2 Sturmovik: 1946,178,"200,000 .. 500,000",1258,999,1C Entertainment,69,12,88
+411,15350,0,186,0,Ubisoft,0,Casual,999,English,0,186,Brain Spa,4,"0 .. 20,000",3,999,Ubisoft,,1,0
+412,15370,177,1506,216,Nival,0,Strategy,999,"English, French, Italian, German, Spanish - Spain",218,477,Heroes of Might & Magic V: Tribes of the East,60,"200,000 .. 500,000",740,999,Ubisoft,84,7,92
+413,15380,279,192,18,Nival,0,Strategy,999,"English, French, Italian, German, Spanish - Spain",279,12,Heroes of Might & Magic V: Hammers of Fate,22,"200,000 .. 500,000",83,999,Ubisoft,49,4,78
+414,15390,48,236,20,Gearbox Software,0,Action,999,"English, French, Italian, Spanish - Spain",48,156,Brothers in Arms: Hell's Highway,93,"200,000 .. 500,000",796,999,Ubisoft,74,15,89
+415,15400,0,212,0,Oxeye Game Studio,0,"Strategy, Indie",799,English,0,75,Harvest: Massive Encounter,21,"20,000 .. 50,000",85,799,Oxeye Game Studio,52,5,78
+416,15500,0,132,2,"Dejobaan Games, LLC",0,"Indie, Casual",999,English,0,76,The Wonderful End of the World,134,"100,000 .. 200,000",402,999,"Dejobaan Games, LLC",42,8,75
+417,15520,0,99,1,"Dejobaan Games, LLC",0,"Action, Indie, Sports",999,English,0,51,AaAaAA!!! - A Reckless Disregard for Gravity,102,"100,000 .. 200,000",544,999,"Dejobaan Games, LLC",61,12,84
+418,15540,0,116,0,"Dejobaan Games, LLC",0,"Action, Early Access, Indie",999,English,0,71,1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby),331,"0 .. 20,000",152,999,"Dejobaan Games, LLC",4,8,30
+419,15560,0,48,1,"Dejobaan Games, LLC, Owlchemy Labs",0,"Action, Indie, Sports",999,English,0,16,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,247,"200,000 .. 500,000",745,999,"Dejobaan Games, LLC",42,10,82
+420,15620,65,1186,281,"Relic Entertainment, Feral Interactive (Mac/Linux)",0,Strategy,1999,"English, French, German, Italian, Spanish - Spain",76,386,"Warhammer 40,000: Dawn of War II",738,"2,000,000 .. 5,000,000",5543,1999,"SEGA, Feral Interactive (Mac/Linux)",71,20,86
+421,15700,673,446,24,Oddworld Inhabitants,0,Adventure,299,"English, French, German, Italian, Japanese, Spanish - Spain",967,211,Oddworld: Abe's Oddysee,432,"5,000,000 .. 10,000,000",2713,299,Oddworld Inhabitants,66,20,91
+422,15710,0,155,12,Oddworld Inhabitants,0,Adventure,299,"English, French, German, Italian, Spanish - Spain",0,17,Oddworld: Abe's Exoddus,46,"200,000 .. 500,000",792,299,Oddworld Inhabitants,90,17,94
+423,15740,59,194,3,Oddworld Inhabitants,0,"Action, Adventure, Strategy",499,English,59,103,Oddworld: Munch's Oddysee,157,"50,000 .. 100,000",422,499,Oddworld Inhabitants,36,8,73
+424,15750,29,210,4,Oddworld Inhabitants,0,"Action, Adventure, Strategy",999,English,29,80,Oddworld: Stranger's Wrath HD,133,"200,000 .. 500,000",735,999,Oddworld Inhabitants,61,14,84
+425,15800,0,0,0,Slam,0,"Indie, Casual",999,English,0,0,Planet Busters,1,"0 .. 20,000",1,999,Slam,,2,0
+426,15900,0,89,0,MumboJumbo,0,Casual,999,English,0,83,7 Wonders II,30,"20,000 .. 50,000",89,999,MumboJumbo,40,4,84
+427,15910,0,1,0,MumboJumbo,0,Casual,999,"English, French, German, Swedish",0,1,Luxor Amun Rising,2,"0 .. 20,000",6,999,MumboJumbo,,1,0
+428,15920,1,21,0,MumboJumbo,0,Casual,999,"English, French, German",1,10,Luxor 2,11,"0 .. 20,000",6,999,MumboJumbo,5,1,42
+429,15930,0,121,0,MumboJumbo,0,Casual,999,English,0,119,Luxor 3,15,"20,000 .. 50,000",49,999,MumboJumbo,44,3,88
+430,15960,0,210,1,MumboJumbo,0,Casual,999,English,0,253,Little Farm,34,"20,000 .. 50,000",71,999,MumboJumbo,28,4,68
+431,15970,0,96,0,MumboJumbo,0,Casual,999,"English, French, German, Swedish",0,73,Luxor,12,"0 .. 20,000",28,999,MumboJumbo,33,2,65
+432,16000,0,938,0,MumboJumbo,0,Casual,999,English,0,1846,Discovery! A Seek and Find Adventure,30,"0 .. 20,000",20,999,MumboJumbo,,2,0
+433,16020,0,116,0,MumboJumbo,0,Casual,999,English,0,217,Samantha Swift and the Hidden Roses of Athena,20,"20,000 .. 50,000",29,999,MumboJumbo,19,5,45
+434,16030,0,109,3,MumboJumbo,0,Casual,999,English,0,107,7 Wonders: Treasures of Seven,20,"20,000 .. 50,000",53,999,MumboJumbo,36,3,81
+435,16040,0,30,0,MumboJumbo,0,Casual,999,English,0,45,Luxor: Quest for the Afterlife ,14,"0 .. 20,000",27,999,MumboJumbo,26,3,55
+436,16060,0,261,0,MumboJumbo,0,Casual,999,English,0,303,Samantha Swift and the Golden Touch,25,"20,000 .. 50,000",25,999,MumboJumbo,11,4,58
+437,16100,0,152,0,Last Day of Work,0,"Casual, Simulation",999,English,0,152,Virtual Villagers: A New Home,6,"0 .. 20,000",20,999,Last Day of Work,44,2,75
+438,16110,0,1,0,Last Day of Work,0,"Casual, Simulation",999,English,0,1,Virtual Villagers: The Lost Children,3,"0 .. 20,000",11,999,Last Day of Work,47,2,76
+439,16120,0,745,0,Last Day of Work,0,"Casual, Simulation",999,English,0,1062,Plant Tycoon,6,"0 .. 20,000",47,999,Last Day of Work,71,3,85
+440,16130,0,276,0,Last Day of Work,0,"Casual, Simulation",999,English,0,306,Fish Tycoon,8,"0 .. 20,000",35,999,Last Day of Work,54,3,81
+441,16180,0,264,0,Last Day of Work,0,"Casual, Simulation",999,English,0,264,Virtual Villagers - The Secret City,7,"0 .. 20,000",31,999,Last Day of Work,54,2,80
+442,16200,0,32,0,Last Day of Work,0,"Casual, Simulation",999,English,0,32,Virtual Families,7,"0 .. 20,000",18,999,Last Day of Work,36,2,72
+443,16300,0,49,0,Queasy Games,0,"Indie, Casual",999,English,0,49,Everyday Shooter,6,"20,000 .. 50,000",80,999,Last Day of Work,87,7,92
+444,16450,283,413,45,Monolith,0,Action,1499,"English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Polish, Russian",417,221,F.E.A.R. 2: Project Origin,493,"1,000,000 .. 2,000,000",3218,1499,Warner Bros. Interactive Entertainment,66,18,85
+445,16500,0,55,0,blurredVision,0,"Casual, Indie",299,"English, German",0,55,Chaos Theory,1,"0 .. 20,000",10,299,blurredVision,,3,0
+446,16600,0,251,2,Redlynx,0,"Indie, Racing, Sports",999,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Swedish, Czech, Finnish",0,161,Trials 2: Second Edition,33,"100,000 .. 200,000",167,999,RedLynx Ltd.,58,3,83
+447,16620,0,86,0,Redlynx Ltd,0,"Indie, Racing, Sports",1999,English,0,47,Monster Trucks Nitro ,12,"0 .. 20,000",21,1999,Miniclip.com,23,3,62
+448,16710,0,26,1,Crackpot Entertainment,0,"Action, Adventure",99,English,0,13,Insecticide Part 1,108,"100,000 .. 200,000",307,99,Missing Link Games,38,11,74
+449,16720,0,84,4,Replay Studios,0,Action,199,"English, French",0,16,Velvet Assassin,818,"200,000 .. 500,000",1202,199,Missing Link Games,19,11,58
+450,16730,0,91,4,Spark Unlimited,0,Action,199,English,0,37,Legendary,1001,"200,000 .. 500,000",1094,199,SouthPeak Games,13,9,53
+451,16810,13,317,185,Firaxis Games,0,Strategy,1999,"English, French, German, Spanish - Spain, Italian",21,31,Sid Meier's Civilization IV: Colonization,92,"1,000,000 .. 2,000,000",325,1999,2K,45,8,79
+452,16900,122,248,38,BlackFoot Studios,0,"Action, Indie, Early Access",1999,English,122,180,GROUND BRANCH,107,"20,000 .. 50,000",490,1999,BlackFoot Studios,56,12,79
+453,17100,0,748,0,"Tilted Mill Entertainment, Inc.",0,"Strategy, Simulation",799,"English, French, German, Italian, Spanish - Spain",0,665,Children of the Nile: Enhanced Edition,35,"50,000 .. 100,000",175,799,"Tilted Mill Entertainment, Inc.",58,8,83
+454,17120,0,117,0,"Tilted Mill Entertainment, Inc.",0,"Strategy, Simulation",249,"English, French, German, Italian, Spanish - Spain",0,165,Children of the Nile: Alexandria,12,"20,000 .. 50,000",52,249,"Tilted Mill Entertainment, Inc.",54,7,80
+455,17140,0,271,2,"Tilted Mill Entertainment, Inc.",0,"RPG, Strategy",999,"English, French, German, Spanish - Spain",0,412,Hinterland,37,"20,000 .. 50,000",113,999,"Tilted Mill Entertainment, Inc.",42,7,76
+456,17180,0,721,0,"Tilted Mill Entertainment, Inc.",0,Strategy,999,English,0,721,Mosby's Confederacy,6,"0 .. 20,000",15,999,"Tilted Mill Entertainment, Inc.",35,2,70
+457,17300,29,385,75,Crytek,0,Action,1999,"English, French, German, Spanish - Spain, Italian, Czech, Polish, Russian, Hungarian",18,181,Crysis,1244,"1,000,000 .. 2,000,000",5948,1999,Electronic Arts,56,20,82
+458,17330,12,202,23,Crytek,0,Action,1999,"English, French, German, Spanish - Spain, Italian, Czech, Polish, Russian, Hungarian",18,119,Crysis Warhead,300,"1,000,000 .. 2,000,000",1658,1999,Electronic Arts,61,15,84
+459,17390,215,908,905,Maxis™,0,Simulation,1999,"English, Czech, Danish, German, Spanish - Spain, Finnish, French, Italian, Hungarian, Dutch, Norwegian, Polish, Russian, Swedish, Portuguese",111,332,SPORE,1953,"2,000,000 .. 5,000,000",14757,1999,Electronic Arts,71,20,87
+460,17410,84,289,68,DICE,0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain, Czech, Russian, Polish, Hungarian, Portuguese",102,151,Mirror's Edge,2310,"2,000,000 .. 5,000,000",17691,1999,Electronic Arts,71,20,87
+461,17430,43,612,111,EA Black Box,0,"Action, Racing",999,English,53,153,Need for Speed Undercover,1045,"200,000 .. 500,000",2286,999,Electronic Arts,30,10,67
+462,17440,580,306,55,Maxis™,0,Simulation,1999,"English, Czech, Danish, German, Spanish - Spain, Finnish, French, Italian, Hungarian, Dutch, Norwegian, Polish, Russian, Swedish, Portuguese",580,58,SPORE Creepy & Cute Parts Pack,95,"500,000 .. 1,000,000",462,1999,Electronic Arts,56,14,81
+463,17450,228,1906,265,BioWare,0,RPG,1999,"English, Spanish - Spain, Italian, Czech, French, German, Polish, Russian",191,379,Dragon Age: Origins,449,"500,000 .. 1,000,000",6114,1999,Electronic Arts,87,20,93
+464,17460,147,1178,323,BioWare,0,"Action, RPG",1999,"English, French, German, Spanish - Spain, Italian",190,470,Mass Effect,639,"1,000,000 .. 2,000,000",9913,1999,Electronic Arts,87,20,93
+465,17470,70,329,164,EA Redwood Shores,0,Action,1999,"English, French, German, Italian, Spanish - Spain",34,87,Dead Space,1026,"2,000,000 .. 5,000,000",8904,1999,Electronic Arts,74,20,89
+466,17480,133,769,312,EA Los Angeles,0,Strategy,1999,"English, Czech, French, German, Hungarian, Italian, Polish, Russian, Spanish - Spain",163,286,Command & Conquer: Red Alert 3,830,"500,000 .. 1,000,000",4276,1999,Electronic Arts,58,18,83
+467,17500,88,1881,82,Zombie Panic Team,0,"Action, Free to Play, Indie",0,"English, Russian, French, Italian, German, Spanish - Spain, Danish, Dutch, Portuguese, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America",80,29,Zombie Panic! Source,898,"500,000 .. 1,000,000",5196,0,Zombie Panic Team,63,20,85
+468,17570,58,613,51,Octoshark Studios,0,"Action, Free to Play, Indie",0,"English, Danish, Dutch, Finnish, French, German, Norwegian, Portuguese, Russian, Spanish - Spain, Swedish",51,53,"Pirates, Vikings, and Knights II",571,"500,000 .. 1,000,000",3781,0,Octoshark Studios,66,20,86
+469,17580,0,170,1,Puny Human,0,"Action, Free to Play, Indie",0,"English, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish - Spain, Swedish, Traditional Chinese, Thai",0,14,Dystopia,153,"200,000 .. 500,000",738,0,Telltale Games,56,20,82
+470,17710,0,318,15,"GameConnect, InterWave Studios",82,"Action, Strategy",999,"English, Czech, German, Russian, Spanish - Spain, Korean",0,149,Nuclear Dawn,436,"200,000 .. 500,000",1663,179,Iceberg Interactive,49,11,79
+471,17740,3424,2740,8,Empires,0,"Action, Free to Play, Strategy",0,"English, Polish, Spanish - Spain, Russian",5103,85,Empires Mod,113,"100,000 .. 200,000",653,0,Empires,63,9,85
+472,18000,0,208,1,Hothead Games,0,"Adventure, RPG",799,English,0,153,"Precipice of Darkness, Episode One",42,"200,000 .. 500,000",393,799,Hothead Games,77,6,93
+473,18020,0,309,0,Hothead Games,0,"Adventure, RPG",799,English,0,280,"Precipice of Darkness, Episode Two",22,"200,000 .. 500,000",118,799,Hothead Games,61,6,87
+474,18040,64,312,2,Hothead Games,0,"Action, Indie, RPG",1499,English,64,274,DeathSpank,34,"100,000 .. 200,000",534,1499,Electronic Arts,90,9,93
+475,18050,0,391,0,Hothead Games,0,"Action, RPG, Indie",1499,English,0,381,DeathSpank: Thongs of Virtue,18,"50,000 .. 100,000",123,1499,Electronic Arts,69,8,85
+476,18070,0,139,1,Hothead Games,0,"Action, Adventure, RPG",1499,English,0,21,The Baconing,37,"100,000 .. 200,000",149,1499,Hothead Games,52,7,76
+477,18120,0,138,0,Futuremark,0,"Action, Casual, Indie, Strategy",999,"English, German",0,55,Unstoppable Gorg,47,"50,000 .. 100,000",188,999,Futuremark,52,9,78
+478,18300,1,186,0,Shorebound Studios,0,"Casual, Indie",499,English,1,161,Spectraball,98,"50,000 .. 100,000",291,499,Shorebound Studios,40,4,75
+479,18400,0,203,1,Fakt Software,0,"Casual, Strategy",999,English,0,129,Crazy Machines 2,106,"100,000 .. 200,000",94,999,Viva Media,10,5,59
+480,18420,0,109,0,Fakt Software,0,"Casual, Strategy",999,English,0,52,Crazy Machines,23,"50,000 .. 100,000",95,999,Viva Media,52,4,81
+481,18430,0,0,0,Fakt Software,0,"Casual, Strategy",999,English,0,0,Crazy Machines 1.5,0,"0 .. 20,000",0,999,Viva Media,,0,0
+482,18470,0,25,0,Spellbound,0,Strategy,999,"English, French, German, Spanish - Spain",0,37,Helldorado,23,"50,000 .. 100,000",50,999,"Black Forest Games, THQ Nordic",30,2,71
+483,18480,0,85,1,4Head Studios,0,Adventure,999,"English, German, Italian, French",0,92,Mata Hari,36,"20,000 .. 50,000",50,999,Viva Media,18,6,58
+484,18500,14,612,99,Hidden Path Entertainment,0,"Indie, Strategy",999,"English, French, Italian, German, Spanish - Spain",14,238,Defense Grid: The Awakening,109,"500,000 .. 1,000,000",3282,999,Hidden Path Entertainment,95,13,97
+485,18600,0,12,0,Inventive Dingo,0,"Indie, Strategy",999,English,0,24,Mayhem Intergalactic,10,"0 .. 20,000",12,999,Inventive Dingo,14,2,76
+486,18700,0,48,1,Broken Rules,0,"Action, Indie",999,"English, French, German, Italian, Japanese, Spanish - Spain",0,26,And Yet It Moves,324,"200,000 .. 500,000",733,999,Broken Rules,31,9,78
+487,18820,30,164,3,Brian Cronin,0,"Action, Indie, Racing, Sports",499,English,30,111,Zero Gear,168,"100,000 .. 200,000",656,499,Brian Cronin,49,6,79
+488,19000,396,300,9,Double Helix Games,0,Adventure,3999,"English, French, Italian, German, Spanish - Spain",396,104,Silent Hill Homecoming,404,"100,000 .. 200,000",464,3999,"Konami Digital Entertainment, Inc., Konami Digital Entertainement GmbH",14,11,51
+489,19020,0,275,0,Infinite Interactive,0,"Casual, RPG",999,"English, French, German, Italian, Spanish - Spain",0,529,Puzzle Chronicles,8,"0 .. 20,000",16,999,"Konami Digital Entertainment, Inc., Konami Digital Entertainment GmbH",27,3,58
+490,19030,0,59,1,Climax Studios,0,"Action, Adventure",1499,English,0,81,Rocket Knight,22,"0 .. 20,000",69,1499,"Konami Digital Entertainment, Inc., Konami Digital Entertainment GmbH",42,3,73
+491,19080,0,6,0,G5 Entertainment,0,"Action, Adventure, Casual",999,English,0,6,Biozone,13,"0 .. 20,000",1,999,"Konami Digital Entertainment, Inc., Konami Digital Entertainment GmbH",,3,0
+492,19200,0,108,0,Dialogue Design,0,"Action, Indie",499,"English, Russian",0,40,Tank Universal,188,"100,000 .. 200,000",228,499,Meridian4,14,11,56
+493,19320,0,7,0,Strawdog Studios Ltd,0,"Action, Indie, Casual",499,English,0,9,Space Ark,8,"0 .. 20,000",6,499,Bounce Entertainment,,3,0
+494,19500,0,20,0,"Luc Bernard, SilverSphereStudios",0,"Adventure, Indie",499,English,0,22,Eternity's Child,47,"0 .. 20,000",16,499,Silver Sphere Studios,3,3,17
+495,19800,212,248,8,Gearbox Software,0,Action,999,"English, French, Italian, German, Spanish - Spain",212,41,Brothers in Arms: Earned in Blood,51,"100,000 .. 200,000",286,999,Ubisoft,61,8,84
+496,19810,0,13,0,Red Storm Entertainment,0,Action,999,English,0,13,The Sum of All Fears,3,"0 .. 20,000",17,999,Ubisoft,63,2,85
+497,19830,5980,990,24,"Red Storm Entertainment, Ubisoft Montreal",0,Action,999,English,5980,66,Tom Clancy's Rainbow Six 3 Gold,64,"200,000 .. 500,000",796,999,Ubisoft,84,15,92
+498,19900,48,460,136,Ubisoft Montreal,0,Action,999,"English, French, Italian, German, Spanish - Spain",57,153,Far Cry 2: Fortune's Edition,1672,"1,000,000 .. 2,000,000",5157,999,Ubisoft,42,20,74
+499,19980,332,265,10,Ubisoft Montreal,0,"Action, Adventure",999,"English, French, Italian, German, Spanish - Spain",332,90,Prince of Persia,254,"200,000 .. 500,000",923,999,Ubisoft,47,15,78
+500,20200,0,79,0,Perpetual FX Creative,0,"Indie, Casual, Sports",1999,English,0,79,Galactic Bowling,10,"0 .. 20,000",6,1999,Perpetual FX Creative,5,4,41
+501,20500,15,599,29,"Volition, Reactor Zero, THQ Nordic",0,Action,1999,"English, French, German, Italian, Spanish - Spain, Czech, Polish, Russian",15,261,Red Faction Guerrilla Steam Edition,677,"1,000,000 .. 2,000,000",6387,1999,THQ Nordic,77,20,90
+502,20510,325,708,218,GSC Game World,0,"Action, RPG",999,"English, French, German, Spanish - Spain, Russian, Ukrainian, Italian",432,160,S.T.A.L.K.E.R.: Clear Sky,849,"500,000 .. 1,000,000",5320,999,GSC World Publishing,66,20,85
+503,20530,0,265,11,"Volition, Inc.",0,Action,999,English,0,64,Red Faction,146,"500,000 .. 1,000,000",1306,999,THQ Nordic,74,12,88
+504,20540,0,831,69,Relic Entertainment,0,Strategy,1999,"English, French, German, Italian, Spanish - Spain",0,110,Company of Heroes: Tales of Valor,94,"2,000,000 .. 5,000,000",1324,1999,SEGA,87,11,92
+505,20550,0,88,5,"Volition, Inc.",0,"Action, Strategy",999,English,0,38,Red Faction II,307,"200,000 .. 500,000",351,999,THQ Nordic,14,10,53
+506,20570,2,1150,98,"Relic Entertainment, Feral Interactive (Mac/Linux)",0,Strategy,1999,"English, French, German, Italian, Spanish - Spain",2,407,"Warhammer 40,000: Dawn of War II Chaos Rising",160,"1,000,000 .. 2,000,000",1609,1999,"SEGA, Feral Interactive (Mac/Linux)",77,14,87
+507,20700,0,141,0,Moonpod,0,"Action, Indie, Strategy",799,English,0,213,Starscape,15,"0 .. 20,000",51,799,Moonpod,45,5,79
+508,20710,0,147,0,Moonpod,0,"Action, Indie, Strategy",799,English,0,88,Mr. Robot,12,"20,000 .. 50,000",54,799,Moonpod,54,7,81
+509,20820,13,106,0,Sidhe,0,"Action, Indie",999,"English, French, German, Italian, Spanish - Spain",13,58,Shatter,63,"200,000 .. 500,000",952,999,PikPok,87,16,96
+510,20900,276,866,894,CD PROJEKT RED,0,"Action, RPG",999,"English, French, German, Spanish - Spain, Italian, Czech, Russian, Hungarian, Polish, Traditional Chinese",106,149,The Witcher: Enhanced Edition Director's Cut,4085,"2,000,000 .. 5,000,000",25637,999,"CD PROJEKT RED, 1C-SoftClub",66,20,86
+511,20920,208,807,909,CD PROJEKT RED,0,RPG,1999,"English, German, French, Spanish - Spain, Russian, Czech, Hungarian, Japanese, Polish, Turkish, Traditional Chinese, Italian",105,262,The Witcher 2: Assassins of Kings Enhanced Edition,4550,"5,000,000 .. 10,000,000",35744,1999,"CD PROJEKT RED, 1C-SoftClub",71,20,88
+512,21000,35,325,53,Traveller's Tales,0,"Action, Adventure",1999,"English, French, Spanish - Spain",43,102,LEGO Batman,229,"200,000 .. 500,000",1012,1999,Warner Bros. Interactive Entertainment,54,20,80
+513,21010,0,90,1,Deadline Games,0,Action,499,"English, French, Italian, German, Spanish - Spain",0,80,Watchmen: The End is Nigh,121,"50,000 .. 100,000",227,499,Warner Bros. Interactive Entertainment,26,6,64
+514,21030,0,63,0,Deadline Games,0,Action,499,"English, French, German, Italian, Spanish - Spain",0,77,Watchmen: The End is Nigh Part 2,51,"20,000 .. 50,000",95,499,Warner Bros. Interactive Entertainment,26,3,66
+515,21090,256,290,56,"Monolith Productions, Inc., Timegate",0,Action,5499,English,271,123,F.E.A.R.,424,"1,000,000 .. 2,000,000",6233,5499,Warner Bros. Interactive Entertainment,87,19,94
+516,21100,63,334,55,Day 1 Studios,0,Action,1999,"English, French, German, Italian, Korean, Polish, Portuguese, Russian, Spanish - Spain",108,213,F.E.A.R. 3,2000,"1,000,000 .. 2,000,000",5259,1999,Warner Bros. Interactive Entertainment,36,20,71
+517,21130,518,544,211,TT Games,0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain",547,236,LEGO Harry Potter: Years 1-4,450,"200,000 .. 500,000",1630,1999,Warner Bros. Interactive Entertainment,47,17,76
+518,21300,0,49,0,Dark Castle Software,0,"Indie, Casual",499,English,0,48,Gravitron 2,8,"0 .. 20,000",21,499,Dark Castle Software,36,1,71
+519,21400,0,94,0,Games Faction,0,"Strategy, Action, Indie",599,English,0,82,Project Aftermath,4,"0 .. 20,000",10,599,Games Faction,,4,0
+520,21500,0,400,0,Eipix,0,Racing,499,English,0,400,Pyroblazer,3,"0 .. 20,000",5,499,Candella Systems Ltd,,2,0
+521,21600,0,44,0,Certain Affinity™,0,"Casual, Strategy",0,English,0,44,Age of Booty,114,"20,000 .. 50,000",59,0,Capcom,4,3,34
+522,21640,11,41,0,Proper Games,0,"Casual, Strategy",499,"English, French, German, Italian, Spanish - Spain",11,19,Flock!,33,"20,000 .. 50,000",109,499,Capcom,44,6,76
+523,21660,0,1005,4,Capcom,0,Action,1999,"English, Japanese",0,373,Street Fighter IV,123,"50,000 .. 100,000",291,1999,Capcom,33,11,69
+524,21670,0,193,4,Capcom,0,"Action, Adventure",999,"English, French, Spanish - Spain, Italian, #lang_german;, Russian, Polish, Japanese, German, Korean",0,49,Bionic Commando,241,"200,000 .. 500,000",637,999,Capcom,36,8,74
+525,21680,1,68,2,Capcom,0,Action,999,"English, French, Spanish - Spain, Italian, #lang_german;, Japanese, German",1,16,Bionic Commando: Rearmed,283,"200,000 .. 500,000",453,999,Capcom,21,14,71
+526,21690,331,1110,608,Capcom,0,"Action, Adventure",1999,"English, French, German, Italian, Japanese, Spanish - Spain, Czech, Polish, Russian, Simplified Chinese, Traditional Chinese",160,609,Resident Evil 5/ Biohazard 5,1538,"500,000 .. 1,000,000",8928,1999,Capcom,63,20,85
+527,21780,23,338,3,Ubisoft Reflections,0,Racing,999,"English, French, German, Italian, Spanish - Spain",23,88,Driver Parallel Lines,45,"50,000 .. 100,000",345,999,Ubisoft,71,5,89
+528,21800,274,314,13,Ubisoft  Shanghaï,0,Strategy,999,"English, French, German, Italian, Spanish - Spain",411,126,Tom Clancy's EndWar,104,"100,000 .. 200,000",266,999,Ubisoft,35,7,71
+529,21980,0,343,11,Techland,0,Action,999,"English, French, German, Italian, Spanish - Spain",0,119,Call of Juarez: Bound in Blood,228,"100,000 .. 200,000",1086,999,Ubisoft,56,14,81
+530,22000,38,117,12,2D BOY,0,Indie,999,English,56,39,World of Goo,232,"1,000,000 .. 2,000,000",3425,999,2D BOY,87,20,93
+531,22100,263,698,127,TaleWorlds Entertainment,0,"Indie, RPG",999,"English, German, Polish, Simplified Chinese, Traditional Chinese, Czech",155,175,Mount & Blade,282,"500,000 .. 1,000,000",3143,999,TaleWorlds Entertainment,80,20,91
+532,22120,1,225,10,Frictional Games,0,"Action, Adventure, Indie",999,English,1,177,Penumbra: Black Plague Gold Edition,77,"200,000 .. 500,000",1372,999,Frictional Games,90,20,94
+533,22130,0,577,0,Paradox Development Studio,75,Strategy,1499,English,0,82,Hearts of Iron 2 Complete,46,"100,000 .. 200,000",210,374,Paradox Interactive,56,4,81
+534,22140,15,88,4,Frictional Games,0,"Adventure, Indie",0,English,29,37,Penumbra: Requiem,202,"0 .. 20,000",219,0,Frictional Games,13,5,51
+535,22180,1,182,13,Frictional Games,0,"Action, Adventure, Indie",999,English,1,86,Penumbra Overture,157,"200,000 .. 500,000",1630,999,Frictional Games,80,16,90
+536,22200,76,207,2,ACE Team,0,"Action, Indie",999,"English, German, French, Polish, Spanish - Spain, Italian",76,154,Zeno Clash,346,"200,000 .. 500,000",1969,999,ACE Team,63,15,87
+537,22230,0,167,10,ACE Team,0,"Action, Indie, Racing, Strategy",999,"English, French, German, Italian, Japanese, Russian, Spanish - Spain",0,91,Rock of Ages,243,"200,000 .. 500,000",2600,999,ATLUS USA,80,15,90
+538,22300,352,1082,124,Bethesda Game Studios,0,RPG,999,"English, French, Italian, German, Spanish - Spain",123,199,Fallout 3,2621,"1,000,000 .. 2,000,000",9790,999,Bethesda Softworks,47,20,78
+539,22310,148,393,2,Rebellion,0,Action,499,"English, French, Italian, German, Spanish - Spain",148,52,Rogue Warrior,229,"100,000 .. 200,000",448,499,Bethesda Softworks,27,9,67
+540,22320,108,831,425,Bethesda Game Studios,0,RPG,1499,"English, French, German",31,112,The Elder Scrolls III: Morrowind Game of the Year Edition,528,"1,000,000 .. 2,000,000",9358,1499,Bethesda Softworks,90,20,94
+541,22330,357,1464,1090,Bethesda Game Studios,0,RPG,1499,English,128,404,The Elder Scrolls IV: Oblivion Game of the Year Edition,782,"1,000,000 .. 2,000,000",13422,1499,Bethesda Softworks,90,20,94
+542,22340,6,325,13,Headfirst Productions,0,,499,"English, French, German",6,105,Call of Cthulhu: Dark Corners of the Earth,583,"200,000 .. 500,000",1336,499,Bethesda Softworks,31,19,69
+543,22350,258,485,40,Splash Damage,0,"Action, Free to Play",0,"English, French, German, Italian, Spanish - Spain",468,58,BRINK,2300,"1,000,000 .. 2,000,000",3399,0,Bethesda Softworks,19,20,59
+544,22370,216,1110,342,Bethesda Game Studios,0,RPG,1999,"English, French, German, Italian, Spanish - Spain",40,273,Fallout 3: Game of the Year Edition,4369,"2,000,000 .. 5,000,000",17515,1999,Bethesda Softworks,52,20,79
+545,22380,284,3291,3735,Obsidian Entertainment,0,"Action, RPG",999,"English, French, German, Italian, Spanish - Spain",69,1071,Fallout: New Vegas,3062,"2,000,000 .. 5,000,000",65502,999,Bethesda Softworks,93,20,95
+546,22450,0,226,6,inXile Entertainment,0,"Action, Adventure",499,"English, French, German, Italian, Spanish - Spain",0,75,Hunted: The Demon’s Forge,207,"100,000 .. 200,000",476,499,Bethesda Softworks,31,11,69
+547,22490,564,3144,742,Obsidian Entertainment,0,"Action, RPG",999,"English, French, German, Italian, Spanish",233,1217,Fallout: New Vegas,2153,"500,000 .. 1,000,000",46753,999,Bethesda Softworks,93,20,95
+548,22500,0,807,1,"Apus Software, Three Donkeys LLC",0,Strategy,999,English,0,516,Spectromancer,19,"20,000 .. 50,000",125,999,Three Donkeys LLC,66,2,86
+549,22600,66,446,68,Team17 Digital Ltd,0,Strategy,1999,"English, French, German, Italian, Spanish - Spain",106,167,Worms Reloaded,420,"500,000 .. 1,000,000",2452,1999,Team17 Digital Ltd,63,20,83
+550,22610,0,142,5,Team17 Software Ltd.,0,Action,999,"English, French, German, Italian, Japanese, Spanish - Spain",0,46,Alien Breed: Impact,292,"200,000 .. 500,000",762,999,Team17 Digital Ltd,36,14,77
+551,22650,15,100,2,Team17 Digital Ltd,0,Action,999,"English, French, German, Italian, Japanese, Spanish - Spain",15,29,Alien Breed 2: Assault,219,"200,000 .. 500,000",470,999,Team17 Digital Ltd,30,12,78
+552,22670,0,81,1,Team17 Digital Ltd,0,Action,999,"English, French, German, Italian, Japanese, Spanish - Spain",0,14,Alien Breed 3: Descent,83,"200,000 .. 500,000",240,999,Team17 Digital Ltd,40,10,76
+553,23150,0,115,0,Red Chain Games Ltd.,0,"Casual, Indie",199,"English, French, German, Italian, Spanish - Spain",0,115,Fluttabyes,5,"0 .. 20,000",12,199,Red Chain Games Ltd.,33,2,69
+554,23300,0,95,0,Square Enix,0,Casual,599,"English, French, Italian, German, Spanish - Spain, Japanese",0,18,Yosumin!,65,"100,000 .. 200,000",99,599,Square Enix,20,2,81
+555,23380,0,199,5,"Square Enix, PopCap Games, Inc.",0,RPG,599,"English, French, German, Italian, Japanese, Spanish - Spain",0,66,Gyromancer,109,"100,000 .. 200,000",121,599,Square Enix,13,4,64
+556,23400,0,183,8,Haemimont Games,0,"Simulation, Strategy",999,"English, French, German",0,102,Imperium Romanum Gold Edition,44,"50,000 .. 100,000",184,999,Kalypso Media Digital,52,6,77
+557,23420,0,211,0,Paradox Development Studio,0,Strategy,999,English,0,159,Europa Universalis: Rome - Gold Edition ,50,"100,000 .. 200,000",115,999,Paradox Interactive,31,7,67
+558,23450,108,189,17,Haemimont Games,0,"Simulation, Strategy",999,"English, French, German",108,108,Grand Ages: Rome,133,"200,000 .. 500,000",344,999,Kalypso Media Digital,36,9,73
+559,23455,0,0,0,Haemimont Games,0,"Strategy, Simulation",699,"English, French, German",0,0,Grand Ages: Rome - Reign of Augustus,0,"0 .. 20,000",0,699,Kalypso Media Digital,,0,0
+560,23460,0,292,0,Realmforge Studios,0,"Action, Adventure, Strategy",599,"English, German",0,172,Ceville,18,"20,000 .. 50,000",81,599,Assemble Entertainment,54,6,83
+561,23490,5,240,19,Haemimont Games,0,"Simulation, Strategy",999,"English, French, German, Italian, Spanish - Spain",5,31,Tropico 3,176,"200,000 .. 500,000",1335,999,Kalypso Media Digital,71,14,90
+562,23500,0,633,2,Infinite Interactive,0,"Casual, RPG",999,English,0,529,Puzzle Quest: Galactrix,136,"50,000 .. 100,000",120,999,"D3Publisher of America, Inc.",9,5,47
+563,23530,414,613,7,"Vicious Cycle Software, Inc.",0,Action,999,English,414,181,Earth Defense Force: Insect Armageddon,92,"100,000 .. 200,000",724,999,"D3Publisher of America, Inc.",71,10,89
+564,23600,0,89,0,Soldak Entertainment,0,"Indie, RPG, Strategy",999,English,0,31,Depths of Peril,24,"50,000 .. 100,000",67,999,Soldak Entertainment,38,5,83
+565,23700,0,226,1,Infinite Interactive,0,Casual,1499,English,0,40,Puzzle Kingdoms,101,"50,000 .. 100,000",137,1499,Strategy First,17,6,58
+566,24010,282,2242,2031,Dovetail Games,0,Simulation,2999,"English, French, Italian, German, Spanish - Spain, Polish, Russian, Simplified Chinese",212,328,Train Simulator 2019,5207,"1,000,000 .. 2,000,000",8428,2999,Dovetail Games - Trains,21,20,62
+567,24200,443,2975,678,Daybreak Game Company,0,"Action, Adventure, Free to Play, Massively Multiplayer, RPG",0,English,565,532,DC Universe Online,2593,"50,000 .. 100,000",10035,0,Daybreak Game Company,49,20,79
+568,24240,775,892,69,OVERKILL Software,0,Action,1499,"English, French, German, Italian, Spanish - Spain",52,229,PAYDAY The Heist,2527,"2,000,000 .. 5,000,000",34700,1499,Daybreak Game Company,87,20,92
+569,24400,0,585,10,NeocoreGames,0,"RPG, Strategy",999,English,0,121,King Arthur - The Role-playing Wargame,111,"200,000 .. 500,000",309,999,Paradox Interactive,38,7,72
+570,24410,0,13,0,NeocoreGames,0,Strategy,999,"English, French, German, Italian, Spanish - Spain",0,17,Crusaders: Thy Kingdom Come,11,"0 .. 20,000",12,999,Paradox Interactive,13,3,52
+571,24420,0,289,4,"Bit Blot, LLC",0,Indie,999,English,0,34,Aquaria,131,"200,000 .. 500,000",999,999,"Bit Blot, LLC",71,20,91
+572,24460,0,428,0,NeocoreGames,0,"RPG, Strategy",499,"English, French, German, Spanish - Spain",0,567,King Arthur: Fallen Champions,20,"0 .. 20,000",13,499,Paradox Interactive,6,3,41
+573,24480,0,377,7,NeocoreGames,0,"RPG, Strategy",999,English,0,84,King Arthur II: The Role-Playing Wargame,166,"200,000 .. 500,000",185,999,Paradox Interactive,13,5,53
+574,24640,21,35,0,N3V Games,0,Simulation,1999,English,21,39,Trainz: Classic Cabon City,29,"20,000 .. 50,000",14,1999,N3V Games,4,2,21
+575,24650,0,378,0,N3V Games,0,Simulation,1999,English,0,696,Trainz Settle and Carlisle,17,"0 .. 20,000",13,1999,N3V Games,8,2,60
+576,24660,0,82,0,N3V Games,0,Simulation,0,English,0,150,Trainz: Murchison 2,13,"0 .. 20,000",16,0,N3V Games,15,2,70
+577,24670,2,2141,94,N3V Games,0,Simulation,999,English,2,58,Trainz Simulator 12,355,"200,000 .. 500,000",482,999,N3V Games,17,5,62
+578,24720,6,790,233,EA - Maxis,0,"Action, Simulation",1999,"English, French, German, Italian, Spanish - Spain, Dutch, Russian, Polish, Czech, Hungarian, Finnish, Norwegian, Swedish, Danish, Portuguese",6,177,SPORE Galactic Adventures,445,"500,000 .. 1,000,000",1919,1999,Electronic Arts,54,18,80
+579,24740,157,415,113,Criterion Games,0,Racing,1999,English,145,148,Burnout Paradise: The Ultimate Box,1466,"1,000,000 .. 2,000,000",9657,1999,Electronic Arts,66,20,87
+580,24780,302,1239,400,"EA - Maxis, Aspyr (Mac)",0,"Simulation, Strategy",1999,"English, Danish, Dutch, French, German, Italian, Spanish - Spain, Swedish",576,109,SimCity 4 Deluxe Edition,928,"500,000 .. 1,000,000",3070,1999,"Electronic Arts, Aspyr (Mac)",44,17,75
+581,24790,172,887,313,EA Los Angeles,0,Strategy,1499,"English, Dutch, French, German, Italian, Polish, Russian, Spanish - Spain, Swedish",137,306,Command & Conquer 3: Tiberium Wars,282,"500,000 .. 1,000,000",2247,1499,Electronic Arts,71,9,88
+582,24800,176,434,181,EA Los Angeles,0,Strategy,1999,"English, Czech, French, German, Hungarian, Italian, Korean, Polish, Russian, Spanish - Spain",316,71,Command & Conquer: Red Alert 3 - Uprising,358,"500,000 .. 1,000,000",1410,1999,Electronic Arts,49,11,84
+583,24810,366,1081,224,EA Los Angeles,0,Strategy,1999,"English, Dutch, French, German, Italian, Polish, Russian, Spanish - Spain, Swedish",610,411,Command & Conquer 3: Kane's Wrath,73,"200,000 .. 500,000",1051,1999,Electronic Arts,87,7,93
+584,24840,43,261,61,EA Los Angeles,0,Action,999,"English, German, French, Spanish - Spain, Italian",51,147,Medal of Honor: Airborne,442,"500,000 .. 1,000,000",1676,999,Electronic Arts,49,13,78
+585,24870,145,434,38,Slightly Mad Studios,0,Racing,1999,"English, French, German, Italian, Polish, Russian",288,213,Need for Speed: Shift,395,"200,000 .. 500,000",1071,1999,Electronic Arts,38,9,72
+586,24960,232,1687,424,DICE,0,Action,1999,"English, French, German, Italian, Japanese, Polish, Spanish - Spain",77,459,Battlefield: Bad Company 2,3809,"2,000,000 .. 5,000,000",22830,1999,Electronic Arts,63,20,84
+587,24980,328,1876,299,BioWare,0,RPG,1999,"English, French, German, Czech, Hungarian, Italian, Polish, Russian, Spanish - Spain",542,1181,Mass Effect 2,520,"1,000,000 .. 2,000,000",10501,1999,Electronic Arts,93,20,95
+588,25000,192,332,47,Wolfire Games,0,"Action, Indie",2999,English,347,181,Overgrowth,1293,"200,000 .. 500,000",3142,2999,Wolfire Games,33,20,75
+589,25010,0,50,1,Wolfire Games,0,Action,999,English,0,23,Lugaru HD,98,"100,000 .. 200,000",314,999,Wolfire Games,44,16,81
+590,25500,0,107,0,Mindstorm Studios,0,"Indie, Simulation, Sports",299,English,0,76,Cricket Revolution,50,"20,000 .. 50,000",64,299,Mindstorm Studios,16,3,49
+591,25600,0,235,4,Basilisk Games,0,"Indie, RPG",0,English,0,134,Eschalon: Book I,23,"20,000 .. 50,000",166,0,Basilisk Games,69,9,87
+592,25620,0,230,0,Basilisk Games,0,"Indie, RPG",599,English,0,342,Eschalon: Book II,12,"50,000 .. 100,000",57,599,Basilisk Games,56,6,86
+593,25700,0,261,0,Playbrains,0,Indie,499,"English, German, Korean, Portuguese, Spanish - Spain, French, Italian, Russian",0,119,Madballs in Babo:Invasion ,38,"50,000 .. 100,000",195,499,Playbrains,58,6,84
+594,25800,84,1105,76,Paradox Development Studio,0,Strategy,1499,"English, German",102,119,Europa Universalis III Complete,239,"100,000 .. 200,000",1181,1499,Paradox Interactive,58,14,85
+595,25808,0,0,0,Paradox Development Studio,0,Strategy,999,"English, German",0,0,Europa Universalis III: Divine Wind,1,"0 .. 20,000",19,999,Paradox Interactive,93,1,100
+596,25830,37,459,61,Black Sea Studios Ltd,0,Strategy,999,English,37,253,Knights of Honor,85,"100,000 .. 200,000",981,999,Paradox Interactive,84,9,92
+597,25850,0,185,2,1C:InoCo,0,"RPG, Strategy",499,"English, Russian",0,112,Elven Legacy,27,"50,000 .. 100,000",74,499,1C Entertainment,38,4,72
+598,25890,150,1333,224,Paradox Development Studio,0,Strategy,999,"English, French, German, Spanish - Spain",224,228,Hearts of Iron III,959,"500,000 .. 1,000,000",3254,999,Paradox Interactive,45,15,77
+599,25900,553,1178,135,1C Entertainment,0,"RPG, Strategy",699,"English, Russian, French, Italian, German, Spanish - Spain, Czech, Japanese, Hungarian, Traditional Chinese, Polish",290,166,King's Bounty: The Legend,138,"200,000 .. 500,000",1265,699,1C Entertainment,77,16,91
+600,25910,461,1720,0,BattleGoat Studios,0,Strategy,999,"English, French, German, Spanish - Spain",461,1126,Supreme Ruler 2020 Gold,36,"50,000 .. 100,000",137,999,BattleGoat Studios,49,4,80
+601,25930,0,152,0,Nitro Games,0,Strategy,999,"English, French, German",0,70,East India Company,48,"50,000 .. 100,000",43,999,Nitro Games,10,5,46
+602,25980,0,314,8,1C:InoCo,0,"Simulation, Strategy",999,English,0,187,Majesty 2,126,"100,000 .. 200,000",301,999,Paradox Interactive,33,6,69
+603,25990,0,126,1,Cyberlore,0,"Strategy, Simulation",999,English,0,35,Majesty Gold HD,21,"100,000 .. 200,000",317,999,Paradox Interactive,87,10,94
+604,26000,0,218,2,Twisted Pixel Games,0,"Action, Indie",999,"English, French, Italian, German, Spanish - Spain, Korean, Japanese, Traditional Chinese",0,73,The Maw,35,"50,000 .. 100,000",160,999,Twisted Pixel Games,56,8,80
+605,26300,0,111,0,Paleo Entertainment,0,"Action, Indie",499,English,0,116,Drug Wars,30,"0 .. 20,000",13,499,Paleo Entertainment,3,2,33
+606,26500,0,114,3,Lazy 8 Studios,0,"Indie, Casual",599,"English, French, German, Italian, Polish, Russian",0,25,Cogs,86,"500,000 .. 1,000,000",645,599,"PopCap Games, Inc.",71,8,90
+607,26800,87,186,16,Number None,0,"Casual, Indie, Strategy",1499,"English, French, Italian, Portuguese, German, Spanish - Spain, Japanese, Korean, Traditional Chinese",131,83,Braid,381,"1,000,000 .. 2,000,000",6466,1499,Number None,90,20,94
+608,26900,0,47,4,Kloonigames,0,"Casual, Indie",1999,English,0,23,Crayon Physics Deluxe,109,"500,000 .. 1,000,000",660,1999,Kloonigames,63,14,92
+609,27000,0,184,1,Tale of Tales,0,"Adventure, Indie",999,"English, Dutch, Danish, French, German, Hungarian, Italian, Portuguese, Spanish - Spain",0,118,The Path,176,"100,000 .. 200,000",500,999,Tale of Tales,38,18,75
+610,27020,0,7,1,Tale of Tales,0,"Indie, Simulation",499,English,0,8,The Graveyard,196,"0 .. 20,000",301,499,Tale of Tales,20,12,61
+611,27050,0,27,0,Tale of Tales,0,"Adventure, Casual, Indie",699,English,0,37,Fatale,43,"0 .. 20,000",52,699,Tale of Tales,14,5,52
+612,27200,0,23,0,49 Games,0,Sports,1999,"English, French, German, Italian, Spanish - Spain",0,28,Summer Athletics,10,"0 .. 20,000",11,1999,DTP Entertainment,13,1,72
+613,27330,0,152,4,Zombie Studios,0,Action,99,English,0,84,Blacklight: Tango Down,208,"20,000 .. 50,000",130,99,Ignition Entertainment,6,3,39
+614,27400,0,63,0,Mousechief,0,"RPG, Indie, Casual",1999,English,0,46,Dangerous High School Girls in Trouble!,61,"100,000 .. 200,000",111,1999,Mousechief,24,7,75
+615,27600,0,0,0,Red Rocket Games,0,"Indie, Casual",999,English,0,0,Mevo and The Grooveriders,2,"0 .. 20,000",21,999,Red Rocket Games,80,3,94
+616,27800,0,12,0,Llamasoft LTD,0,Indie,999,"English, French, German, Italian, Spanish - Spain, Portuguese, Japanese",0,4,Space Giraffe,16,"20,000 .. 50,000",36,999,Llamasoft LTD,31,5,70
+617,27810,0,48,0,Llamasoft LTD,0,Indie,999,"English, Italian, Japanese, Portuguese",0,36,Gridrunner Revolution,9,"20,000 .. 50,000",36,999,Llamasoft LTD,52,3,80
+618,27900,0,67,0,DnS Development,0,"Action, Adventure",499,"English, French, German, Italian, Spanish - Spain, #lang_#lang_spanish*#lang_full_audio",0,43,Twin Sector,147,"50,000 .. 100,000",87,499,DnS Development,5,7,39
+619,27920,0,154,0,DnS Development,0,"Action, Indie",199,English,0,26,Booster Trooper,93,"20,000 .. 50,000",92,199,DnS Development,11,5,52
+620,27940,0,69,1,DnS Development,0,"Action, Indie",599,"English, Polish, Russian, Spanish - Spain",0,44,Dead Horde,406,"100,000 .. 200,000",204,599,DnS Development,4,9,35
+621,28000,43,261,24,IO Interactive,0,Action,999,"English, French, German, Italian, Spanish - Spain",59,85,Kane & Lynch 2: Dog Days,1758,"500,000 .. 1,000,000",2640,999,Square Enix,20,20,60
+622,29120,110,83,0,KranX Productions,0,"Indie, Casual",499,"English, German",110,99,Yumsters 2: Around the World,26,"20,000 .. 50,000",53,499,KranX Productions,,2,0
+623,29130,0,144,0,KranX Productions,0,"Indie, Casual",499,"English, German",0,152,Musaic Box,12,"20,000 .. 50,000",176,499,KranX Productions,87,4,95
+624,29160,0,57,0,Erik Svedäng,0,"Adventure, Indie",499,English,0,42,Blueberry Garden,28,"20,000 .. 50,000",96,499,Erik Svedäng,45,4,75
+625,29180,67,131,4,Hemisphere Games,0,"Indie, Casual",999,"English, French, German, Spanish - Spain, Italian",67,46,Osmos,105,"500,000 .. 1,000,000",850,999,Hemisphere Games,74,20,90
+626,29540,0,0,0,ArenaNet®,0,"RPG, Massively Multiplayer",1999,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Korean, Japanese",0,0,Guild Wars<sup></sup> Game of the Year Edition,0,"0 .. 20,000",8,1999,NCsoft,,4,0
+627,29560,0,0,0,ArenaNet®,0,"RPG, Massively Multiplayer",1999,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Korean, Japanese <br /><br /> ",0,0,Guild Wars Factions<sup></sup>,0,"0 .. 20,000",0,1999,NCsoft,,0,0
+628,29570,0,0,0,ArenaNet®,0,"Massively Multiplayer, RPG",2999,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Korean, Japanese",0,0,Guild Wars Trilogy,1,"0 .. 20,000",27,2999,NCsoft,95,4,100
+629,29580,0,0,0,ArenaNet®,0,"RPG, Massively Multiplayer",1999,"English, French, Italian, German, Spanish - Spain, Russian, Polish, Korean, Japanese <br /><br /> ",0,0,Guild Wars Nightfall<sup></sup>,0,"0 .. 20,000",0,1999,NCsoft,,0,0
+630,29600,0,0,0,,0,,0,,0,0,Guild Wars: Game of the Year,0,"0 .. 20,000",7,0,,,7,0
+631,29610,0,0,0,,0,,0,,0,0,Guild Wars: Factions,0,"0 .. 20,000",1,0,,,2,0
+632,29620,0,0,0,,0,,0,,0,0,Guild Wars: Trilogy,1,"0 .. 20,000",10,0,,77,2,90
+633,29630,0,0,0,,0,,0,,0,0,Guild Wars: Nightfall,0,"0 .. 20,000",2,0,,,2,0
+634,29700,0,0,0,ArenaNet®,0,"Action, RPG, Massively Multiplayer",1999,"English, French, German, Italian, Japanese, Korean, Polish, Russian, Spanish - Spain",0,0,Guild Wars: Eye of the North,0,"0 .. 20,000",1,1999,NCsoft,,4,0
+635,29800,310,272,3,Elecorn,0,"Action, Adventure, Casual, Indie, RPG, Strategy",199,English,310,114,Caster,873,"200,000 .. 500,000",3285,199,Elecorn,49,12,79
+636,29900,0,203,3,Digital Extremes,0,Action,999,"English, French",0,79,Dark Sector,94,"50,000 .. 100,000",329,999,ND Games,45,7,81
+637,31220,6,122,4,Telltale Games,0,"Action, Adventure",0,English,6,44,Sam & Max 301: The Penal Zone,34,"0 .. 20,000",312,0,Telltale Games,77,9,92
+638,31230,0,163,0,Telltale Games,0,Adventure,0,English,0,184,Sam & Max 302: The Tomb of Sammun-Mak,8,"0 .. 20,000",28,0,Telltale Games,45,1,92
+639,31240,0,185,0,Telltale Games,0,Adventure,0,English,0,196,Sam & Max 303: They Stole Max's Brain!,6,"0 .. 20,000",25,0,Telltale Games,52,1,90
+640,31250,0,164,0,Telltale Games,0,Adventure,0,English,0,175,Sam & Max 304: Beyond the Alley of the Dolls,5,"0 .. 20,000",23,0,Telltale Games,56,1,91
+641,31260,0,132,0,Telltale Games,0,Adventure,0,English,0,165,Sam & Max 305: The City That Dares Not Sleep,5,"0 .. 20,000",30,0,Telltale Games,63,1,93
+642,31270,0,239,6,Telltale Games,0,"Adventure, Casual",499,English,0,133,Puzzle Agent,212,"500,000 .. 1,000,000",1554,499,Telltale Games,69,20,87
+643,31280,40,299,31,Telltale Games,0,"Casual, Sports",499,English,46,150,Poker Night at the Inventory,999,"500,000 .. 1,000,000",6377,499,Soldak Entertainment,66,18,86
+644,31300,0,0,0,Replay Studios,0,Action,1999,"English, #lang_#lang_#lang_english**#lang_full_audio*#lang_full_audio",0,0,Tunnel Rats,19,"0 .. 20,000",11,1999,Boll AG,5,2,34
+645,31700,0,82,2,ISOTX,0,"Action, Indie",0,English,0,36,Iron Grip: Warlord,50,"100,000 .. 200,000",312,0,ISOTX,66,6,87
+646,31800,0,16,0,HeR Interactive,0,Adventure,699,English,0,30,Nancy Drew: Danger by Design,9,"0 .. 20,000",13,699,HeR Interactive,19,5,61
+647,31810,0,530,0,HeR Interactive,0,Adventure,699,English,0,784,Nancy Drew: Last Train to Blue Moon Canyon,3,"20,000 .. 50,000",46,699,HeR Interactive,87,6,92
+648,31820,0,162,0,HeR Interactive,0,Adventure,699,English,0,237,Nancy Drew: The Haunted Carousel,4,"0 .. 20,000",33,699,HeR Interactive,74,6,90
+649,31830,565,263,7,HeR Interactive,0,Adventure,699,English,565,373,Nancy Drew: Curse of Blackmoor Manor,7,"20,000 .. 50,000",61,699,HeR Interactive,74,6,89
+650,31840,0,298,0,HeR Interactive,0,Adventure,699,English,0,302,Nancy Drew: Danger on Deception Island,2,"0 .. 20,000",31,699,HeR Interactive,87,6,93
+651,31850,0,152,0,HeR Interactive,0,Adventure,699,English,0,156,Nancy Drew: Ghost Dogs of Moon Lake,3,"0 .. 20,000",33,699,HeR Interactive,80,6,90
+652,31860,0,646,0,HeR Interactive,0,Adventure,699,English,0,646,Nancy Drew: Legend of the Crystal Skull,2,"0 .. 20,000",24,699,HeR Interactive,84,6,91
+653,31870,0,143,0,HeR Interactive,0,"Adventure, Casual",699,English,0,143,"Nancy Drew Dossier: Lights, Camera, Curses!",11,"0 .. 20,000",10,699,HeR Interactive,10,5,38
+654,31880,0,42,5,HeR Interactive,0,Adventure,699,English,0,42,Nancy Drew: Secret of the Old Clock,2,"0 .. 20,000",26,699,HeR Interactive,84,6,95
+655,31890,104,243,0,HeR Interactive,0,Action,699,English,104,277,Nancy Drew: Secret of the Scarlet Hand,3,"0 .. 20,000",17,699,HeR Interactive,63,6,83
+656,31900,0,0,0,HeR Interactive,0,Adventure,699,English,0,0,Nancy Drew: The Creature of Kapu Cave,7,"0 .. 20,000",18,699,HeR Interactive,36,5,66
+657,31910,0,415,2,HeR Interactive,0,Adventure,699,English,0,415,Nancy Drew: The Haunting of Castle Malloy,5,"0 .. 20,000",25,699,HeR Interactive,58,6,81
+658,31920,0,145,0,HeR Interactive,0,Adventure,699,English,0,145,Nancy Drew: The Phantom of Venice,5,"0 .. 20,000",18,699,HeR Interactive,47,6,80
+659,31930,0,0,0,HeR Interactive,0,Adventure,699,English,0,0,Nancy Drew: The White Wolf of Icicle Creek,9,"0 .. 20,000",26,699,HeR Interactive,40,6,76
+660,31980,0,328,0,HeR Interactive,0,Adventure,699,English,0,328,Nancy Drew: Ransom of the Seven Ships,8,"0 .. 20,000",16,699,HeR Interactive,27,6,69
+661,32000,0,20,0,"Thinking Studios, Slam Dunk Studios",0,"Indie, Casual",499,English,0,20,Raycatcher,13,"0 .. 20,000",0,499,Thinking Studios,,2,0
+662,32110,0,27,0,MumboJumbo,0,Casual,999,"English, French, German, Italian, Spanish - Spain, Swedish",0,25,LUXOR: Mah Jong,13,"0 .. 20,000",41,999,MumboJumbo,42,3,84
+663,32120,0,174,0,MumboJumbo,0,Casual,999,"English, French, German, Italian, Spanish - Spain, Swedish",0,255,Chainz 2: Relinked,19,"0 .. 20,000",24,999,MumboJumbo,,3,0
+664,32140,0,111,0,MumboJumbo,0,"Adventure, Casual",999,English,0,141,Midnight Mysteries,40,"50,000 .. 100,000",84,999,MumboJumbo,28,5,72
+665,32150,0,1030,8,TrueThought,0,"Casual, Indie, Strategy",499,English,0,521,Everyday Genius: SquareLogic,6,"0 .. 20,000",300,499,TrueThought,99,8,98
+666,32160,12,83,0,MumboJumbo,0,"Sports, Casual",999,English,12,26,Zombie Bowl-o-Rama,42,"50,000 .. 100,000",239,999,MumboJumbo,63,5,90
+667,32200,0,245,1,Black Jacket Studios,0,"Action, Indie, Racing, Sports",999,English,0,144,Metal Drift,45,"20,000 .. 50,000",83,999,Black Jacket Studios,24,5,73
+668,32310,0,44,0,LucasArts,0,Adventure,599,English,0,11,Indiana Jones and the Last Crusade,31,"50,000 .. 100,000",119,599,"LucasArts, Lucasfilm, Disney Interactive",49,8,79
+669,32330,717,371,18,Traveller's Tales,0,"Action, Adventure",1999,"English, Danish, French, German, Italian, Spanish - Spain",717,318,LEGO Indiana Jones: The Original Adventures,79,"20,000 .. 50,000",283,1999,"LucasArts, Lucasfilm, Disney Interactive",47,7,76
+670,32340,0,112,3,LucasArts,0,Adventure,599,English,0,29,LOOM,41,"100,000 .. 200,000",300,599,"LucasArts, Lucasfilm, Disney Interactive",69,13,87
+671,32350,0,99,4,LucasArts,0,"Action, Simulation",599,"English, French, Italian, German, Spanish - Spain",0,18,STAR WARS Starfighter,233,"200,000 .. 500,000",216,599,"LucasArts, Lucasfilm, Disney Interactive",10,7,49
+672,32360,22,292,67,LucasArts,0,Adventure,999,"English, French, German, Italian, Spanish - Spain",22,160,The Secret of Monkey Island: Special Edition,112,"200,000 .. 500,000",2116,999,"LucasArts, Lucasfilm, Disney Interactive",90,17,95
+673,32370,281,787,439,"BioWare, Aspyr (Mac)",0,"Adventure, RPG",999,"English, German, Spanish - Spain, Italian, French",175,139,STAR WARS - Knights of the Old Republic,1550,"2,000,000 .. 5,000,000",11332,999,"LucasArts, Aspyr (Mac), Disney Interactive, Lucasfilm",69,20,87
+674,32380,8,101,15,LucasArts,0,Action,599,"English, French, Italian, Spanish - Spain",8,13,STAR WARS Jedi Knight: Dark Forces II,310,"1,000,000 .. 2,000,000",755,599,"LucasArts, Lucasfilm, Disney Interactive",33,16,70
+675,32390,0,68,8,LucasArts,0,Action,299,"English, French, Italian, Spanish - Spain",0,6,STAR WARS Jedi Knight - Mysteries of the Sith,190,"500,000 .. 1,000,000",355,299,"LucasArts, Lucasfilm, Disney Interactive",26,13,63
+676,32400,63,88,14,LucasArts,0,Action,599,"English, French, German, Italian, Spanish - Spain",63,19,STAR WARS - Dark Forces,170,"500,000 .. 1,000,000",1484,599,"LucasArts, Lucasfilm, Disney Interactive",74,13,90
+677,32410,0,23,0,LucasArts,0,Casual,599,"English, French, German",0,22,Lucidity,16,"20,000 .. 50,000",37,599,"LucasArts, Lucasfilm, Disney Interactive",31,5,70
+678,32420,2,80,5,Krome Studios,0,Action,1999,English,2,14,STAR WARS: The Clone Wars - Republic Heroes,276,"500,000 .. 1,000,000",163,1999,"LucasArts, Lucasfilm, Disney Interactive",5,10,35
+679,32430,55,357,73,"LucasArts, Aspyr Studios",0,Action,1999,"English, French, German, Italian, Spanish - Spain",82,153,STAR WARS - The Force Unleashed Ultimate Sith Edition,1352,"1,000,000 .. 2,000,000",2247,1999,"LucasArts, Aspyr (Mac), Lucasfilm, Disney Interactive",22,14,64
+680,32440,468,576,125,"Traveller's Tales, Feral Interactive (Mac)",0,Adventure,1999,"English, French, Italian, German, Spanish - Spain",137,167,LEGO Star Wars - The Complete Saga,247,"500,000 .. 1,000,000",2878,1999,"LucasArts, Lucasfilm, Disney Interactive, Feral Interactive (Mac)",84,20,91
+681,32450,0,485,10,Traveller's Tales,0,Adventure,1999,"English, French, Italian, German, Spanish - Spain",0,501,LEGO Indiana Jones 2: The Adventure Continues,58,"20,000 .. 50,000",154,1999,"LucasArts, Lucasfilm, Disney Interactive",36,11,72
+682,32460,57,344,45,LucasArts,0,Adventure,999,"English, German, Italian, Spanish - Spain, French",113,184,Monkey Island 2 Special Edition: LeChuck’s Revenge,60,"200,000 .. 500,000",1164,999,"LucasArts, Lucasfilm, Disney Interactive",93,14,95
+683,32470,149,1074,1387,Petroglyph,0,Strategy,1999,"English, French, Italian, German, Spanish - Spain",115,190,STAR WARS Empire at War - Gold Pack,375,"1,000,000 .. 2,000,000",6350,1999,"LucasArts, Lucasfilm, Disney Interactive",90,20,94
+684,32500,142,268,34,Aspyr Studios,0,Action,1999,"English, French, German, Italian, Spanish - Spain, Polish, Russian",249,204,STAR WARS: The Force Unleashed II,1320,"1,000,000 .. 2,000,000",1852,1999,"LucasArts, Lucasfilm, Disney Interactive",18,12,59
+685,32510,114,651,55,Traveller's Tales,0,"Action, Adventure",1999,"English, Danish, French, German, Italian, Spanish - Spain",143,297,LEGO Star Wars III - The Clone Wars,136,"100,000 .. 200,000",799,1999,"LucasArts, Lucasfilm, Disney Interactive",63,17,85
+686,32610,0,1192,0,NovaLogic,0,Action,1999,English,0,2200,Delta Force Xtreme 2,30,"0 .. 20,000",48,1999,"NovaLogic, THQ Nordic",21,2,62
+687,32620,0,286,0,NovaLogic,0,Action,499,English,0,251,Delta Force,23,"100,000 .. 200,000",216,499,"NovaLogic, THQ Nordic",77,4,90
+688,32630,0,133,10,NovaLogic,0,Action,499,English,0,104,Delta Force 2,27,"20,000 .. 50,000",159,499,"NovaLogic, THQ Nordic",63,4,85
+689,32640,0,270,0,NovaLogic,0,Action,999,English,0,109,Delta Force Land Warrior,12,"20,000 .. 50,000",119,999,"NovaLogic, THQ Nordic",77,4,91
+690,32650,0,60,0,NovaLogic,0,Action,999,English,0,93,Delta Force: Task Force Dagger,14,"0 .. 20,000",57,999,"NovaLogic, THQ Nordic",52,2,80
+691,32660,0,66,0,NovaLogic,0,Action,1999,English,0,94,Delta Force: Xtreme,12,"0 .. 20,000",40,1999,"NovaLogic, THQ Nordic",44,2,77
+692,32670,0,83,9,NovaLogic,0,Action,1499,English,0,49,Delta Force: Black Hawk Down,21,"100,000 .. 200,000",245,1499,"NovaLogic, THQ Nordic",84,5,91
+693,32680,0,367,0,Ritual Entertainment,0,Action,999,English,0,290,Delta Force — Black Hawk Down: Team Sabre,15,"20,000 .. 50,000",164,999,"NovaLogic, THQ Nordic",80,2,92
+694,32710,0,5,0,NovaLogic,0,Simulation,999,English,0,7,Armored Fist 3,8,"20,000 .. 50,000",27,999,"NovaLogic, THQ Nordic",45,2,75
+695,32720,0,34,0,NovaLogic,0,Simulation,999,English,0,36,F-16 Multirole Fighter,12,"0 .. 20,000",38,999,"NovaLogic, THQ Nordic",44,2,72
+696,32730,0,11,0,NovaLogic,0,Simulation,999,English,0,16,F-22 Lightning 3,24,"20,000 .. 50,000",47,999,"NovaLogic, THQ Nordic",27,2,63
+697,32740,0,66,0,NovaLogic,0,Simulation,999,English,0,119,MiG-29 Fulcrum,8,"0 .. 20,000",32,999,"NovaLogic, THQ Nordic",52,2,79
+698,32750,0,60,0,NovaLogic,0,"Action, Simulation",999,English,0,78,Comanche 4,15,"20,000 .. 50,000",90,999,"NovaLogic, THQ Nordic",63,4,87
+699,32760,0,52,0,NovaLogic,0,Simulation,999,English,0,71,Tachyon: The Fringe,13,"20,000 .. 50,000",100,999,"NovaLogic, THQ Nordic",71,5,89
+700,32770,43,61,7,NovaLogic,0,Action,1999,English,43,79,Joint Operations: Combined Arms Gold,16,"20,000 .. 50,000",118,1999,"NovaLogic, THQ Nordic",71,5,87
+701,32800,330,475,107,Snowblind Studios,0,"Action, RPG",1999,"English, German, French, Italian, Spanish - Spain, Russian, Polish, Portuguese - Brazil",539,210,Lord of the Rings: War in the North,1695,"1,000,000 .. 2,000,000",5895,1999,Warner Bros. Interactive Entertainment,45,20,77
+702,32900,0,116,6,Enlight Software Limited,0,"Casual, Indie, Simulation, Strategy",1999,"English, French",0,60,Restaurant Empire II,64,"50,000 .. 100,000",109,1999,Enlight Software Limited,23,6,64
+703,33100,133,188,8,Sigma Team Inc.,0,"Action, Indie, RPG",499,"English, Russian",135,125,Alien Shooter,88,"200,000 .. 500,000",728,499,Sigma Team Inc.,74,13,89
+704,33110,0,80,0,Sigma Team Inc.,0,"Action, Indie, RPG",499,"English, Russian",0,37,Alien Shooter: Revisited,74,"50,000 .. 100,000",140,499,Sigma Team Inc.,26,6,63
+705,33120,165,241,9,Sigma Team Inc.,0,"Action, Indie, RPG",499,"English, Russian",165,56,Alien Shooter 2: Reloaded,77,"200,000 .. 500,000",926,499,Sigma Team Inc.,84,12,92
+706,33130,40,135,3,Sigma Team Inc.,0,"Action, Indie, RPG",499,"English, Russian",65,65,Zombie Shooter,72,"100,000 .. 200,000",390,499,Sigma Team Inc.,61,10,86
+707,33180,214,150,3,Sigma Team Inc.,0,"Action, Indie, RPG",999,"English, Russian",225,45,Zombie Shooter 2,82,"100,000 .. 200,000",287,999,Sigma Team Inc.,45,9,82
+708,33210,0,763,21,"Blue Byte, Related Designs",0,"Simulation, Strategy",999,"English, French, Spanish - Spain",0,155,Dawn of Discovery,35,"50,000 .. 100,000",249,999,Ubisoft,69,7,87
+709,33229,0,0,0,Ubisoft Montreal,0,Action,1999,"English, French, German, Italian, Spanish - Spain",0,0,Tom Clancy's Splinter Cell Conviction Deluxe Edition,512,"0 .. 20,000",1358,1999,Ubisoft,36,1,71
+710,33230,124,1251,501,Ubisoft Montreal,0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, Danish, Dutch, Korean, Swedish",69,705,Assassin's Creed 2 Deluxe Edition,2543,"1,000,000 .. 2,000,000",14337,1999,Ubisoft,61,20,84
+711,33250,340,608,175,,0,,0,,370,212,Anno 1404,75,"0 .. 20,000",573,0,,71,12,87
+712,33320,0,416,6,Ubisoft Montreal,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",0,199,Prince of Persia: The Forgotten Sands,253,"200,000 .. 500,000",503,999,Ubisoft,27,8,66
+713,33390,0,111,0,Brightside Games,0,"Action, Indie",999,"English, French, German, Italian, Spanish - Spain",0,104,Zeit²,7,"0 .. 20,000",25,999,Ubisoft,47,4,76
+714,33460,0,319,12,Ubisoft Montpellier,0,"Adventure, Simulation",1499,"English, French, German, Italian, Spanish - Spain",0,168,From Dust,738,"200,000 .. 500,000",1347,1499,Ubisoft,24,10,64
+715,33520,0,306,20,"PopTop Software, BreakAway Games, Frog City Software",0,"Simulation, Strategy",699,English,0,30,Tropico Reloaded,56,"200,000 .. 500,000",401,699,Kalypso Media Digital,69,10,88
+716,33540,0,23,0,,0,,0,,0,20,Dawn of Magic 2,23,"0 .. 20,000",36,0,,21,4,63
+717,33550,0,6,0,"SkyFallen Entertainment, 1C Company, 1C-SoftClub",0,"Action, RPG",999,English,0,7,Time of Shadows,8,"0 .. 20,000",4,999,Kalypso Media Digital,4,2,27
+718,33570,0,326,27,Ascaron Entertainment ltd.,0,"RPG, Simulation, Strategy",499,English,0,69,Patrician III,77,"50,000 .. 100,000",280,499,Kalypso Media Digital,47,7,78
+719,33580,0,141,1,Ascaron Entertainment ltd.,0,"Simulation, Strategy",499,English,0,48,The Great Art Race,32,"0 .. 20,000",56,499,Assemble Entertainment,23,2,63
+720,33600,0,137,21,Revolution Software Ltd,0,Adventure,599,"English, French, Italian, German, Spanish - Spain",0,26,Broken Sword 2 - the Smoking Mirror: Remastered,47,"200,000 .. 500,000",418,599,Revolution Software Ltd,74,15,89
+721,33610,0,248,0,Revolution Software Ltd,0,Adventure,599,English,0,62,Broken Sword 3 - the Sleeping Dragon,162,"100,000 .. 200,000",171,599,Revolution Software Ltd,12,7,49
+722,33620,0,207,3,Synetic,0,"Action, Racing",599,"English, French, German",0,123,Crash Time 3,61,"20,000 .. 50,000",225,599,Kalypso Media Digital,47,6,80
+723,33650,0,318,4,Ideas Pad,0,Casual,499,"English, French, German, Italian, Spanish - Spain",0,221,Puzzler World,37,"100,000 .. 200,000",297,499,Merge Games,71,3,88
+724,33660,0,41,0,Kokakiki,0,"Casual, Indie",499,English,0,69,Ziro,7,"0 .. 20,000",21,499,Kalypso Media Digital,42,3,72
+725,33670,0,559,11,"Akella, .dat",0,"Strategy, RPG",1499,"English, French, German",0,133,Disciples III - Renaissance Steam Special Edition,128,"50,000 .. 100,000",164,1499,Kalypso Media Digital,16,5,61
+726,33680,84,144,1,Zaratustra Productions,0,Indie,499,English,84,126,eversion,90,"50,000 .. 100,000",948,499,Zaratustra Productions,80,15,91
+727,33700,0,10,0,dtp – young entertainment Gmbh &amp; Co. KG,0,"Casual, Simulation",699,English,0,10,Paws and Claws: Pampered Pets,2,"0 .. 20,000",1,699,"ValuSoft, Retroism",,2,0
+728,33710,0,5,0,dtp – young entertainment Gmbh &amp; Co. KG,0,"Casual, Simulation",699,English,0,5,Paws and Claws: Pet School,2,"0 .. 20,000",1,699,"ValuSoft, Retroism",,2,0
+729,33720,1,1,0,dtp – young entertainment Gmbh &amp; Co. KG,0,"Casual, Simulation",699,English,1,1,Paws and Claws: Pet Vet,0,"0 .. 20,000",5,699,"ValuSoft, Retroism",,2,0
+730,33730,36,104,0,,0,,999,English,60,44,18 Wheels of Steel: Extreme Trucker,56,"50,000 .. 100,000",106,999,"ValuSoft, Play Hard Games",26,2,67
+731,33750,0,278,1,,0,Simulation,2499,English,0,537,Prison Tycoon 4: SuperMax,23,"0 .. 20,000",6,2499,"ValuSoft, Retroism",2,2,19
+732,33760,0,0,0,Bamtang,0,Casual,699,English,0,0,The Search for Amelia Earhart,4,"0 .. 20,000",1,699,"ValuSoft, Retroism",,2,0
+733,33770,0,807,2,DTP,0,RPG,1999,English,0,839,Drakensang: The River of Time,35,"50,000 .. 100,000",147,1999,Valusoft,52,9,75
+734,33790,0,148,0,"Gunnar Games, Inc.",0,Casual,1999,English,0,148,Elizabeth Find M.D. - Diagnosis Mystery - Season 2,13,"0 .. 20,000",16,1999,ValuSoft,,2,0
+735,33900,0,579,6,Bohemia Interactive,0,"Action, Simulation, Strategy",1299,English,0,49,Arma 2,355,"1,000,000 .. 2,000,000",1723,1299,Bohemia Interactive,56,20,83
+736,33910,29,227,69,Bohemia Interactive,0,"Action, Simulation, Strategy",0,English,25,36,ARMA 2,152,"0 .. 20,000",237,0,Bohemia Interactive,20,3,60
+737,33930,914,3814,1041,Bohemia Interactive,0,"Action, Simulation, Strategy",1999,"English, Czech, French, Italian, Spanish - Spain, German, Polish, Russian",170,311,Arma 2: Operation Arrowhead,1513,"2,000,000 .. 5,000,000",17595,1999,Bohemia Interactive,84,20,91
+738,33950,0,140,2,Altar Games,0,"Casual, Indie",499,"English, Czech",0,13,Fish Fillets 2,56,"100,000 .. 200,000",150,499,Bohemia Interactive,36,6,96
+739,33980,0,103,0,Centauri Production,0,Action,999,English,0,65,Pound of Ground,49,"20,000 .. 50,000",77,999,Bohemia Interactive,21,5,61
+740,33990,0,167,0,Centauri Production,0,Adventure,1299,English,0,200,Alternativa,84,"20,000 .. 50,000",82,1299,Bohemia Interactive,11,6,49
+741,34010,31,433,25,Obsidian Entertainment,0,"Action, RPG",1499,"English, French, German, Italian, Spanish - Spain",59,91,Alpha Protocol,767,"500,000 .. 1,000,000",3063,1499,SEGA,49,20,82
+742,34030,172,2306,1802,"CREATIVE ASSEMBLY, Feral Interactive (Mac)",0,Strategy,2499,"English, Czech, French, German, Italian, Polish, Russian, Spanish - Spain",111,454,Total War: NAPOLEON – Definitive Edition,886,"1,000,000 .. 2,000,000",8363,2499,"SEGA, Feral Interactive (Mac)",77,19,88
+743,34180,0,0,0,Eurocom,0,Sports,0,English,0,0,Vancouver 2010 - The Official Video Game of the Olympic Winter Games,3,"0 .. 20,000",3,0,SEGA,,1,0
+744,34190,30,171,13,Sumo Digital,0,Racing,999,English,50,56,Sonic & SEGA All-Stars Racing,164,"100,000 .. 200,000",592,999,SEGA,47,13,78
+745,34270,93,248,96,D3T Limited,0,"Action, Adventure, Casual, RPG",2999,English,44,120,SEGA Mega Drive and Genesis Classics,490,"200,000 .. 500,000",1949,2999,SEGA,49,13,79
+746,34272,0,0,0,SEGA,0,Action,99,English,0,0,Comix Zone,0,"0 .. 20,000",9,99,SEGA,,12,0
+747,34273,0,0,0,SEGA,0,Action,99,English,0,0,Crack Down,0,"0 .. 20,000",6,99,SEGA,,3,0
+748,34274,0,0,0,SEGA,0,Action,99,English,0,0,Ecco the Dolphin,1,"0 .. 20,000",7,99,SEGA,,11,0
+749,34275,0,0,0,SEGA,0,Strategy,99,English,0,0,Gain Ground,0,"0 .. 20,000",6,99,SEGA,,1,0
+750,34276,0,0,0,SEGA,0,Action,99,English,0,0,Golden Axe,1,"0 .. 20,000",17,99,SEGA,,12,0
+751,34277,0,0,0,SEGA,0,Action,99,English,0,0,Shinobi III: Return of the Ninja Master,0,"0 .. 20,000",4,99,SEGA,,6,0
+752,34278,0,0,0,SEGA,0,,499,English,0,0,Sonic 3D Blast,1,"0 .. 20,000",10,499,SEGA,,8,0
+753,34279,0,0,0,SEGA,0,Action,99,English,0,0,Space Harrier II,0,"0 .. 20,000",5,99,SEGA,,4,0
+754,34280,0,0,0,SEGA,0,Action,99,English,0,0,VectorMan,0,"0 .. 20,000",7,99,SEGA,,4,0
+755,34281,0,0,0,SEGA,0,Action,99,English,0,0,Altered Beast,1,"0 .. 20,000",7,99,SEGA,,6,0
+756,34282,0,0,0,SEGA,0,Action,99,English,0,0,Shadow Dancer,1,"0 .. 20,000",5,99,SEGA,,6,0
+757,34283,0,0,0,SEGA,0,,99,English,0,0,Alex Kidd in the Enchanted Castle,3,"0 .. 20,000",2,99,SEGA,,5,0
+758,34284,0,0,0,SEGA,0,Action,99,English,0,0,Bonanza Bros.,0,"0 .. 20,000",5,99,SEGA,,2,0
+759,34285,0,0,0,SEGA,0,"Casual, Strategy",99,English,0,0,Columns,1,"0 .. 20,000",6,99,SEGA,,3,0
+760,34286,0,0,0,SEGA,0,"Casual, Strategy",499,English,0,0,Dr. Robotnik’s Mean Bean Machine,1,"0 .. 20,000",7,499,SEGA,,6,0
+761,34287,0,0,0,SEGA,0,Adventure,99,English,0,0,Ecco Jr.,1,"0 .. 20,000",4,99,SEGA,,2,0
+762,34288,0,0,0,SEGA,0,Action,99,English,0,0,Eternal Champions,0,"0 .. 20,000",3,99,SEGA,,3,0
+763,34289,0,0,0,SEGA,0,RPG,99,English,0,0,Fatal Labyrinth,0,"0 .. 20,000",7,99,SEGA,,2,0
+764,34310,0,0,0,SEGA,0,Action,99,English,0,0,Galaxy Force II,1,"0 .. 20,000",3,99,SEGA,,1,0
+765,34311,0,0,0,SEGA,0,,99,English,0,0,Kid Chameleon,0,"0 .. 20,000",3,99,SEGA,,2,0
+766,34312,0,0,0,SEGA,0,,99,English,0,0,Ristar,0,"0 .. 20,000",5,99,SEGA,,5,0
+767,34313,0,0,0,SEGA,0,Action,499,English,0,0,Sonic Spinball,0,"0 .. 20,000",6,499,SEGA,,7,0
+768,34314,0,0,0,SEGA,0,"Action, Simulation",99,English,0,0,Super Thunder Blade,1,"0 .. 20,000",2,99,SEGA,,2,0
+769,34315,0,0,0,SEGA,0,Action,99,English,0,0,Alien Storm,0,"0 .. 20,000",4,99,SEGA,,3,0
+770,34316,0,0,0,SEGA,0,Action,99,English,0,0,Bio-Hazard Battle,0,"0 .. 20,000",5,99,SEGA,,2,0
+771,34317,0,0,0,SEGA,0,Casual,99,English,0,0,Columns III,1,"0 .. 20,000",2,99,SEGA,,2,0
+772,34318,0,0,0,SEGA,0,,99,English,0,0,Decap Attack,0,"0 .. 20,000",5,99,SEGA,,2,0
+773,34319,0,0,0,SEGA,0,Adventure,99,English,0,0,Ecco: The Tides of Time,0,"0 .. 20,000",3,99,SEGA,,3,0
+774,34410,0,211,2,Haggard Games,0,Action,699,"English, Russian, Italian, Spanish - Spain, French",0,55,Death to Spies: Moment of Truth,42,"100,000 .. 200,000",258,699,1C Entertainment,66,7,83
+775,34420,0,123,0,Unicorn Games Studio,0,Strategy,499,"English, Russian, Spanish - Spain, Italian",0,161,XIII Century – Gold Edition,55,"50,000 .. 100,000",55,499,1C Entertainment,11,3,44
+776,34500,0,86,0,SaintXi,0,"Indie, Simulation, Strategy",1499,English,0,162,Light of Altair,7,"0 .. 20,000",31,1499,SaintXi,54,5,82
+777,34600,0,563,14,Wargaming.net,0,Strategy,799,"English, French, German, Italian, Polish, Russian, Spanish - Spain",0,74,Order of War,89,"200,000 .. 500,000",262,799,Square Enix,40,3,71
+778,34630,0,1095,0,Wargaming.net,0,Strategy,999,English,0,1095,Massive Assault,2,"0 .. 20,000",7,999,Matrix Games/GMX Media,,3,0
+779,34640,0,25184,0,Wargaming.net,0,Strategy,999,English,0,25184,Massive Assault: Phantom Renaissance,2,"0 .. 20,000",11,999,Wargaming.net,61,2,84
+780,34800,0,113,1,City Interactive S.A.,0,Adventure,499,English,0,164,Chronicles of Mystery: The Scorpio Ritual,21,"20,000 .. 50,000",45,499,City Interactive S.A.,30,3,75
+781,34810,0,34,0,City Interactive,0,"Action, Simulation",299,"English, French, Italian, German",0,53,Project Freedom,27,"20,000 .. 50,000",79,299,CI Games,40,4,78
+782,34820,5,94,4,City Interactive,0,Simulation,499,"English, French, German, Italian, Spanish - Spain",5,25,Combat Wings: Battle of Britain,97,"100,000 .. 200,000",362,499,CI Games,47,6,79
+783,34830,130,473,79,City Interactive,0,Action,799,"English, French, German, Italian, Polish, Spanish - Spain",20,84,Sniper: Ghost Warrior,1646,"500,000 .. 1,000,000",2061,799,CI Games,15,11,55
+784,34870,149,405,164,City Interactive,0,Action,999,"English, French, German, Italian, Spanish - Spain, Polish, Czech",66,134,Sniper: Ghost Warrior 2,2600,"2,000,000 .. 5,000,000",6523,999,CI Games,35,20,69
+785,34900,4487,1474,20,Invent4 Entertainment,0,Indie,99,English,8921,117,Bad Rats: the Rats' Revenge,2986,"200,000 .. 500,000",10437,99,Strategy First,45,20,75
+786,34920,0,41,0,Invent4 Entertainment,0,"Action, Casual, Indie",999,English,0,26,Razor2: Hidden Skies,154,"50,000 .. 100,000",49,999,Strategy First,2,7,21
+787,35000,35,166,33,IO Interactive,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",48,43,Mini Ninjas,249,"200,000 .. 500,000",1496,999,Square Enix,63,16,86
+788,35030,1198,5009,29,,0,,0,,1198,7252,Championship Manager 2010,0,"0 .. 20,000",0,0,,,0,0
+789,35070,0,87,0,Honeyslug,0,Casual,399,"English, French, German, Italian, Spanish - Spain",0,109,Flora's Fruit Farm,26,"50,000 .. 100,000",57,399,Square Enix,30,2,64
+790,35130,86,244,27,Crystal Dynamics,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",23,107,Lara Croft and the Guardian of Light,228,"500,000 .. 1,000,000",2454,999,Square Enix,80,20,92
+791,35140,134,603,250,"Rocksteady Studios, Feral Interactive (Mac)",0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain",61,371,Batman: Arkham Asylum Game of the Year Edition,834,"2,000,000 .. 5,000,000",19862,1999,"Warner Bros. Interactive Entertainment, Feral Interactive (Mac)",93,20,95
+792,35300,0,286,1,GFI Russia,0,Strategy,1299,English,0,32,Warfare,26,"50,000 .. 100,000",71,1299,Game Factory Interactive,38,3,70
+793,35310,0,178,0,Targem Games,0,"Action, Racing",999,English,0,72,Clutch,45,"20,000 .. 50,000",84,999,Game Factory Interactive,26,6,73
+794,35320,7,61,1,Targem Games,0,Racing,1499,"English, Russian",7,26,Insane 2,66,"50,000 .. 100,000",325,1499,Game Factory Interactive,58,6,74
+795,35450,211,1107,584,Tripwire Interactive,0,"Action, Massively Multiplayer, Simulation",1999,"English, French, German, Russian, Polish",84,249,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2238,"2,000,000 .. 5,000,000",26691,1999,Tripwire Interactive,84,20,93
+796,35460,0,113,4,Teotl Studios,0,"Action, Adventure, Indie",999,"English, Danish, Dutch, French, German, Italian, Spanish - Spain, Swedish",0,43,The Ball,210,"200,000 .. 500,000",601,999,Tripwire Interactive,40,9,74
+797,35480,5,167,3,Power of 2,0,"Strategy, Indie, Casual",999,English,5,51,Dwarfs!?,172,"200,000 .. 500,000",613,999,Tripwire Interactive,47,9,80
+798,35600,0,148,0,Frima,0,"Adventure, Casual, Strategy",499,"English, French, Japanese",0,151,Big Brain Wolf,36,"20,000 .. 50,000",44,499,Frima,15,5,54
+799,35700,72,305,179,Frozenbyte,85,"Action, Adventure, Indie",1499,"English, French, German, Italian, Spanish - Spain",75,202,Trine Enchanted Edition,390,"1,000,000 .. 2,000,000",9305,224,Frozenbyte,93,20,96
+800,35720,100,373,250,Frozenbyte,85,"Action, Adventure, Indie",1999,"English, Finnish, French, German, Italian, Spanish - Spain, Czech, Hungarian, Korean, Portuguese - Brazil, Romanian, Russian, Turkish, Polish, Traditional Chinese",80,201,Trine 2: Complete Story,688,"2,000,000 .. 5,000,000",16206,299,Frozenbyte,93,20,95
+801,35800,0,17,0,Digital Eel,0,"Casual, Indie",0,English,0,12,BRAINPIPE: A Plunge to Unhumanity,22,"50,000 .. 100,000",122,0,Digital Eel,61,3,84
+802,36000,0,101,1,Sakari Indie,0,"Action, Indie",499,"English, Dutch, French, German, Russian, Spanish - Spain",0,38,Foreign Legion: Buckets of Blood,109,"50,000 .. 100,000",183,499,Sakari Indie,22,4,65
+803,36100,0,60,0,Sandlot Games,0,Casual,499,English,0,88,Tradewinds Classics,2,"0 .. 20,000",41,499,Sandlot Games,93,2,94
+804,36130,0,0,0,Sandlot Games,0,Casual,1499,English,0,0,Tradewinds Caravans + Odyssey Pack,1,"0 .. 20,000",4,1499,Sandlot Games,,1,0
+805,36150,0,0,0,Sandlot Games,0,Casual,1499,English,0,0,Westward Collection,1,"0 .. 20,000",8,1499,Sandlot Games,,3,0
+806,36180,0,670,0,Sandlot Games,0,Casual,1499,English,0,670,Cake Mania Collection,8,"0 .. 20,000",28,1499,Sandlot Games,45,2,75
+807,36210,0,87,0,Sandlot Games,0,Casual,499,English,0,87,Monster Mash,3,"0 .. 20,000",11,499,Sandlot Games,47,2,72
+808,36240,0,0,0,Sandlot Games,0,Casual,699,English,0,0,Kuros,0,"0 .. 20,000",7,699,Sandlot Games,,2,0
+809,36270,0,0,0,Sandlot Games,0,,1499,English,0,0,Super Granny Collection,3,"0 .. 20,000",9,1499,Sandlot Games,42,1,70
+810,36300,0,1,0,Sandlot Games,0,Casual,699,English,0,1,Cake Mania Main Street,5,"0 .. 20,000",14,699,Sandlot Games,38,2,72
+811,36310,0,0,0,Sandlot Games,0,"Strategy, Casual",699,English,0,0,Westward IV: All Aboard,1,"0 .. 20,000",10,699,Sandlot Games,77,2,90
+812,36320,0,465,0,Cateia Games,0,"Adventure, Casual",699,English,0,465,Iron Roses,3,"0 .. 20,000",4,699,Sandlot Games,,2,0
+813,36900,0,0,0,3000AD,0,"Action, Simulation",999,English,0,0,Angle of Attack,2,"0 .. 20,000",0,999,3000AD,,2,0
+814,36910,0,0,0,3000AD,0,"Action, Simulation",999,English,0,0,All Aspect Warfare,8,"0 .. 20,000",3,999,3000AD,3,2,20
+815,37000,0,243,2,Ice-Pick Lodge,0,"Action, Adventure",999,"English, German, Polish, Russian",0,139,The Void,125,"100,000 .. 200,000",578,999,Ice-Pick Lodge,56,20,82
+816,37010,0,170,1,FromSoftware,0,Action,999,"English, French, German, Italian, Polish, Simplified Chinese, Spanish - Spain",0,186,Ninja Blade,69,"20,000 .. 50,000",120,999,"ND Games, bitComposer Games",23,4,60
+817,37030,0,297,0,Chaos Concept,0,Strategy,999,English,0,35,UFO: Extraterrestrials Gold,41,"50,000 .. 100,000",121,999,ND Games,40,7,78
+818,37100,0,362,0,Citeremis Inc.,0,"Action, RPG, Indie",499,"English, French",0,489,Aztaka,38,"50,000 .. 100,000",94,499,Citeremis Inc.,35,9,72
+819,37210,0,133,0,"Big Splash Games, LLC",0,Simulation,999,English,0,159,Chocolatier: Decadence by Design,21,"0 .. 20,000",51,999,PlayFirst,33,2,68
+820,37220,0,771,0,Aliasworlds Entertainment,0,Simulation,999,English,0,771,Cooking Dash,9,"0 .. 20,000",28,999,PlayFirst,42,3,73
+821,37230,0,11,0,Zemnott,0,Simulation,999,English,0,11,Diaper Dash,2,"0 .. 20,000",12,999,PlayFirst,,1,0
+822,37240,0,87,0,PlayFirst,0,Simulation,999,English,0,87,Diner Dash: Hometown Hero,62,"0 .. 20,000",25,999,PlayFirst,3,2,29
+823,37260,0,0,1,Wadjet Eye Games,0,Adventure,999,English,0,0,Emerald City Confidential,4,"0 .. 20,000",50,999,PlayFirst,84,4,91
+824,37270,0,11,0,PlayFirst,0,"Adventure, RPG",1499,English,0,11,Wandering Willows,0,"0 .. 20,000",18,1499,PlayFirst,100,1,100
+825,37280,0,60,0,Sarbakan,0,Simulation,999,English,0,60,Wedding Dash 2: Rings Around the World,3,"0 .. 20,000",13,999,PlayFirst,54,1,81
+826,37290,0,102,0,Red Rocket Games,0,Casual,999,English,0,102,Zenerchi,1,"0 .. 20,000",6,999,PlayFirst,,0,0
+827,37300,0,33,0,PlayFirst,0,Simulation,999,English,0,33,DinerTown Tycoon,5,"0 .. 20,000",8,999,PlayFirst,21,2,61
+828,37310,0,159,0,Absolutist Ltd.,0,Casual,699,English,0,159,DinerTown Detective Agency,9,"0 .. 20,000",4,699,PlayFirst,3,1,33
+829,37320,0,1,0,PlayFirst,0,Casual,699,English,0,1,The Nightshift Code,3,"0 .. 20,000",2,699,PlayFirst,,1,0
+830,37330,0,0,0,PlayFirst,0,Casual,699,English,0,0,Nightshift Legacy: The Jaguar's Eye,1,"0 .. 20,000",3,699,PlayFirst,,1,0
+831,37340,0,8,0,Sarbakan,0,Casual,699,English,0,8,Fitness Dash,0,"0 .. 20,000",8,699,PlayFirst,,2,0
+832,37360,0,11,0,PlayFirst,0,Casual,699,English,0,11,Mahjong Roadshow,2,"0 .. 20,000",5,699,PlayFirst,,0,0
+833,37370,0,0,0,PlayFirst,0,Casual,699,English,0,0,TriJinx: A Kristine Kross Mystery,1,"0 .. 20,000",3,699,PlayFirst,,1,0
+834,37380,0,0,0,PlayFirst,0,Casual,699,English,0,0,Valerie Porter and the Scarlet Scandal,6,"0 .. 20,000",5,699,PlayFirst,,1,0
+835,37390,0,101,0,PlayFirst,0,Casual,699,English,0,101,Gemini Lost,1,"0 .. 20,000",11,699,PlayFirst,80,1,90
+836,37400,0,225,1,Size Five Games,0,"Adventure, Indie",499,English,0,3,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",116,"200,000 .. 500,000",491,499,Size Five Games,52,9,87
+837,37500,0,38,0,Yullaby,0,"Indie, Casual",199,"English, French, German, Italian, Spanish - Spain",0,57,Magnetis ,9,"0 .. 20,000",33,199,Yullaby,47,3,74
+838,37600,0,47,0,"Vectorpark, Inc.",0,"Adventure, Casual, Indie",299,English,0,31,Windosill,85,"100,000 .. 200,000",814,299,"Vectorpark, Inc.",77,12,90
+839,37700,485,428,2,8monkey Labs,0,Action,1999,"English, French, German, Italian, Russian, Spanish - Spain",485,614,Darkest of Days,63,"50,000 .. 100,000",152,1999,Phantom EFX,33,7,69
+840,37800,0,100,0,Gamerizon,0,"Indie, Casual",999,"English, French, German, Italian, Japanese, Russian, Spanish - Spain",0,36,Quantz,13,"20,000 .. 50,000",24,999,Gamerizon,24,3,66
+841,37960,0,244,0,iWin,0,Casual,1999,English,0,325,Jewel Quest Pack,3,"0 .. 20,000",18,1999,iWin,63,3,84
+842,38000,0,220,0,iWin,0,Casual,999,English,0,267,Mahjong Quest Collection,2,"0 .. 20,000",19,999,iWin,77,2,88
+843,38070,0,65,0,iWin,0,"Casual, Simulation",999,English,0,65,Coconut Queen,1,"0 .. 20,000",11,999,iWin,,2,0
+844,38080,0,51,0,Hip Soft,0,Simulation,999,English,0,63,Build-A-Lot,2,"0 .. 20,000",11,999,iWin,61,2,84
+845,38090,0,5,0,Hip Soft,0,Simulation,999,English,0,5,Build-A-Lot 2: Town of the Year,0,"0 .. 20,000",3,999,iWin,,1,0
+846,38100,0,7,0,Hip Soft,0,Simulation,999,English,0,7,Build-A-Lot 3: Passport to Europe,0,"0 .. 20,000",2,999,iWin,,2,0
+847,38110,0,2595,0,Hip Soft,0,Simulation,999,English,0,2595,Build-A-Lot 4: Power Source,3,"0 .. 20,000",4,999,iWin,,1,0
+848,38120,0,443,0,Alawar,0,Casual,499,English,0,866,Farm Frenzy,2,"0 .. 20,000",19,499,iWin,77,2,93
+849,38130,0,6826,0,Alawar,0,Casual,499,English,0,6826,Farm Frenzy 2,2,"0 .. 20,000",17,499,iWin,74,3,87
+850,38140,0,2714,0,Alawar,0,Casual,499,English,0,5427,Farm Frenzy: Pizza Party,1,"0 .. 20,000",16,499,iWin,,2,0
+851,38150,0,240,0,Alawar,0,Casual,999,English,0,240,Farm Frenzy 3,1,"0 .. 20,000",7,999,iWin,,4,0
+852,38160,0,13,0,Alawar,0,Casual,999,English,0,13,Farm Frenzy 3: American Pie,0,"0 .. 20,000",2,999,iWin,,2,0
+853,38170,73,1026,0,Awem Studio,0,Casual,999,English,73,1059,Cradle of Rome,2,"0 .. 20,000",16,999,iWin,71,2,88
+854,38180,0,0,0,Awem Studio,0,Casual,999,English,0,0,Cradle of Persia,0,"0 .. 20,000",6,999,iWin,,2,0
+855,38190,0,0,0,Awem Studio,0,Casual,999,English,0,0,Romance of Rome,5,"0 .. 20,000",4,999,iWin,,2,0
+856,38210,0,9,0,Spidermonk Entertainment,0,Casual,99,English,0,6,Roogoo,66,"50,000 .. 100,000",272,99,SouthPeak Games,52,3,80
+857,38230,0,56,0,"Enlight Software Limited, PerspectX",0,Simulation,799,"English, French, Spanish - Spain, Italian, German, Polish, Russian",0,39,Hotel Giant 2,91,"50,000 .. 100,000",66,799,Toplitz Productions,7,2,42
+858,38400,278,699,151,Interplay Inc.,0,RPG,999,"English, French, German, Spanish - Spain",64,29,Fallout: A Post Nuclear Role Playing Game,626,"1,000,000 .. 2,000,000",6841,999,Bethesda Softworks,80,20,93
+859,38410,326,696,177,Black Isle Studios,0,RPG,999,"English, French, German",356,62,Fallout 2: A Post Nuclear Role Playing Game,307,"500,000 .. 1,000,000",4653,999,Bethesda Softworks,87,20,93
+860,38420,1,201,34,14° East,0,Strategy,999,"English, French, German",1,21,Fallout Tactics: Brotherhood of Steel,200,"200,000 .. 500,000",826,999,Bethesda Softworks,52,20,80
+861,38430,0,128,0,Xatrix Entertainment,0,Action,999,"English, French",0,131,Kingpin — Life of Crime,41,"50,000 .. 100,000",159,999,Interplay Inc.,49,11,79
+862,38440,630,135,1,Shiny Entertainment,0,,999,"English, French, German, Italian, Spanish - Spain",630,115,Sacrifice,28,"50,000 .. 100,000",315,999,Interplay Inc.,80,12,91
+863,38450,0,92,0,Shiny Entertainment,0,Action,999,"English, French, German, Italian, Polish, Spanish - Spain",0,70,MDK,43,"20,000 .. 50,000",138,999,Interplay Inc.,44,7,74
+864,38460,0,114,2,BioWare Corporation,0,Action,999,"English, French, German, Italian, Spanish - Spain",0,179,MDK 2,19,"20,000 .. 50,000",98,999,Interplay Inc.,58,6,85
+865,38490,0,34,0,Shiny Entertainment,0,"Action, Adventure",1999,English,0,43,Earthworm Jim 2,14,"20,000 .. 50,000",46,1999,Interplay Inc.,44,5,78
+866,38600,181,503,8,Subsoap,0,"Casual, Indie",999,English,181,259,Faerie Solitaire,206,"200,000 .. 500,000",2138,999,Subsoap,80,12,90
+867,38700,1228,1353,7,Two Tribes,0,"Casual, Indie",499,"English, Dutch, French, German, Italian, Spanish - Spain",1228,39,Toki Tori,224,"200,000 .. 500,000",1655,499,Two Tribes Publishing,71,12,88
+868,38720,1228,1095,1,Two Tribes,0,"Casual, Indie, Strategy",499,"English, Dutch, French, German, Italian, Spanish - Spain",1228,45,RUSH,115,"200,000 .. 500,000",1071,499,Two Tribes Publishing,77,7,90
+869,38740,0,128,1,Two Tribes,0,"Action, Indie",699,"English, French, German, Italian, Spanish - Spain, Dutch, Czech, Finnish, Polish, Portuguese, Turkish",0,27,EDGE,145,"200,000 .. 500,000",1705,699,Two Tribes Publishing,84,12,92
+870,39000,13,88,13,"Virtual Heroes, Army Game Studio",0,"Adventure, Simulation, Strategy",0,English,14,40,Moonbase Alpha,1151,"1,000,000 .. 2,000,000",9772,0,NASA,74,20,89
+871,39110,0,210,0,SQUARE ENIX,0,Casual,499,"English, French, German, Japanese, Spanish - Spain",0,304,SEASON OF MYSTERY: The Cherry Blossom Murders,43,"50,000 .. 100,000",154,499,Square Enix,47,7,77
+872,39120,497,1742,368,Trion Worlds,0,"Free to Play, Massively Multiplayer, RPG",0,"English, French, German",613,172,RIFT,2308,"2,000,000 .. 5,000,000",6868,0,Trion Worlds,40,20,74
+873,39140,309,1360,498,Square Enix,0,RPG,1199,"English, German, French, Spanish - Spain",410,284,FINAL FANTASY VII,853,"1,000,000 .. 2,000,000",11584,1199,Square Enix,87,20,92
+874,39150,475,1374,387,Square Enix,0,RPG,1199,"English, French, Italian, German, Spanish - Spain",712,281,FINAL FANTASY VIII,632,"500,000 .. 1,000,000",5232,1199,Square Enix,74,20,88
+875,39160,112,372,83,Obsidian Entertainment,0,"Action, RPG",1499,"English, French, German, Italian, Spanish - Spain, Polish, Russian",172,82,Dungeon Siege III,707,"500,000 .. 1,000,000",1055,1499,Square Enix,19,9,58
+876,39190,79,222,69,Gas Powered Games,0,RPG,699,"English, French, German, Italian, Japanese, Spanish - Spain",79,24,Dungeon Siege,381,"200,000 .. 500,000",1133,699,Square Enix,40,18,74
+877,39200,32,328,73,Gas Powered Games,0,RPG,699,"English, French, German, Italian, Japanese, Spanish - Spain",32,32,Dungeon Siege II,310,"200,000 .. 500,000",780,699,Square Enix,35,14,70
+878,39210,2624,24022,10799,Square Enix,0,"Massively Multiplayer, RPG",1999,"English, French, German, Japanese",1902,2439,FINAL FANTASY XIV Online,1963,"500,000 .. 1,000,000",9395,1999,Square Enix,56,20,82
+879,39391,0,0,0,"Freeze Tag Inc., Joju Games, Linksolutions Ltd., Dekovir Entertainment",0,Casual,1999,English,0,0,Freeze Tag Fun Pack #1,0,"0 .. 20,000",0,1999,Freeze Tag Inc.,,0,0
+880,39392,0,0,0,"Freeze Tag Inc., iQ212",0,Casual,1999,English,0,0,Freeze Tag Fun Pack #2,0,"0 .. 20,000",0,1999,Freeze Tag Inc.,,0,0
+881,39500,183,1260,301,Piranha Bytes,0,"Action, RPG",999,"English, French, German, Spanish - Spain, Italian, Polish, Russian",172,97,Gothic 3,679,"500,000 .. 1,000,000",2874,999,THQ Nordic,52,20,79
+882,39510,271,808,266,Piranha Bytes,0,"Action, RPG",999,"English, French, German, Italian, Spanish - Spain",245,47,Gothic II: Gold Edition,450,"200,000 .. 500,000",3701,999,THQ Nordic,74,20,87
+883,39520,0,195,0,4HEAD Studios,0,"Simulation, Strategy",999,"English, German",0,35,The Guild Gold Edition,73,"100,000 .. 200,000",170,999,THQ Nordic,31,5,69
+884,39530,1,306,18,People Can Fly,0,Action,999,"English, French, German, Spanish - Spain",1,80,Painkiller: Black Edition,57,"200,000 .. 500,000",453,999,THQ Nordic,71,15,89
+885,39540,0,1611,191,Phenomic,0,"Action, RPG",999,"English, French, German",0,283,SpellForce - Platinum Edition,136,"100,000 .. 200,000",693,999,THQ Nordic,58,8,83
+886,39550,0,485,0,"Phenomic, THQ Nordic",0,"RPG, Strategy",1499,"English, French, German, Italian, Spanish - Spain, Polish, Russian",0,96,SpellForce 2 - Anniversary Edition,153,"200,000 .. 500,000",369,1499,THQ Nordic,33,6,70
+887,39560,0,47,2,Homegrown Games,0,Action,999,"English, French, German, Italian, Spanish - Spain",0,26,Painkiller: Resurrection,175,"100,000 .. 200,000",87,999,THQ Nordic,4,2,31
+888,39630,0,77,0,THQ Nordic,0,Action,499,"English, German, Italian, Spanish - Spain",0,27,AquaNox,56,"100,000 .. 200,000",148,499,THQ Nordic,36,9,79
+889,39640,0,105,0,THQ Nordic,0,Action,499,"English, French, German",0,20,AquaNox 2: Revelation,35,"50,000 .. 100,000",105,499,THQ Nordic,42,7,76
+890,39650,120,270,28,4 Head Studios,0,"Simulation, Strategy",999,"English, French, German, Italian, Spanish - Spain",236,50,The Guild II,195,"200,000 .. 500,000",378,999,THQ Nordic,26,10,66
+891,39660,162,286,17,4 Head Studios,0,"Simulation, Strategy",999,"English, French, German, Italian, Spanish - Spain",162,62,The Guild II - Pirates of the European Seas,48,"200,000 .. 500,000",107,999,THQ Nordic,31,6,68
+892,39670,59,194,2,Cauldron,0,Action,499,"English, French, German, Hungarian, Japanese, Russian, Spanish - Spain",59,54,Chaser,217,"100,000 .. 200,000",603,499,THQ Nordic,38,13,75
+893,39680,333,975,289,Rune Forge,0,"Simulation, Strategy",999,"English, German, French, Italian, Spanish - Spain",607,388,The Guild II Renaissance,467,"200,000 .. 500,000",1907,999,THQ Nordic,52,16,79
+894,39690,585,314,29,Spellbound Studios,0,RPG,1999,"English, French, German, Italian, Spanish - Spain, Polish, Russian",585,53,ArcaniA,737,"200,000 .. 500,000",716,1999,THQ Nordic,11,12,51
+895,39800,10,393,9,DiezelPower,0,"Action, Indie",199,"English, Japanese, French, German, Italian, Portuguese, Traditional Chinese, Spanish - Spain, Russian, Simplified Chinese",10,162,Nation Red,270,"200,000 .. 500,000",2075,199,DiezelPower,71,19,88
+896,39900,0,0,0,ZoopTEK,0,Action,499,English,0,0,Coniclysm,15,"0 .. 20,000",14,499,ZoopTEK,10,1,53
+897,40100,156,1820,513,Gas Powered Games,0,Strategy,1299,"English, French, German, Italian, Spanish - Spain",154,695,Supreme Commander 2,881,"1,000,000 .. 2,000,000",5231,1299,Square Enix,63,16,84
+898,40200,0,0,0,Sabi Games,0,Casual,999,English,0,0,ItzaBitza,2,"0 .. 20,000",6,999,Sabi Games,,1,0
+899,40210,0,0,0,Sabi Games,0,Casual,999,English,0,0,ItzaZoo,0,"0 .. 20,000",10,999,Sabi Games,,1,0
+900,40300,1031,646,129,Piranha Bytes,0,RPG,999,"English, French, German, Italian, Spanish - Spain",2002,207,Risen,561,"500,000 .. 1,000,000",3776,999,Deep Silver,69,20,87
+901,40320,0,356,3,Stormregion,0,Strategy,499,"English, French, German, Italian",0,386,Rush for Berlin Gold,13,"20,000 .. 50,000",87,499,Deep Silver,69,3,87
+902,40330,49,510,7,Animation Arts,0,Adventure,999,"English, French, German, Italian",49,333,Secret Files: Tunguska,32,"50,000 .. 100,000",134,999,Deep Silver,52,4,83
+903,40340,0,948,0,Animation Arts,0,Adventure,999,"English, French, German, Italian, Spanish - Spain",0,1335,Secret Files 2: Puritas Cordis,17,"20,000 .. 50,000",58,999,Deep Silver,45,3,76
+904,40350,0,590,4,Animation Arts,0,Adventure,999,"English, French, German, Italian, Spanish - Spain",0,864,Lost Horizon,26,"50,000 .. 100,000",205,999,Deep Silver,71,2,89
+905,40380,0,341,1,Techland,0,Racing,499,"English, French, German, Italian, Spanish - Spain",0,33,nail'd,212,"100,000 .. 200,000",855,499,Deep Silver,52,6,80
+906,40390,1208,555,107,Piranha Bytes,0,RPG,999,"English, French, German, Italian, Spanish - Spain, Russian, Czech, Polish",2319,191,Risen 2: Dark Waters,858,"500,000 .. 1,000,000",2938,999,Deep Silver,45,16,77
+907,40400,104,301,14,"Arcen Games, LLC",0,"Indie, Strategy",999,English,121,241,AI War: Fleet Command,199,"200,000 .. 500,000",1093,999,"Arcen Games, LLC",61,20,87
+908,40420,0,229,0,"Arcen Games, LLC",0,"Casual, Indie",499,English,0,27,Tidalis,66,"100,000 .. 200,000",130,499,"Arcen Games, LLC",27,20,70
+909,40500,0,20,0,Makivision Games,0,"Action, Strategy, Indie",299,"English, German",0,24,Sacraboar,42,"50,000 .. 100,000",16,299,Makivision Games,3,4,33
+910,40700,682,218,36,Amanita Design,0,"Adventure, Indie",999,"English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",1289,135,Machinarium,259,"500,000 .. 1,000,000",5310,999,Amanita Design,93,20,95
+911,40720,37,44,3,Amanita Design,0,"Adventure, Casual, Indie",499,English,44,28,Samorost 2,141,"200,000 .. 500,000",707,499,Amanita Design,58,14,83
+912,40800,73,427,132,Team Meat,0,Indie,1499,"English, Russian",20,141,Super Meat Boy,1283,"2,000,000 .. 5,000,000",24050,1499,Electronic Arts,90,20,94
+913,40930,0,69,2,The Odd Gentlemen,0,"Adventure, Indie",499,"English, French, German, Italian, Spanish - Spain",0,46,The Misadventures of P.B. Winterbottom,41,"100,000 .. 200,000",320,499,2K,71,9,89
+914,40950,133,538,250,FireFly Studios,0,"Simulation, Strategy",599,"English, French, German, Italian, Spanish - Spain, Polish, Japanese, Portuguese - Brazil, Russian, Simplified Chinese",163,156,Stronghold HD,186,"200,000 .. 500,000",2785,599,FireFly Studios,87,17,93
+915,40960,84,515,143,FireFly Studios,0,"Simulation, Strategy",1499,"English, French, Italian, German, Spanish - Spain, Polish, Russian, Simplified Chinese",123,136,Stronghold 2: Steam Edition,120,"0 .. 20,000",645,1499,FireFly Studios,61,9,84
+916,40970,236,677,872,FireFly Studios,0,"Simulation, Strategy",999,"English, French, Italian, German, Spanish - Spain, Polish, Japanese, Russian, Simplified Chinese, Ukrainian",163,169,Stronghold Crusader HD,159,"500,000 .. 1,000,000",3979,999,FireFly Studios,95,20,96
+917,40980,271,332,106,FireFly Studios,0,"Simulation, Strategy",1499,"English, French, Italian, German, Spanish - Spain, Polish, Russian, Simplified Chinese",316,158,Stronghold Legends: Steam Edition,115,"500,000 .. 1,000,000",387,1499,FireFly Studios,45,12,78
+918,40990,169,448,70,Illusion Softworks,0,"Action, Adventure",1499,"English, French, German, Italian, Spanish - Spain, Czech, Polish, Russian",259,187,Mafia,141,"200,000 .. 500,000",1552,1499,2K,80,13,91
+919,41000,94,279,33,Croteam,0,"Action, Indie",1499,"English, French, German, Italian, Spanish - Spain, Russian",128,171,Serious Sam HD: The First Encounter,260,"1,000,000 .. 2,000,000",3893,1499,Devolver Digital,87,20,93
+920,41014,0,0,0,Croteam,0,"Action, Indie",1999,"English, French, German, Italian, Spanish - Spain, Russian",0,0,Serious Sam HD: The Second Encounter,6,"0 .. 20,000",121,1999,Devolver Digital,93,20,95
+921,41050,75,166,10,Croteam,0,"Action, Indie",999,English,65,34,Serious Sam Classic: The First Encounter,35,"100,000 .. 200,000",1374,999,Devolver Digital,97,20,97
+922,41060,32,290,16,Croteam,0,"Action, Indie",999,English,32,30,Serious Sam Classic: The Second Encounter,23,"100,000 .. 200,000",780,999,Devolver Digital,97,17,97
+923,41070,80,503,138,Croteam,0,"Action, Indie",3999,"English, French, German, Italian, Spanish - Spain, Russian, Japanese, Simplified Chinese, Bulgarian",54,230,Serious Sam 3: BFE,1936,"2,000,000 .. 5,000,000",15422,3999,Devolver Digital,71,20,88
+924,41100,0,73,3,Konstantin Koshutin,0,"Action, Indie",499,English,0,12,Hammerfight,516,"200,000 .. 500,000",1045,499,KranX Productions,27,12,89
+925,41300,0,463,4,Nimbly Games,0,"Action, Free to Play, Indie",0,English,0,50,Altitude,127,"200,000 .. 500,000",1538,0,Nimbly Games,84,11,92
+926,41400,0,6,0,"Dream Forge Entertainment, LLC",0,"Action, Indie",299,English,0,6,Doom Rails,20,"0 .. 20,000",9,299,"Dream Forge Entertainment, LLC",4,2,21
+927,41500,52,784,58,Runic Games,0,RPG,1499,English,52,350,Torchlight,307,"500,000 .. 1,000,000",3774,1499,Runic Games,84,20,91
+928,41600,0,55,0,VIS Interactive,0,"Action, Adventure",1999,English,0,93,Earthworm Jim 3D,34,"0 .. 20,000",34,1999,Interplay Inc.,11,6,46
+929,41660,0,0,0,Oasis Games,0,"Action, Adventure, Indie",999,"English, French, Spanish - Spain, German",0,0,Tommy Tronic,7,"0 .. 20,000",7,999,Interplay Inc.,11,3,58
+930,41680,0,8,0,Independent Programmist Group,0,Indie,999,English,0,8,Death and the Fly,9,"0 .. 20,000",3,999,Interplay Inc.,3,1,25
+931,41700,134,1080,366,GSC Game World,0,"Action, RPG",1999,"English, German, French, Italian, Russian, Spanish - Spain, Ukrainian",59,209,S.T.A.L.K.E.R.: Call of Pripyat,459,"1,000,000 .. 2,000,000",9871,1999,GSC Game World,93,20,95
+932,41730,0,249,0,Coreplay GmbH,0,"Action, Casual, Indie",999,,0,109,Ion Assault,40,"50,000 .. 100,000",91,999,bitComposer Games,31,7,72
+933,41740,0,240,1,Ice-Pick Lodge,0,"Action, Adventure, Simulation",999,"English, French, German, Italian, Spanish - Spain, Russian, Polish",0,112,Cargo! The Quest for Gravity,72,"50,000 .. 100,000",258,999,"Ice-Pick Lodge, bitComposer Games, Viva Media, Nordic Games",47,8,80
+934,41800,0,242,5,Positech Games,0,"Indie, Simulation, Strategy",1499,English,0,145,Gratuitous Space Battles,165,"500,000 .. 1,000,000",504,1499,Positech Games,42,11,81
+935,41900,185,201,10,inXile Entertainment,0,"Action, Adventure, RPG",999,"English, French, Italian, German, Spanish - Spain, Polish, Russian",185,106,The Bard's Tale,190,"200,000 .. 500,000",637,999,inXile Entertainment,45,11,79
+936,42000,0,121,0,Trinoteam,0,"Casual, Indie",499,English,0,121,Trino,5,"0 .. 20,000",9,499,LoadComplete,24,2,63
+937,42120,20,290,6,Fatshark,0,Action,999,"English, French, German, Italian, Spanish - Spain",20,41,Lead and Gold: Gangs of the Wild West,536,"500,000 .. 1,000,000",1450,999,Fatshark,38,6,71
+938,42140,98,173,1,Fatshark,0,"Adventure, Casual, Indie",999,"English, French, German, Italian, Spanish - Spain, Swedish",98,74,Hamilton's Great Adventure,83,"100,000 .. 200,000",170,999,Fatshark,28,6,68
+939,42147,0,0,0,Fatshark,0,"Adventure, Casual, Indie",99,"English, French, Italian, German, Spanish - Spain, Swedish",0,0,Hamilton's Great Adventure - Retro Fever DLC,0,"0 .. 20,000",0,99,Fatshark,,0,0
+940,42170,0,233,1,Fatshark,0,"Action, Adventure, Indie, RPG, Strategy",1499,"English, German, Portuguese, Portuguese - Brazil, Russian, Polish, Hungarian",0,152,Krater,326,"100,000 .. 200,000",428,1499,Fatshark,16,13,58
+941,42200,0,249,0,HeR Interactive,0,,699,English,0,249,Nancy Drew Dossier: Resorting to Danger!,6,"0 .. 20,000",27,699,HeR Interactive,54,3,77
+942,42210,259,248,6,HeR Interactive,0,Adventure,699,English,259,314,Nancy Drew: Secrets Can Kill REMASTERED,21,"20,000 .. 50,000",45,699,HeR Interactive,30,5,71
+943,42220,0,0,0,HeR Interactive,0,Adventure,699,English,0,0,Nancy Drew: The Captive Curse,7,"20,000 .. 50,000",46,699,HeR Interactive,66,6,85
+944,42230,0,86,0,HeR Interactive,0,Adventure,699,English,0,86,Nancy Drew: Trail of the Twister,6,"0 .. 20,000",20,699,HeR Interactive,44,6,66
+945,42500,0,74,1,Dark Water Studios Ltd,0,"Action, Indie",299,English,0,29,DogFighter,152,"200,000 .. 500,000",230,299,Instinct Software Ltd.,20,5,62
+946,42670,72,403,16,Raven Software,0,Action,2999,"English, French, German, Italian, Spanish - Spain",110,303,Singularity,223,"500,000 .. 1,000,000",2687,2999,Activision,84,19,92
+947,42700,96,1445,538,Treyarch,0,Action,3999,"English, German, Italian, Spanish - Spain, French",45,536,Call of Duty: Black Ops,1795,"2,000,000 .. 5,000,000",13936,3999,Activision,71,20,85
+948,42810,0,59,4,Crystal Empire Games,0,Strategy,999,English,0,80,For The Glory: A Europa Universalis Game,23,"20,000 .. 50,000",55,999,Paradox Interactive,33,3,71
+949,42850,138,339,29,BL-Logic,0,Strategy,999,English,138,32,Arsenal of Democracy: A Hearts of Iron Game,30,"50,000 .. 100,000",170,999,Paradox Interactive,63,4,87
+950,42890,0,496,29,Kerberos Productions Inc.,0,Strategy,999,English,0,58,Sword of the Stars: Complete Collection,46,"100,000 .. 200,000",350,999,Paradox Interactive,71,8,88
+951,42900,0,0,0,Paradox Development Studio,0,Strategy,499,English,0,0,Hearts of Iron III: Semper Fi,0,"0 .. 20,000",1,499,Paradox Interactive,,3,0
+952,42910,81,619,219,Arrowhead Game Studios,75,"Action, RPG",999,"English, Russian, French, German, Italian, Polish, Spanish - Spain",78,303,Magicka,1798,"2,000,000 .. 5,000,000",20759,249,Paradox Interactive,84,20,91
+953,42920,0,44,0,NeoCoreGames,0,Strategy,999,English,0,27,The Kings' Crusade,71,"20,000 .. 50,000",41,999,Paradox Interactive,5,2,38
+954,42930,0,41,0,1C:InoCo,0,Strategy,199,"English, Russian",0,79,Elven Legacy: Magic,3,"20,000 .. 50,000",8,199,1C Entertainment,,1,0
+955,42940,0,216,0,1C:InoCo,0,Strategy,199,"English, Russian",0,324,Elven Legacy: Siege,3,"50,000 .. 100,000",4,199,1C Entertainment,,1,0
+956,42950,0,268,0,1C:InoCo,0,Strategy,199,"English, Russian",0,535,Elven Legacy: Ranger,2,"20,000 .. 50,000",9,199,1C Entertainment,,1,0
+957,42960,188,2018,902,Paradox Development Studio,0,Strategy,1999,"English, French, German",102,343,Victoria II,605,"500,000 .. 1,000,000",4565,1999,Paradox Interactive,71,20,88
+958,42980,0,115,0,Paradox Development Studio,0,Strategy,999,English,0,10,Victoria I Complete,40,"50,000 .. 100,000",86,999,Paradox Interactive,30,4,67
+959,42990,0,1481,12,Kerberos Productions,0,Strategy,1999,English,0,114,Sword of the Stars II: Enhanced Edition,441,"100,000 .. 200,000",328,1999,Paradox Interactive,7,10,42
+960,43000,0,310,2,Double Helix Games,0,Action,999,"English, French, Italian, German, Spanish - Spain, Russian",0,231,Front Mission Evolved,308,"200,000 .. 500,000",468,999,Square Enix,20,8,59
+961,43100,0,205,0,Blue Fang,0,Simulation,1499,English,0,192,World of Zoo,29,"50,000 .. 100,000",111,1499,HandyGames,49,4,77
+962,43190,0,327,6,KTX Software,0,"Action, Indie",899,"English, French, German, Italian, Spanish - Spain",0,233,The Haunted: Hells Reach,77,"100,000 .. 200,000",501,899,Signo &amp; Arte,66,11,86
+963,43500,0,116,1,Realmforge Studios,0,"Simulation, Strategy",999,"English, German",0,100,M.U.D. TV,85,"20,000 .. 50,000",70,999,Kalypso Media Digital,9,3,40
+964,43600,0,268,0,HeR Interactive,0,Adventure,699,English,0,521,Nancy Drew: Warnings at Waverly Academy,4,"20,000 .. 50,000",42,699,HeR Interactive,80,6,90
+965,44100,0,49,0,New Star Games Ltd,0,"Action, Indie, Racing",499,"English, Dutch, French, German, Hungarian, Italian, Polish, Portuguese, Spanish - Spain",0,23,Super Laser  Racer,11,"20,000 .. 50,000",72,499,New Star Games Ltd,66,3,85
+966,44350,150,779,338,"Codemasters Racing, Feral Interactive (Mac)",0,"Racing, Sports",2999,"English, German, French, Italian, Spanish - Spain, Japanese, Polish, Portuguese - Brazil",124,279,GRID 2,2384,"1,000,000 .. 2,000,000",10047,2999,"Codemasters, Feral Interactive (Mac)",52,19,80
+967,44360,1,734,8,Codemasters Birmingham,0,"Racing, Simulation, Sports",1499,"English, German, French, Italian, Spanish - Spain",1,275,F1 2011,106,"100,000 .. 200,000",227,1499,Codemasters,30,4,70
+968,44600,0,81,0,SimBin Studios AB,0,"Racing, Sports",699,English,0,26,GTR - FIA GT Racing Game,28,"20,000 .. 50,000",43,699,SimBin,20,3,57
+969,44680,0,1,0,SimBin Studios AB,0,Racing,1299,"English, French, German, Italian, Spanish - Spain",0,1,RACE Injection,1,"0 .. 20,000",11,1299,"RaceRoom Entertainment AG, SimBin",,2,0
+970,44690,0,166,0,SimBin Studios AB,0,"Racing, Simulation, Sports",799,English,0,1,GT Legends,23,"100,000 .. 200,000",199,799,SimBin,74,3,88
+971,45000,0,481,6,Cadenza Interactive,0,"Indie, Strategy",999,English,0,227,Sol Survivor,29,"50,000 .. 100,000",291,999,Cadenza Interactive,77,9,90
+972,45100,134,259,5,Artery Games,0,"Casual, Indie",499,"English, French, German, Spanish - Spain, Hungarian, Russian",134,152,Secret of the Magic Crystals,265,"100,000 .. 200,000",1334,499,Artery Games,58,13,81
+973,45300,0,559,16,Gaijin Entertainment,0,Simulation,999,"English, Russian, French, German, Italian, Spanish - Spain",0,258,Wings of Prey,145,"100,000 .. 200,000",311,999,Gaijin Entertainment,30,8,66
+974,45400,0,232,1,Nemesys Games,0,Indie,99,"English, French, German, Italian, Spanish - Spain",0,128,Fortix,70,"100,000 .. 200,000",803,99,Nemesys Games,80,9,93
+975,45410,0,99,0,Nemesys Games,0,Racing,999,"English, French, Italian, German, Spanish - Spain, Polish, Turkish",0,35,Ignite,114,"50,000 .. 100,000",153,999,Nemesys Games,17,1,52
+976,45420,0,0,0,Nemesys Games,0,"Casual, Indie, Simulation",999,"English, French, German, Spanish - Spain, Portuguese - Brazil, Russian",0,0,Land It!,1,"0 .. 20,000",10,999,Nemesys Games,,3,0
+977,45450,0,249,3,Nemesys Games,0,"Casual, Indie",199,"English, French, German, Hungarian, Italian, Spanish - Spain",0,156,Fortix 2,45,"100,000 .. 200,000",462,199,Nemesys Games,80,8,91
+978,45700,81,610,17,Capcom,0,"Action, Adventure",1999,English,98,184,Devil May Cry 4,139,"200,000 .. 500,000",1610,1999,Capcom,84,18,91
+979,45710,0,174,3,Airtight Games,0,"Action, Adventure",999,"English, French, German, Italian, Spanish - Spain",0,133,Dark Void,228,"50,000 .. 100,000",216,999,Capcom,10,8,49
+980,45720,0,136,1,"CAPCOM CO., LTD.",0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain",0,95,Lost Planet: Extreme Condition Colonies Edition,92,"50,000 .. 100,000",131,1999,Capcom,18,5,57
+981,45730,6,71,0,Other Ocean Interactive,0,"Action, Adventure",499,"English, French, German, Italian, Spanish - Spain",6,27,Dark Void Zero,138,"20,000 .. 50,000",130,499,Capcom,10,7,44
+982,45740,95,489,50,Capcom Vancouver,0,"Action, Adventure",1999,"English, French, Italian, Spanish - Spain, Japanese, Korean",132,221,Dead Rising 2,912,"500,000 .. 1,000,000",2654,1999,Capcom,40,20,74
+983,45750,2,368,17,"CAPCOM CO., LTD.",0,"Action, Adventure",1999,"English, French, German, Italian, Spanish - Spain, Japanese, Korean, Polish, Russian",2,130,Lost Planet 2,487,"200,000 .. 500,000",978,1999,Capcom,27,14,65
+984,45760,185,2068,166,Capcom,0,Action,2999,"English, French, German, Italian, Spanish - Spain, Czech, Dutch, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese",238,241,Ultra Street Fighter IV,1134,"500,000 .. 1,000,000",8181,2999,Capcom,69,20,89
+985,45770,85,486,22,Capcom Vancouver,0,"Action, Adventure",1999,"English, French, Italian, Spanish - Spain, Japanese, Korean",93,257,Dead Rising 2: Off the Record,358,"200,000 .. 500,000",1350,1999,Capcom,49,16,79
+986,46000,0,99,0,Ludosity,0,"Adventure, Indie",499,English,0,37,Bob Came in Pieces,28,"50,000 .. 100,000",67,499,Ludosity,33,4,70
+987,46200,0,38,0,SkyRiver Studios,0,"Action, Racing",299,"English, Russian, French, Italian, German, Spanish - Spain, Czech",0,52,A.I.M. Racing,20,"20,000 .. 50,000",50,299,1C Entertainment,35,2,75
+988,46250,0,88,0,The Farm 51,0,Action,699,"English, Russian, German",0,60,NecroVisioN: Lost Company,62,"100,000 .. 200,000",160,699,1C Entertainment,36,7,75
+989,46260,0,513,11,Elite Games Team,0,"RPG, Strategy",499,"English, Russian",0,190,Star Wolves 3: Civil War,89,"100,000 .. 200,000",302,499,1C Entertainment,45,5,80
+990,46270,0,231,5,X-Bow Software,0,"RPG, Strategy",399,"English, German, Russian",0,17,Star Wolves,40,"50,000 .. 100,000",179,399,1C Entertainment,54,4,80
+991,46280,0,101,0,X-Bow Software,0,"RPG, Strategy",399,English,0,31,Star Wolves 2,49,"20,000 .. 50,000",41,399,1C Entertainment,9,3,41
+992,46290,0,98,0,1C Entertainment,0,Strategy,399,"English, Russian",0,59,Theatre of War,85,"50,000 .. 100,000",112,399,1C Entertainment,16,6,54
+993,46340,0,138,0,1C Entertainment,0,"Simulation, Strategy",499,"English, Russian",0,23,Theatre of War 2: Africa 1943,51,"50,000 .. 100,000",85,499,1C Entertainment,22,4,65
+994,46350,0,347,0,Unicorn Games Studio,0,Strategy,399,"English, Russian, German, Italian, Spanish - Spain",0,111,Real Warfare 1242,29,"20,000 .. 50,000",32,399,1C Entertainment,13,4,52
+995,46360,0,407,5,1C Entertainment,0,"Simulation, Strategy",499,"English, Russian, German",0,249,Theatre of War 2: Kursk 1943,39,"50,000 .. 100,000",81,499,1C Entertainment,28,4,65
+996,46370,0,220,2,SoftLab-NSK,0,Simulation,499,"English, German",0,37,Rig n Roll,173,"50,000 .. 100,000",165,499,1C Entertainment,10,3,52
+997,46380,0,46,0,Lesta Studio,0,Strategy,399,"English, Russian, German, Japanese",0,72,Reign: Conflict of Nations,44,"20,000 .. 50,000",36,399,1C Entertainment,9,2,40
+998,46400,0,105,1,"Headup Games, Clockstone",0,"Action, RPG",499,"English, German",0,24,Greed: Black Border,152,"50,000 .. 100,000",104,499,Headup Games,7,9,43
+999,46410,0,129,0,ClockStone Studios,0,"Action, Indie, RPG",999,"English, German",0,21,Avencast: Rise of the Mage,173,"100,000 .. 200,000",343,999,Meridian4,27,11,69
